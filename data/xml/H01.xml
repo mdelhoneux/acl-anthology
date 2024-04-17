@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="H01">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the First International Conference on Human Language Technology Research</booktitle>
+      <venue>hlt</venue>
+      <year>2001</year>
     </meta>
     <frontmatter>
       <bibkey>hlt-2001-international</bibkey>
@@ -547,7 +549,7 @@
     <paper id="61">
       <title>Robust Knowledge Discovery from Parallel Speech and Text Sources</title>
       <author id="frederick-jelinek"><first>F.</first><last>Jelinek</last></author>
-      <author id="william-byrne"><first>W.</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>W.</first><last>Byrne</last></author>
       <author id="sanjeev-khudanpur"><first>S.</first><last>Khudanpur</last></author>
       <author id="barbora-hladka"><first>B.</first><last>Hladká</last></author>
       <author id="hermann-ney"><first>H.</first><last>Ney</last></author>

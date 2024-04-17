@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W04">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 7th Meeting of the <fixed-case>ACL</fixed-case> Special Interest Group in Computational Phonology: Current Themes in Computational Phonology and Morphology</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>sigmorphon</venue>
     </meta>
     <frontmatter>
       <url hash="83bb3c88">W04-0100</url>
@@ -106,13 +107,14 @@
       <bibkey>oflazer-yilmaz-2004-vi</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Discourse Annotation</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="bc53fe4e">W04-0200</url>
@@ -264,13 +266,14 @@
       <bibkey>zaenen-etal-2004-animacy</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Incremental Parsing: Bringing Engineering and Cognition Together</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="9057afbd">W04-0300</url>
@@ -378,13 +381,14 @@
       <bibkey>vasishth-lewis-2004-modeling</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Multiword Expressions: Integrating Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>mwe</venue>
     </meta>
     <frontmatter>
       <url hash="fc9e71f0">W04-0400</url>
@@ -508,13 +512,14 @@
       <bibkey>meyers-etal-2004-np</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Conference on Question Answering in Restricted Domains</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="8597cdd9">W04-0500</url>
@@ -600,13 +605,14 @@
       <bibkey>niu-hirst-2004-analysis</bibkey>
     </paper>
   </volume>
-  <volume id="6">
+  <volume id="6" type="proceedings">
     <meta>
       <booktitle>Proceeedings of the Workshop on <fixed-case>NLP</fixed-case> and <fixed-case>XML</fixed-case> (<fixed-case>NLPXML</fixed-case>-2004): <fixed-case>RDF</fixed-case>/<fixed-case>RDFS</fixed-case> and <fixed-case>OWL</fixed-case> in Language Technology</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="84c57a67">W04-0600</url>
@@ -696,13 +702,14 @@
       <bibkey>estival-etal-2004-towards</bibkey>
     </paper>
   </volume>
-  <volume id="7">
+  <volume id="7" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Conference on Reference Resolution and Its Applications</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="abf6723a">W04-0700</url>
@@ -822,13 +829,14 @@
       <bibkey>yeh-chen-2004-topic</bibkey>
     </paper>
   </volume>
-  <volume id="8">
+  <volume id="8" type="proceedings">
     <meta>
       <booktitle>Proceedings of <fixed-case>SENSEVAL</fixed-case>-3, the Third International Workshop on the Evaluation of Systems for the Semantic Analysis of Text</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>semeval</venue>
     </meta>
     <frontmatter>
       <url hash="b62be0eb">W04-0800</url>
@@ -1425,13 +1433,14 @@
       <bibkey>yuret-2004-experiments</bibkey>
     </paper>
   </volume>
-  <volume id="9">
+  <volume id="9" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2nd Workshop on Text Meaning and Interpretation</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="79803f53">W04-0900</url>
@@ -1565,13 +1574,14 @@
       <bibkey>max-2004-interpreting</bibkey>
     </paper>
   </volume>
-  <volume id="10">
+  <volume id="10" type="proceedings">
     <meta>
       <booktitle>Text Summarization Branches Out</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3d5a1098">W04-1000</url>
@@ -1729,13 +1739,14 @@
       <bibkey>hu-etal-2004-chinese</bibkey>
     </paper>
   </volume>
-  <volume id="11">
+  <volume id="11" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third <fixed-case>SIGHAN</fixed-case> Workshop on <fixed-case>C</fixed-case>hinese Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>sighan</venue>
     </meta>
     <frontmatter>
       <url hash="f8344ab7">W04-1100</url>
@@ -1938,13 +1949,17 @@
       <bibkey>luo-song-2004-integrated</bibkey>
     </paper>
   </volume>
-  <volume id="12">
+  <volume id="12" type="proceedings">
     <meta>
       <booktitle>Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (<fixed-case>NLPBA</fixed-case>/<fixed-case>B</fixed-case>io<fixed-case>NLP</fixed-case>)</booktitle>
+      <editor><first>Nigel</first><last>Collier</last></editor>
+      <editor><first>Patrick</first><last>Ruch</last></editor>
+      <editor><first>Adeline</first><last>Nazarenko</last></editor>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28th and 29th</month>
       <year>2004</year>
+      <venue>bionlp</venue>
     </meta>
     <frontmatter>
       <url hash="58b591a2">W04-1200</url>
@@ -2073,6 +2088,9 @@
     <paper id="13">
       <title>Introduction to the Bio-entity Recognition Task at <fixed-case>JNLPBA</fixed-case></title>
       <author><first>Nigel</first><last>Collier</last></author>
+      <author><first>Tomoko</first><last>Ohta</last></author>
+      <author><first>Yoshimasa</first><last>Tsuruoka</last></author>
+      <author><first>Yuka</first><last>Tateisi</last></author>
       <author><first>Jin-Dong</first><last>Kim</last></author>
       <pages>73–78</pages>
       <url hash="90440c2b">W04-1213</url>
@@ -2109,7 +2127,7 @@
       <title>Exploiting Context for Biomedical Entity Recognition: From Syntax to the Web</title>
       <author><first>Jenny</first><last>Finkel</last></author>
       <author><first>Shipra</first><last>Dingare</last></author>
-      <author><first>Huy</first><last>Nguyen</last></author>
+      <author id="huy-nguyen-stanford"><first>Huy</first><last>Nguyen</last></author>
       <author><first>Malvina</first><last>Nissim</last></author>
       <author><first>Christopher</first><last>Manning</last></author>
       <author><first>Gail</first><last>Sinclair</last></author>
@@ -2150,7 +2168,7 @@
       <bibkey>settles-2004-biomedical</bibkey>
     </paper>
   </volume>
-  <volume id="13">
+  <volume id="13" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Psycho-Computational Models of Human Language Acquisition</booktitle>
       <editor><first>William Gregory</first><last>Sakas</last></editor>
@@ -2158,6 +2176,7 @@
       <address>Geneva, Switzerland</address>
       <month>August 28th</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="9b82e9aa">W04-1300</url>
@@ -2270,13 +2289,14 @@
       <bibkey>xanthos-2004-combining</bibkey>
     </paper>
   </volume>
-  <volume id="14">
+  <volume id="14" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Second International Workshop on Language Resources for Translation Work, Research and Training</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28th</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="129c5c85">W04-1400</url>
@@ -2347,13 +2367,14 @@
       <bibkey>bowker-barlow-2004-bilingual</bibkey>
     </paper>
   </volume>
-  <volume id="15">
+  <volume id="15" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Recent Advances in Dependency Grammar</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="a3a49ff2">W04-1500</url>
@@ -2368,7 +2389,7 @@
       <bibkey>bosco-lombardo-2004-dependency</bibkey>
     </paper>
     <paper id="2">
-      <title>Relative clauses in <fixed-case>H</fixed-case>indi and <fixed-case>A</fixed-case>rabic: A Paninian Dependency Grammar Analysis</title>
+      <title>Relative clauses in <fixed-case>H</fixed-case>indi and <fixed-case>A</fixed-case>rabic: A <fixed-case>P</fixed-case>aninian Dependency Grammar Analysis</title>
       <author><first>Mark</first><last>Pedersen</last></author>
       <author><first>Domenyk</first><last>Eades</last></author>
       <author><first>Samir K.</first><last>Amin</last></author>
@@ -2469,13 +2490,14 @@
       <bibkey>ding-palmer-2004-synchronous</bibkey>
     </paper>
   </volume>
-  <volume id="16">
+  <volume id="16" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Computational Approaches to <fixed-case>A</fixed-case>rabic Script-based Languages</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28th</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="8d0b44da">W04-1600</url>
@@ -2614,13 +2636,14 @@
       <bibkey>marcu-etal-2004-language</bibkey>
     </paper>
   </volume>
-  <volume id="17">
+  <volume id="17" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on e<fixed-case>L</fixed-case>earning for Computational Linguistics and Computational Linguistics for e<fixed-case>L</fixed-case>earning</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3dfc6732">W04-1700</url>
@@ -2751,13 +2774,14 @@
       <bibkey>mei-hu-2004-text</bibkey>
     </paper>
   </volume>
-  <volume id="18">
+  <volume id="18" type="proceedings">
     <meta>
       <booktitle>Proceedings of <fixed-case>C</fixed-case>ompu<fixed-case>T</fixed-case>erm 2004: 3rd International Workshop on Computational Terminology</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 29</month>
       <year>2004</year>
+      <venue>computerm</venue>
     </meta>
     <frontmatter>
       <url hash="82ed9459">W04-1800</url>
@@ -2881,7 +2905,7 @@
       <bibkey>takeuchi-etal-2004-construction</bibkey>
     </paper>
   </volume>
-  <volume id="19">
+  <volume id="19" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 5th International Workshop on Linguistically Interpreted Corpora</booktitle>
       <editor><first>Silvia</first><last>Hansen-Schirra</last></editor>
@@ -2891,6 +2915,7 @@
       <address>Geneva, Switzerland</address>
       <month>Aug 29</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3d424ffe">W04-1900</url>
@@ -3003,13 +3028,14 @@
       <bibkey>weber-muller-2004-word</bibkey>
     </paper>
   </volume>
-  <volume id="20">
+  <volume id="20" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 3rd workshop on <fixed-case>RO</fixed-case>bust Methods in Analysis of Natural Language Data (<fixed-case>ROMAND</fixed-case> 2004)</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 29th</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="5961af5b">W04-2000</url>
@@ -3120,13 +3146,14 @@
       <bibkey>sedding-kazakov-2004-wordnet</bibkey>
     </paper>
   </volume>
-  <volume id="21">
+  <volume id="21" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Enhancing and Using Electronic Dictionaries</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 29th</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="151dee55">W04-2100</url>
@@ -3289,13 +3316,14 @@
       <bibkey>sheremetyeva-2004-application</bibkey>
     </paper>
   </volume>
-  <volume id="22">
+  <volume id="22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Multilingual Linguistic Resources</booktitle>
       <publisher>COLING</publisher>
       <address>Geneva, Switzerland</address>
       <month>August 28</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="6e7ea2fd">W04-2200</url>
@@ -3439,13 +3467,14 @@
       <bibkey>reynaert-2004-multilingual</bibkey>
     </paper>
   </volume>
-  <volume id="23">
+  <volume id="23" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 5th <fixed-case>SIG</fixed-case>dial Workshop on Discourse and Dialogue at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Cambridge, Massachusetts, USA</address>
       <month>April 30 - May 1</month>
       <year>2004</year>
+      <venue>sigdial</venue>
     </meta>
     <frontmatter>
       <url hash="4d91bc48">W04-2300</url>
@@ -3711,13 +3740,14 @@
       <bibkey>clark-popescu-belis-2004-multi</bibkey>
     </paper>
   </volume>
-  <volume id="24">
+  <volume id="24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Eighth Conference on Computational Natural Language Learning (<fixed-case>C</fixed-case>o<fixed-case>NLL</fixed-case>-2004) at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 6 - May 7</month>
       <year>2004</year>
+      <venue>conll</venue>
     </meta>
     <frontmatter>
       <url hash="564f3fa1">W04-2400</url>
@@ -3927,13 +3957,14 @@
       <bibkey>palmer-2004-putting</bibkey>
     </paper>
   </volume>
-  <volume id="25">
+  <volume id="25" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Pragmatics of Question Answering at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 2 - May 7</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="095df242">W04-2500</url>
@@ -4039,13 +4070,14 @@
       <bibkey>basili-etal-2004-ontological</bibkey>
     </paper>
   </volume>
-  <volume id="26">
+  <volume id="26" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Computational Lexical Semantics Workshop at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 2 - May 7</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="07210b5a">W04-2600</url>
@@ -4173,13 +4205,14 @@
       <bibkey>lin-2004-fine</bibkey>
     </paper>
   </volume>
-  <volume id="27">
+  <volume id="27" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop Frontiers in Corpus Annotation at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 2 - May 7</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="d9483e51">W04-2700</url>
@@ -4300,13 +4333,14 @@
       <bibkey>zabokrtsky-lopatkova-2004-valency</bibkey>
     </paper>
   </volume>
-  <volume id="28">
+  <volume id="28" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2nd International Workshop on Scalable Natural Language Understanding (<fixed-case>S</fixed-case>ca<fixed-case>N</fixed-case>a<fixed-case>LU</fixed-case> 2004) at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 2 - May 7</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="ffccd06a">W04-2800</url>
@@ -4392,13 +4426,14 @@
       <bibkey>klarner-2004-hyperbug</bibkey>
     </paper>
   </volume>
-  <volume id="29">
+  <volume id="29" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Interdisciplinary Approaches to Speech Indexing and Retrieval at <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 6</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="92963e1a">W04-2900</url>
@@ -4472,13 +4507,14 @@
       <bibkey>allauzen-etal-2004-general</bibkey>
     </paper>
   </volume>
-  <volume id="30">
+  <volume id="30" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004 Workshop on Spoken Language Understanding for Conversational Systems and Higher Level Linguistic Information for Speech Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 2 - May 7</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="506fd362">W04-3000</url>
@@ -4599,13 +4635,14 @@
       <bibkey>eagle-singh-2004-context</bibkey>
     </paper>
   </volume>
-  <volume id="31">
+  <volume id="31" type="proceedings">
     <meta>
       <booktitle><fixed-case>HLT</fixed-case>-<fixed-case>NAACL</fixed-case> 2004 Workshop: Linking Biological Literature, Ontologies and Databases</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Boston, Massachusetts, USA</address>
       <month>May 6</month>
       <year>2004</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="739a66ef">W04-3100</url>
@@ -4733,7 +4770,7 @@
       <bibkey>mercer-di-marco-2004-design</bibkey>
     </paper>
   </volume>
-  <volume id="32">
+  <volume id="32" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing</booktitle>
       <editor><first>Dekang</first><last>Lin</last></editor>
@@ -4742,6 +4779,7 @@
       <address>Barcelona, Spain</address>
       <month>July</month>
       <year>2004</year>
+      <venue>emnlp</venue>
     </meta>
     <frontmatter>
       <url hash="3cd9fedc">W04-3200</url>
@@ -4751,7 +4789,7 @@
       <title>Max-Margin Parsing</title>
       <author><first>Ben</first><last>Taskar</last></author>
       <author><first>Dan</first><last>Klein</last></author>
-      <author><first>Mike</first><last>Collins</last></author>
+      <author><first>Michael</first><last>Collins</last></author>
       <author><first>Daphne</first><last>Koller</last></author>
       <author><first>Christopher</first><last>Manning</last></author>
       <pages>1–8</pages>
@@ -5229,7 +5267,7 @@
       <bibkey>nn-2004-author-index</bibkey>
     </paper>
   </volume>
-  <volume id="33">
+  <volume id="33" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 7th International Workshop on Tree Adjoining Grammar and Related Formalisms</booktitle>
       <url hash="169c8369">W04-33</url>
@@ -5239,6 +5277,7 @@
       <address>Vancouver, Canada</address>
       <month>May</month>
       <year>2004</year>
+      <venue>tag</venue>
     </meta>
     <frontmatter>
       <url hash="07bddf93">W04-3300</url>

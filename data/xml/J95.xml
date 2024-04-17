@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="J95">
-  <volume id="1">
+  <volume id="1" type="journal">
     <meta>
       <booktitle>Computational Linguistics, Volume 21, Number 1, March 1995</booktitle>
       <editor><first>Julia</first><last>Hirschberg</last></editor>
       <publisher>MIT Press</publisher>
       <address>Cambridge, MA</address>
       <year>1995</year>
+      <venue>cl</venue>
+      <journal-volume>21</journal-volume>
+      <journal-issue>1</journal-issue>
     </meta>
     <frontmatter>
       <url hash="080c17d1">J95-1000</url>
@@ -100,13 +103,16 @@
       <bibkey>nn-1995-advertisements</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="journal">
     <meta>
       <booktitle>Computational Linguistics, Volume 21, Number 2, June 1995</booktitle>
       <editor><first>Julia</first><last>Hirschberg</last></editor>
       <publisher>MIT Press</publisher>
       <address>Cambridge, MA</address>
       <year>1995</year>
+      <venue>cl</venue>
+      <journal-volume>21</journal-volume>
+      <journal-issue>2</journal-issue>
     </meta>
     <frontmatter>
       <url hash="41c1836c">J95-2000</url>
@@ -188,13 +194,16 @@
       <bibkey>nn-1995-advertisements-2</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="journal">
     <meta>
       <booktitle>Computational Linguistics, Volume 21, Number 3, September 1995</booktitle>
       <editor><first>Julia</first><last>Hirschberg</last></editor>
       <publisher>MIT Press</publisher>
       <address>Cambridge, MA</address>
       <year>1995</year>
+      <venue>cl</venue>
+      <journal-volume>21</journal-volume>
+      <journal-issue>3</journal-issue>
     </meta>
     <frontmatter>
       <url hash="16e4665b">J95-3000</url>
@@ -243,7 +252,7 @@
       <bibkey>johnson-1995-squibs</bibkey>
     </paper>
     <paper id="6">
-      <title>Book Reviews: Natural Language Processing: A Paninian Perspective</title>
+      <title>Book Reviews: Natural Language Processing: A <fixed-case>P</fixed-case>aninian Perspective</title>
       <author><first>Brendan S.</first><last>Gillon</last></author>
       <url hash="b8b3efd0">J95-3006</url>
       <bibkey>gillon-1995-book</bibkey>
@@ -276,13 +285,16 @@
       <bibkey>nn-1995-advertisements-3</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="journal">
     <meta>
       <booktitle>Computational Linguistics, Volume 21, Number 4, <fixed-case>D</fixed-case>ecember 1995</booktitle>
       <editor><first>Julia</first><last>Hirschberg</last></editor>
       <publisher>MIT Press</publisher>
       <address>Cambridge, MA</address>
       <year>1995</year>
+      <venue>cl</venue>
+      <journal-volume>21</journal-volume>
+      <journal-issue>4</journal-issue>
     </meta>
     <frontmatter>
       <url hash="b90d11fc">J95-4000</url>

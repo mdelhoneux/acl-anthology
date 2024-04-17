@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y09">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation, Volume 1</booktitle>
       <editor><first>Olivia</first><last>Kwong</last></editor>
@@ -8,6 +8,7 @@
       <address>Hong Kong</address>
       <month>December</month>
       <year>2009</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="1626bd86">Y09-1000</url>
@@ -405,7 +406,7 @@
       <bibkey>park-2009-pseudogapping</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation, Volume 2</booktitle>
       <editor><first>Olivia</first><last>Kwong</last></editor>
@@ -413,6 +414,7 @@
       <address>Hong Kong</address>
       <month>December</month>
       <year>2009</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="62daf7cc">Y09-2000</url>

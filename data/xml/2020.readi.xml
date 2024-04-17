@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.readi">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Workshop on Tools and Resources to Empower People with REAding DIfficulties (READI)</booktitle>
       <editor><first>Núria</first><last>Gala</last></editor>
@@ -10,6 +10,7 @@
       <month>May</month>
       <year>2020</year>
       <isbn>979-10-95546-45-0</isbn>
+      <venue>readi</venue>
     </meta>
     <frontmatter>
       <url hash="7f25a2c1">2020.readi-1.0</url>

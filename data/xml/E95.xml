@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="E95">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Seventh Conference of the <fixed-case>E</fixed-case>uropean Chapter of the Association for Computational Linguistics</booktitle>
       <editor><first>Steven P.</first><last>Abney</last></editor>
@@ -9,6 +9,7 @@
       <address>Dublin, Ireland</address>
       <month>March</month>
       <year>1995</year>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="e9b117d9">E95-1000</url>

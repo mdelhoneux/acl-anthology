@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.adaptnlp">
-  <volume id="1" ingest-date="2021-04-19">
+  <volume id="1" ingest-date="2021-04-19" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Second Workshop on Domain Adaptation for NLP</booktitle>
       <editor><first>Eyal</first><last>Ben-David</last></editor>
@@ -14,6 +14,7 @@
       <address>Kyiv, Ukraine</address>
       <month>April</month>
       <year>2021</year>
+      <venue>adaptnlp</venue>
     </meta>
     <frontmatter>
       <url hash="7c3fd8ad">2021.adaptnlp-1.0</url>
@@ -47,7 +48,7 @@
       <abstract>Contextual embedding models such as BERT can be easily fine-tuned on labeled samples to create a state-of-the-art model for many downstream tasks. However, the fine-tuned BERT model suffers considerably from unlabeled data when applied to a different domain. In unsupervised domain adaptation, we aim to train a model that works well on a target domain when provided with labeled source samples and unlabeled target samples. In this paper, we propose a pseudo-label guided method for unsupervised domain adaptation. Two models are fine-tuned on labeled source samples as pseudo labeling models. To learn representations for the target domain, one of those models is adapted by masked language modeling from the target domain. Then those models are used to assign pseudo-labels to target samples. We train the final model with those samples. We evaluate our method on named entity segmentation and sentiment analysis tasks. These experiments show that our approach outperforms baseline methods.</abstract>
       <url hash="3f6deeac">2021.adaptnlp-1.2</url>
       <bibkey>chen-etal-2021-pseudo</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="3">
       <title>Conditional Adversarial Networks for Multi-Domain Text Classification</title>
@@ -58,6 +59,7 @@
       <abstract>In this paper, we propose conditional adversarial networks (CANs), a framework that explores the relationship between the shared features and the label predictions to impose stronger discriminability to the learned features, for multi-domain text classification (MDTC). The proposed CAN introduces a conditional domain discriminator to model the domain variance in both the shared feature representations and the class-aware information simultaneously, and adopts entropy conditioning to guarantee the transferability of the shared features. We provide theoretical analysis for the CAN framework, showing that CAN’s objective is equivalent to minimizing the total divergence among multiple joint distributions of shared features and label predictions. Therefore, CAN is a theoretically sound adversarial network that discriminates over multiple distributions. Evaluation results on two MDTC benchmarks show that CAN outperforms prior methods. Further experiments demonstrate that CAN has a good ability to generalize learned knowledge to unseen domains.</abstract>
       <url hash="48d8b934">2021.adaptnlp-1.3</url>
       <bibkey>wu-etal-2021-conditional</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0">Multi-Domain Sentiment</pwcdataset>
     </paper>
     <paper id="4">
       <title>The impact of domain-specific representations on <fixed-case>BERT</fixed-case>-based multi-domain spoken language understanding</title>
@@ -100,7 +102,6 @@
       <url hash="59593bcc">2021.adaptnlp-1.7</url>
       <bibkey>dakota-2021-genres</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="8">
       <title>Cross-Lingual Transfer with <fixed-case>MAML</fixed-case> on Trees</title>
@@ -177,6 +178,7 @@
       <abstract>We present a locality preserving loss (LPL) that improves the alignment between vector space embeddings while separating uncorrelated representations. Given two pretrained embedding manifolds, LPL optimizes a model to project an embedding and maintain its local neighborhood while aligning one manifold to another. This reduces the overall size of the dataset required to align the two in tasks such as crosslingual word alignment. We show that the LPL-based alignment between input vector spaces acts as a regularizer, leading to better and consistent accuracy than the baseline, especially when the size of the training set is small. We demonstrate the effectiveness of LPL-optimized alignment on semantic text similarity (STS), natural language inference (SNLI), multi-genre language inference (MNLI) and cross-lingual word alignment (CLA) showing consistent improvements, finding up to 16% improvement over our baseline in lower resource settings.</abstract>
       <url hash="7ff3f115">2021.adaptnlp-1.13</url>
       <bibkey>ganesan-etal-2021-locality</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="14">
@@ -201,6 +203,7 @@
       <url hash="86928266">2021.adaptnlp-1.15</url>
       <bibkey>buck-vlachos-2021-trajectory</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="16">
       <title>Dependency Parsing Evaluation for Low-resource Spontaneous Speech</title>
@@ -221,6 +224,7 @@
       <url hash="b99b0c8f">2021.adaptnlp-1.17</url>
       <bibkey>zhao-titov-2021-empirical</bibkey>
       <pwccode url="https://github.com/zhaoyanpeng/cpcfg" additional="true">zhaoyanpeng/cpcfg</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/english-web-treebank">English Web Treebank</pwcdataset>
     </paper>
     <paper id="18">
       <title>User Factor Adaptation for User Embedding via Multitask Learning</title>
@@ -278,7 +282,7 @@
       <abstract>Fine-tuning is known to improve NLP models by adapting an initial model trained on more plentiful but less domain-salient examples to data in a target domain. Such domain adaptation is typically done using one stage of fine-tuning. We demonstrate that gradually fine-tuning in a multi-step process can yield substantial further gains and can be applied without modifying the model or learning objective.</abstract>
       <url hash="84f585ac">2021.adaptnlp-1.22</url>
       <bibkey>xu-etal-2021-gradual</bibkey>
-      <pwccode url="https://github.com/fe1ixxu/Gradual-Finetune" additional="false">fe1ixxu/Gradual-Finetune</pwccode>
+      <pwccode url="https://github.com/fe1ixxu/Gradual-Finetune" additional="true">fe1ixxu/Gradual-Finetune</pwccode>
     </paper>
     <paper id="23">
       <title>Analyzing the Domain Robustness of Pretrained Language Models, Layer by Layer</title>

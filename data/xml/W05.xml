@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W05">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Second <fixed-case>ACL</fixed-case> Workshop on Effective Tools and Methodologies for Teaching <fixed-case>NLP</fixed-case> and <fixed-case>CL</fixed-case></booktitle>
       <url hash="4c585a1e">W05-01</url>
@@ -10,6 +10,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>teachingnlp</venue>
     </meta>
     <frontmatter>
       <url hash="8d585b2a">W05-0100</url>
@@ -108,7 +109,7 @@
       <bibkey>liddy-mccracken-2005-hands</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Second Workshop on Building Educational Applications Using <fixed-case>NLP</fixed-case></booktitle>
       <url hash="38e3529a">W05-02</url>
@@ -118,6 +119,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>bea</venue>
     </meta>
     <frontmatter>
       <url hash="9a784b20">W05-0200</url>
@@ -248,7 +250,7 @@
       <bibkey>segond-etal-2005-situational</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Frontiers in Corpus Annotations <fixed-case>II</fixed-case>: Pie in the Sky</booktitle>
       <url hash="368139d3">W05-03</url>
@@ -257,6 +259,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="620ab7a6">W05-0300</url>
@@ -372,7 +375,7 @@
       <bibkey>xue-2005-annotating</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> Workshop on Feature Engineering for Machine Learning in Natural Language Processing</booktitle>
       <url hash="14fd57be">W05-04</url>
@@ -381,6 +384,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="a538af5c">W05-0400</url>
@@ -464,7 +468,7 @@
       <bibkey>shen-etal-2005-studying</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Psychocomputational Models of Human Language Acquisition</booktitle>
       <url hash="b41a53bd">W05-05</url>
@@ -477,6 +481,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="5bb0989c">W05-0500</url>
@@ -577,7 +582,7 @@
       <bibkey>niyogi-2005-steps</bibkey>
     </paper>
   </volume>
-  <volume id="6">
+  <volume id="6" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Ninth Conference on Computational Natural Language Learning (<fixed-case>C</fixed-case>o<fixed-case>NLL</fixed-case>-2005)</booktitle>
       <url hash="1360c25c">W05-06</url>
@@ -587,6 +592,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>conll</venue>
     </meta>
     <frontmatter>
       <url hash="b511b55f">W05-0600</url>
@@ -936,7 +942,7 @@
       <bibkey>yi-palmer-2005-integration</bibkey>
     </paper>
   </volume>
-  <volume id="7">
+  <volume id="7" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> Workshop on Computational Approaches to <fixed-case>S</fixed-case>emitic Languages</booktitle>
       <url hash="90b0f266">W05-07</url>
@@ -947,6 +953,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>semitic</venue>
     </meta>
     <frontmatter>
       <url hash="b29dab1e">W05-0700</url>
@@ -1055,7 +1062,7 @@
       <bibkey>hassan-sorensen-2005-integrated</bibkey>
     </paper>
   </volume>
-  <volume id="8">
+  <volume id="8" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> Workshop on Building and Using Parallel Texts</booktitle>
       <url hash="6c069b1a">W05-08</url>
@@ -1068,6 +1075,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="1cc8c384">W05-0800</url>
@@ -1381,7 +1389,7 @@
       <bibkey>venugopal-etal-2005-training</bibkey>
     </paper>
   </volume>
-  <volume id="9">
+  <volume id="9" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization</booktitle>
       <url hash="ae8a65cc">W05-09</url>
@@ -1393,6 +1401,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="a7638408">W05-0900</url>
@@ -1480,7 +1489,7 @@
       <bibkey>banerjee-lavie-2005-meteor</bibkey>
     </paper>
   </volume>
-  <volume id="10">
+  <volume id="10" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-<fixed-case>SIGLEX</fixed-case> Workshop on Deep Lexical Acquisition</booktitle>
       <url hash="758cf3af">W05-10</url>
@@ -1491,6 +1500,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="f728c27e">W05-1000</url>
@@ -1587,7 +1597,7 @@
       <bibkey>gorman-curran-2005-approximate</bibkey>
     </paper>
   </volume>
-  <volume id="11">
+  <volume id="11" type="proceedings">
     <meta>
       <booktitle>Proceedings of Workshop on Software</booktitle>
       <url hash="17819172">W05-11</url>
@@ -1595,6 +1605,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="7bc82349">W05-1100</url>
@@ -1670,7 +1681,7 @@
       <bibkey>nn-2005-author-index-7</bibkey>
     </paper>
   </volume>
-  <volume id="12">
+  <volume id="12" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> Workshop on Empirical Modeling of Semantic Equivalence and Entailment</booktitle>
       <url hash="dcb3ca9e">W05-12</url>
@@ -1680,6 +1691,7 @@
       <address>Ann Arbor, Michigan</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="eded139c">W05-1200</url>
@@ -1768,7 +1780,7 @@
       <bibkey>bar-haim-etal-2005-definition</bibkey>
     </paper>
   </volume>
-  <volume id="13">
+  <volume id="13" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-<fixed-case>ISMB</fixed-case> Workshop on Linking Biological Literature, Ontologies and Databases: Mining Biological Semantics</booktitle>
       <url hash="156516e5">W05-13</url>
@@ -1780,6 +1792,7 @@
       <address>Detroit</address>
       <month>June</month>
       <year>2005</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="b509fd9a">W05-1300</url>
@@ -1858,7 +1871,7 @@
       <bibkey>ahmed-etal-2005-intex</bibkey>
     </paper>
   </volume>
-  <volume id="15">
+  <volume id="15" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Ninth International Workshop on Parsing Technology</booktitle>
       <url hash="d25ce8c8">W05-15</url>
@@ -1868,6 +1881,7 @@
       <address>Vancouver, British Columbia</address>
       <month>October</month>
       <year>2005</year>
+      <venue>iwpt</venue>
     </meta>
     <frontmatter>
       <url hash="8c0db993">W05-1500</url>
@@ -2117,7 +2131,7 @@
       <bibkey>li-etal-2005-robust</bibkey>
     </paper>
   </volume>
-  <volume id="16">
+  <volume id="16" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Tenth <fixed-case>E</fixed-case>uropean Workshop on Natural Language Generation (<fixed-case>ENLG</fixed-case>-05)</booktitle>
       <editor><first>Graham</first><last>Wilcock</last></editor>
@@ -2128,6 +2142,7 @@
       <address>Aberdeen, Scotland</address>
       <month>August</month>
       <year>2005</year>
+      <venue>enlg</venue>
     </meta>
     <frontmatter>
       <url hash="b731ac34">W05-1600</url>
@@ -2327,7 +2342,7 @@
       <bibkey>wan-etal-2005-searching</bibkey>
     </paper>
   </volume>
-  <volume id="17">
+  <volume id="17" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 15th Nordic Conference of Computational Linguistics (<fixed-case>NODALIDA</fixed-case> 2005)</booktitle>
       <url hash="22d3ea64">W05-17</url>
@@ -2336,6 +2351,7 @@
       <address>Joensuu, Finland</address>
       <month>May</month>
       <year>2006</year>
+      <venue>nodalida</venue>
     </meta>
     <frontmatter>
       <url hash="f16ae636">W05-1700</url>

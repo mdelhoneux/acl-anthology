@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.nllp">
-  <volume id="1" ingest-date="2021-10-28">
+  <volume id="1" ingest-date="2021-10-28" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Natural Legal Language Processing Workshop 2021</booktitle>
       <editor><first>Nikolaos</first><last>Aletras</last></editor>
@@ -12,6 +12,7 @@
       <address>Punta Cana, Dominican Republic</address>
       <month>November</month>
       <year>2021</year>
+      <venue>nllp</venue>
     </meta>
     <frontmatter>
       <url hash="db09a562">2021.nllp-1.0</url>
@@ -113,7 +114,7 @@
       <author><first>Malka</first><last>Guillot</last></author>
       <author><first>Luyang</first><last>Han</last></author>
       <pages>76–85</pages>
-      <abstract>Using a corpus of compiled codes from U.S. states containing labeled tax law sections, we train text classifiers to automatically tag tax-law documents and, further, to identify the associated revenue source (e.g. income, property, or sales). After evaluating classifier performance in held-out test data, we apply them to an historical corpus of U.S. state legislation to extract the flow of relevant laws over the years 1910 through 2010. We document that the classifiers are effective in the historical corpus, for example by automatically detecting establishments of state personal income taxes. The trained models with replication code are published at https://github.com/luyang521/tax-classification.</abstract>
+      <abstract>Using a corpus of compiled codes from U.S. states containing labeled tax law sections, we train text classifiers to automatically tag tax-law documents and, further, to identify the associated revenue source (e.g. income, property, or sales). After evaluating classifier performance in held-out test data, we apply them to an historical corpus of U.S. state legislation to extract the flow of relevant laws over the years 1910 through 2010. We document that the classifiers are effective in the historical corpus, for example by automatically detecting establishments of state personal income taxes. The trained models with replication code are published at <url>https://github.com/luyang521/tax-classification</url>.</abstract>
       <url hash="84eb99d4">2021.nllp-1.7</url>
       <attachment type="Software" hash="fbb842fe">2021.nllp-1.7.Software.zip</attachment>
       <bibkey>ash-etal-2021-machine</bibkey>
@@ -222,6 +223,7 @@
       <url hash="e8035863">2021.nllp-1.15</url>
       <bibkey>koreeda-manning-2021-capturing</bibkey>
       <doi>10.18653/v1/2021.nllp-1.15</doi>
+      <pwccode url="https://github.com/stanfordnlp/pdf-struct" additional="false">stanfordnlp/pdf-struct</pwccode>
     </paper>
     <paper id="16">
       <title>Legal Terminology Extraction with the Termolator</title>
@@ -255,7 +257,7 @@
       <url hash="24d1967c">2021.nllp-1.18</url>
       <bibkey>trias-etal-2021-named</bibkey>
       <doi>10.18653/v1/2021.nllp-1.18</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="19">
       <title>Summarization of <fixed-case>G</fixed-case>erman Court Rulings</title>
@@ -277,7 +279,7 @@
       <author><first>Derek</first><last>Chong</last></author>
       <author><first>Christopher</first><last>Manning</last></author>
       <pages>190–204</pages>
-      <abstract>We study attempting to achieve high accuracy information extraction of case factors from a challenging dataset of parole hearings, which, compared to other legal NLP datasets, has longer texts, with fewer labels. On this co pus, existing work directly applying pretrained neural models has failed to extract all but a few relatively basic items with little improvement over rule-based extraction. We address two challenges posed by existing work: training on long documents and reasoning over complex speech patterns. We use a similar approach to the two-step open-domain question answering approach by using a Reducer to extract relevant text segments and a Producer to generate both extractive answers and non-extractive classifications. In a context like ours, with limited labeled data, we show that a superior approach for strong performance within limited development time is to use a combination of a rule-based Reducer and a neural Producer. We study four representative tasks from the parole dataset. On all four, we improve extraction from the previous benchmark of 0.41–0.63 to 0.83–0.89 F1.</abstract>
+      <abstract>We study attempting to achieve high accuracy information extraction of case factors from a challenging dataset of parole hearings, which, compared to other legal NLP datasets, has longer texts, with fewer labels. On this corpus, existing work directly applying pretrained neural models has failed to extract all but a few relatively basic items with little improvement over rule-based extraction. We address two challenges posed by existing work: training on long documents and reasoning over complex speech patterns. We use a similar approach to the two-step open-domain question answering approach by using a Reducer to extract relevant text segments and a Producer to generate both extractive answers and non-extractive classifications. In a context like ours, with limited labeled data, we show that a superior approach for strong performance within limited development time is to use a combination of a rule-based Reducer and a neural Producer. We study four representative tasks from the parole dataset. On all four, we improve extraction from the previous benchmark of 0.41–0.63 to 0.83–0.89 F1.</abstract>
       <url hash="980f16c3">2021.nllp-1.20</url>
       <bibkey>hong-etal-2021-learning</bibkey>
       <doi>10.18653/v1/2021.nllp-1.20</doi>

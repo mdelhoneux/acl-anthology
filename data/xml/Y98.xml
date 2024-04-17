@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y98">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th Pacific Asia Conference on Language, Information and Computation</booktitle>
       <editor><first>Jin</first><last>Guo</last></editor>
@@ -10,6 +10,7 @@
       <address>Singapore</address>
       <month>February</month>
       <year>1998</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="b9d330b2">Y98-1000</url>

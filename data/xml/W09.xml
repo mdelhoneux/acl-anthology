@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W09">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>EACL</fixed-case> 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous, Vicious or Vacuous?</booktitle>
       <url hash="bb6a3df0">W09-01</url>
@@ -10,6 +10,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="9315206b">W09-0100</url>
@@ -87,7 +88,7 @@
       <bibkey>keller-2009-interaction</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Geometrical Models of Natural Language Semantics</booktitle>
       <url hash="3d3e1b25">W09-02</url>
@@ -97,6 +98,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>gems</venue>
     </meta>
     <frontmatter>
       <url hash="d2476c15">W09-0200</url>
@@ -229,7 +231,7 @@
       <bibkey>clarke-2009-context</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>EACL</fixed-case> 2009 Workshop on Language Technology and Resources for Cultural Heritage, Social Sciences, Humanities, and Education (<fixed-case>L</fixed-case>a<fixed-case>T</fixed-case>e<fixed-case>CH</fixed-case> – <fixed-case>SHELT</fixed-case>&amp;R 2009)</booktitle>
       <url hash="a84e4e9f">W09-03</url>
@@ -239,6 +241,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>latech</venue>
     </meta>
     <frontmatter>
       <url hash="478b4db3">W09-0300</url>
@@ -324,7 +327,7 @@
       <bibkey>dobreva-ikonomov-2009-role</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fourth Workshop on Statistical Machine Translation</booktitle>
       <url hash="2fe73c0e">W09-04</url>
@@ -336,6 +339,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>wmt</venue>
     </meta>
     <frontmatter>
       <url hash="3146ab8f">W09-0400</url>
@@ -476,7 +480,7 @@
       <author><first>Maxim</first><last>Khalilov</last></author>
       <author><first>Marta R.</first><last>Costa-jussà</last></author>
       <author><first>José B.</first><last>Mariño</last></author>
-      <author><first>Carlos A.</first><last>Henráquez Q.</last></author>
+      <author><first>Carlos A.</first><last>Henríquez Q.</last></author>
       <author><first>Adolfo</first><last>Hernández H.</last></author>
       <author><first>Rafael E.</first><last>Banchs</last></author>
       <pages>85–89</pages>
@@ -737,7 +741,7 @@
       <bibkey>snover-etal-2009-fluency</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of <fixed-case>SRSL</fixed-case> 2009, the 2nd Workshop on Semantic Representation of Spoken Language</booktitle>
       <url hash="77cce9c6">W09-05</url>
@@ -747,6 +751,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="f218f057">W09-0500</url>
@@ -836,7 +841,7 @@
       <bibkey>kempson-etal-2009-incrementality</bibkey>
     </paper>
   </volume>
-  <volume id="6">
+  <volume id="6" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th <fixed-case>E</fixed-case>uropean Workshop on Natural Language Generation (<fixed-case>ENLG</fixed-case> 2009)</booktitle>
       <url hash="56a357f5">W09-06</url>
@@ -846,6 +851,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>enlg</venue>
     </meta>
     <frontmatter>
       <url hash="713937b1">W09-0600</url>
@@ -1148,7 +1154,7 @@
       <bibkey>funakoshi-etal-2009-probabilistic</bibkey>
     </paper>
   </volume>
-  <volume id="7">
+  <volume id="7" type="proceedings">
     <meta>
       <booktitle>Proceedings of the First Workshop on Language Technologies for <fixed-case>A</fixed-case>frican Languages</booktitle>
       <url hash="e5792678">W09-07</url>
@@ -1162,6 +1168,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="78a17886">W09-0700</url>
@@ -1309,7 +1316,7 @@
       <bibkey>moran-2009-ontology</bibkey>
     </paper>
   </volume>
-  <volume id="8">
+  <volume id="8" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>EACL</fixed-case> 2009 Workshop on Computational Approaches to <fixed-case>S</fixed-case>emitic Languages</booktitle>
       <url hash="131319af">W09-08</url>
@@ -1319,6 +1326,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>semitic</venue>
     </meta>
     <frontmatter>
       <url hash="40061f72">W09-0800</url>
@@ -1399,7 +1407,7 @@
       <bibkey>elming-habash-2009-syntactic</bibkey>
     </paper>
   </volume>
-  <volume id="9">
+  <volume id="9" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>EACL</fixed-case> 2009 Workshop on Cognitive Aspects of Computational Language Acquisition</booktitle>
       <url hash="cfd3498e">W09-09</url>
@@ -1410,6 +1418,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="5ee22298">W09-0900</url>
@@ -1473,7 +1482,7 @@
       <bibkey>choudhury-etal-2009-language</bibkey>
     </paper>
   </volume>
-  <volume id="10">
+  <volume id="10" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>EACL</fixed-case> 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference</booktitle>
       <url hash="310f0281">W09-10</url>
@@ -1483,6 +1492,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="303f0cb6">W09-1000</url>
@@ -1567,7 +1577,7 @@
       <bibkey>pertsova-2009-comparing</bibkey>
     </paper>
   </volume>
-  <volume id="11">
+  <volume id="11" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Thirteenth Conference on Computational Natural Language Learning (<fixed-case>C</fixed-case>o<fixed-case>NLL</fixed-case>-2009)</booktitle>
       <url hash="405124c2">W09-11</url>
@@ -1577,6 +1587,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>conll</venue>
     </meta>
     <frontmatter>
       <url hash="50b768d3">W09-1100</url>
@@ -1808,7 +1819,7 @@
       <bibkey>tonelli-pighin-2009-new</bibkey>
     </paper>
   </volume>
-  <volume id="12">
+  <volume id="12" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Thirteenth Conference on Computational Natural Language Learning (<fixed-case>C</fixed-case>o<fixed-case>NLL</fixed-case> 2009): Shared Task</booktitle>
       <url hash="92e6daed">W09-12</url>
@@ -1817,6 +1828,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>conll</venue>
     </meta>
     <frontmatter>
       <url hash="fee74bc0">W09-1200</url>
@@ -2008,7 +2020,7 @@
       <bibkey>zeman-2009-simple</bibkey>
     </paper>
   </volume>
-  <volume id="13">
+  <volume id="13" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>B</fixed-case>io<fixed-case>NLP</fixed-case> 2009 Workshop</booktitle>
       <url hash="ec4bcd1f">W09-13</url>
@@ -2022,6 +2034,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>bionlp</venue>
     </meta>
     <frontmatter>
       <url hash="c19ddfd9">W09-1300</url>
@@ -2264,7 +2277,7 @@
       <bibkey>liakata-etal-2009-semantic</bibkey>
     </paper>
   </volume>
-  <volume id="14">
+  <volume id="14" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>B</fixed-case>io<fixed-case>NLP</fixed-case> 2009 Workshop Companion Volume for Shared Task</booktitle>
       <url hash="18460517">W09-14</url>
@@ -2273,6 +2286,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>bionlp</venue>
     </meta>
     <frontmatter>
       <url hash="edaab1a4">W09-1400</url>
@@ -2488,7 +2502,7 @@
       <bibkey>mora-etal-2009-exploring</bibkey>
     </paper>
   </volume>
-  <volume id="15">
+  <volume id="15" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Software Engineering, Testing, and Quality Assurance for Natural Language Processing (<fixed-case>SETQA</fixed-case>-<fixed-case>NLP</fixed-case> 2009)</booktitle>
       <url hash="851a3821">W09-15</url>
@@ -2498,6 +2512,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="d5c763f3">W09-1500</url>
@@ -2611,7 +2626,7 @@
       <bibkey>liao-etal-2009-integrating</bibkey>
     </paper>
   </volume>
-  <volume id="16">
+  <volume id="16" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (<fixed-case>CLIAWS</fixed-case>3)</booktitle>
       <url hash="ae447f21">W09-16</url>
@@ -2625,6 +2640,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="4a1ead0e">W09-1600</url>
@@ -2704,7 +2720,7 @@
       <bibkey>mukund-srihari-2009-ne</bibkey>
     </paper>
   </volume>
-  <volume id="17">
+  <volume id="17" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics</booktitle>
       <url hash="92d886ce">W09-17</url>
@@ -2714,6 +2730,7 @@
       <address>Boulder, Colorado, USA</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="6589b00c">W09-1700</url>
@@ -2776,7 +2793,7 @@
       <bibkey>chew-etal-2009-using</bibkey>
     </paper>
   </volume>
-  <volume id="18">
+  <volume id="18" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing</booktitle>
       <url hash="6296cb84">W09-18</url>
@@ -2786,6 +2803,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="578e6deb">W09-1800</url>
@@ -2832,7 +2850,7 @@
       <bibkey>langkilde-geary-2009-constraint</bibkey>
     </paper>
   </volume>
-  <volume id="19">
+  <volume id="19" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>NAACL</fixed-case> <fixed-case>HLT</fixed-case> 2009 Workshop on Active Learning for Natural Language Processing</booktitle>
       <url hash="66f7a667">W09-19</url>
@@ -2843,6 +2861,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>alnlp</venue>
     </meta>
     <frontmatter>
       <url hash="4a15c8e1">W09-1900</url>
@@ -2917,7 +2936,7 @@
       <bibkey>ambati-carbonell-2009-proactive</bibkey>
     </paper>
   </volume>
-  <volume id="20">
+  <volume id="20" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Computational Approaches to Linguistic Creativity</booktitle>
       <url hash="ac520c24">W09-20</url>
@@ -2927,6 +2946,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3a5e5b1b">W09-2000</url>
@@ -3040,7 +3060,7 @@
       <bibkey>ramsay-field-2009-sorry</bibkey>
     </paper>
   </volume>
-  <volume id="21">
+  <volume id="21" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fourth Workshop on Innovative Use of <fixed-case>NLP</fixed-case> for Building Educational Applications</booktitle>
       <url hash="771085be">W09-21</url>
@@ -3051,6 +3071,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>bea</venue>
     </meta>
     <frontmatter>
       <url hash="9497e20d">W09-2100</url>
@@ -3169,7 +3190,7 @@
       <bibkey>foster-andersen-2009-generrate</bibkey>
     </paper>
   </volume>
-  <volume id="22">
+  <volume id="22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>NAACL</fixed-case> <fixed-case>HLT</fixed-case> 2009 Workshop on Semi-supervised Learning for Natural Language Processing</booktitle>
       <url hash="4663e4b3">W09-22</url>
@@ -3180,6 +3201,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="f64a9328">W09-2200</url>
@@ -3277,7 +3299,7 @@
       <bibkey>dasgupta-ng-2009-discriminative</bibkey>
     </paper>
   </volume>
-  <volume id="23">
+  <volume id="23" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation (<fixed-case>SSST</fixed-case>-3) at <fixed-case>NAACL</fixed-case> <fixed-case>HLT</fixed-case> 2009</booktitle>
       <url hash="ae50de14">W09-23</url>
@@ -3287,6 +3309,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>ssst</venue>
     </meta>
     <frontmatter>
       <url hash="e1cd7a36">W09-2300</url>
@@ -3382,7 +3405,7 @@
       <bibkey>khalilov-etal-2009-coupling</bibkey>
     </paper>
   </volume>
-  <volume id="24">
+  <volume id="24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (<fixed-case>SEW</fixed-case>-2009)</booktitle>
       <url hash="faec8933">W09-24</url>
@@ -3393,6 +3416,7 @@
       <address>Boulder, Colorado</address>
       <month>June</month>
       <year>2009</year>
+      <venue>sew</venue>
     </meta>
     <frontmatter>
       <url hash="69f8cd3a">W09-2400</url>
@@ -3615,7 +3639,7 @@
       <bibkey>meyers-etal-2009-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="25">
+  <volume id="25" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Applied Textual Inference (<fixed-case>T</fixed-case>ext<fixed-case>I</fixed-case>nfer)</booktitle>
       <url hash="1a8e76b6">W09-25</url>
@@ -3628,6 +3652,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>textinfer</venue>
     </meta>
     <frontmatter>
       <url hash="860a9a60">W09-2500</url>
@@ -3713,7 +3738,7 @@
       <bibkey>clausen-manning-2009-presupposed</bibkey>
     </paper>
   </volume>
-  <volume id="26">
+  <volume id="26" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (<fixed-case>GEAF</fixed-case> 2009)</booktitle>
       <url hash="5ac72be6">W09-26</url>
@@ -3723,6 +3748,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>geaf</venue>
     </meta>
     <frontmatter>
       <url hash="5fc33371">W09-2600</url>
@@ -3802,7 +3828,7 @@
       <bibkey>de-kok-etal-2009-generalized</bibkey>
     </paper>
   </volume>
-  <volume id="27">
+  <volume id="27" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (<fixed-case>KRAQ</fixed-case> 2009)</booktitle>
       <url hash="97b8ab21">W09-27</url>
@@ -3812,6 +3838,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="f0fae87b">W09-2700</url>
@@ -3860,7 +3887,7 @@
       <bibkey>quarteroni-saint-dizier-2009-addressing</bibkey>
     </paper>
   </volume>
-  <volume id="28">
+  <volume id="28" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Language Generation and Summarisation (<fixed-case>UCNLG</fixed-case>+<fixed-case>S</fixed-case>um 2009)</booktitle>
       <url hash="74902f91">W09-28</url>
@@ -3871,6 +3898,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="9e3053ff">W09-2800</url>
@@ -4035,7 +4063,7 @@
       <bibkey>orasan-dornescu-2009-wlv</bibkey>
     </paper>
   </volume>
-  <volume id="29">
+  <volume id="29" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Multiword Expressions: Identification, Interpretation, Disambiguation and Applications (<fixed-case>MWE</fixed-case> 2009)</booktitle>
       <url hash="44f31bef">W09-29</url>
@@ -4047,6 +4075,7 @@
       <address>Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>mwe</venue>
     </meta>
     <frontmatter>
       <url hash="01ac8546">W09-2900</url>
@@ -4134,7 +4163,7 @@
       <bibkey>wakaki-etal-2009-abbreviation</bibkey>
     </paper>
   </volume>
-  <volume id="30">
+  <volume id="30" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third Linguistic Annotation Workshop (<fixed-case>LAW</fixed-case> <fixed-case>III</fixed-case>)</booktitle>
       <url hash="0bc52f71">W09-30</url>
@@ -4146,6 +4175,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>law</venue>
     </meta>
     <frontmatter>
       <url hash="cef5eb55">W09-3000</url>
@@ -4492,7 +4522,7 @@
       <bibkey>bhatt-etal-2009-multi</bibkey>
     </paper>
   </volume>
-  <volume id="31">
+  <volume id="31" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2nd Workshop on Building and Using Comparable Corpora: from Parallel to Non-parallel Corpora (<fixed-case>BUCC</fixed-case>)</booktitle>
       <url hash="5a10082c">W09-31</url>
@@ -4503,6 +4533,7 @@
       <address>Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>bucc</venue>
     </meta>
     <frontmatter>
       <url hash="6cccc06f">W09-3100</url>
@@ -4598,7 +4629,7 @@
       <bibkey>segouat-braffort-2009-toward</bibkey>
     </paper>
   </volume>
-  <volume id="32">
+  <volume id="32" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Graph-based Methods for Natural Language Processing (<fixed-case>T</fixed-case>ext<fixed-case>G</fixed-case>raphs-4)</booktitle>
       <url hash="b973b7bb">W09-32</url>
@@ -4610,6 +4641,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>textgraphs</venue>
     </meta>
     <frontmatter>
       <url hash="8b378e69">W09-3200</url>
@@ -4623,7 +4655,7 @@
       <bibkey>ellis-2009-social</bibkey>
     </paper>
     <paper id="2">
-      <title>Network analysis reveals structure indicative of syntax in the corpus of undeciphered Indus civilization inscriptions</title>
+      <title>Network analysis reveals structure indicative of syntax in the corpus of undeciphered <fixed-case>I</fixed-case>ndus civilization inscriptions</title>
       <author><first>Sitabhra</first><last>Sinha</last></author>
       <author><first>Raj Kumar</first><last>Pan</last></author>
       <author><first>Nisha</first><last>Yadav</last></author>
@@ -4720,7 +4752,7 @@
       <bibkey>martens-2009-quantitative</bibkey>
     </paper>
   </volume>
-  <volume id="33">
+  <volume id="33" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on The People’s Web Meets <fixed-case>NLP</fixed-case>: Collaboratively Constructed Semantic Resources (People’s Web)</booktitle>
       <url hash="ccb3c1c0">W09-33</url>
@@ -4730,6 +4762,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="a34c3d07">W09-3300</url>
@@ -4821,7 +4854,7 @@
       <bibkey>chamberlain-etal-2009-constructing</bibkey>
     </paper>
   </volume>
-  <volume id="34">
+  <volume id="34" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 7th Workshop on <fixed-case>A</fixed-case>sian Language Resources (<fixed-case>ALR</fixed-case>7)</booktitle>
       <url hash="04251ddc">W09-34</url>
@@ -4831,6 +4864,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>alr</venue>
     </meta>
     <frontmatter>
       <url hash="e859d6a0">W09-3400</url>
@@ -5088,7 +5122,7 @@
       <bibkey>choi-etal-2009-word</bibkey>
     </paper>
   </volume>
-  <volume id="35">
+  <volume id="35" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Named Entities Workshop: Shared Task on Transliteration (<fixed-case>NEWS</fixed-case> 2009)</booktitle>
       <url hash="f959b2e9">W09-35</url>
@@ -5098,6 +5132,7 @@
       <address>Suntec, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>news</venue>
     </meta>
     <frontmatter>
       <url hash="a7e9d504">W09-3500</url>
@@ -5440,7 +5475,7 @@
       <bibkey>ekbal-bandyopadhyay-2009-voted</bibkey>
     </paper>
   </volume>
-  <volume id="36">
+  <volume id="36" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (<fixed-case>NLPIR</fixed-case>4<fixed-case>DL</fixed-case>)</booktitle>
       <url hash="64f61488">W09-36</url>
@@ -5450,6 +5485,7 @@
       <address>Suntec City, Singapore</address>
       <month>August</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="400c000d">W09-3600</url>
@@ -5511,7 +5547,7 @@
       <bibkey>wan-etal-2009-designing</bibkey>
     </paper>
     <paper id="7">
-      <title>The <fixed-case>ACL</fixed-case> <fixed-case>A</fixed-case>nthology Network</title>
+      <title>The <fixed-case>ACL</fixed-case> <fixed-case>A</fixed-case>nthology Network Corpus</title>
       <author><first>Dragomir R.</first><last>Radev</last></author>
       <author><first>Pradeep</first><last>Muthukrishnan</last></author>
       <author><first>Vahed</first><last>Qazvinian</last></author>
@@ -5555,7 +5591,7 @@
       <bibkey>kaplan-etal-2009-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="37">
+  <volume id="37" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Eight International Conference on Computational Semantics</booktitle>
       <editor><first>Harry</first><last>Bunt</last></editor>
@@ -5563,6 +5599,7 @@
       <address>Tilburg, The Netherlands</address>
       <month>January</month>
       <year>2009</year>
+      <venue>iwcs</venue>
     </meta>
     <frontmatter>
       <url hash="b77d321a">W09-3700</url>
@@ -5924,16 +5961,17 @@
       <bibkey>bedaride-gardent-2009-semantic</bibkey>
     </paper>
   </volume>
-  <volume id="38">
+  <volume id="38" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 11th International Conference on Parsing Technologies (<fixed-case>IWPT</fixed-case>’09)</booktitle>
       <url hash="7809b191">W09-38</url>
-      <editor><first>Harry</first> <last>Bunt</last></editor>
-      <editor><first>Éric</first> <last>Villemonte de la Clergerie</last></editor>
+      <editor><first>Harry</first><last>Bunt</last></editor>
+      <editor><first>Éric</first><last>Villemonte de la Clergerie</last></editor>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Paris, France</address>
       <month>October</month>
       <year>2009</year>
+      <venue>iwpt</venue>
     </meta>
     <frontmatter>
       <url hash="08939f61">W09-3800</url>
@@ -6280,7 +6318,7 @@
       <bibkey>boullier-sagot-2009-parsing</bibkey>
     </paper>
   </volume>
-  <volume id="39">
+  <volume id="39" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>SIGDIAL</fixed-case> 2009 Conference</booktitle>
       <url hash="016c4da0">W09-39</url>
@@ -6293,6 +6331,7 @@
       <address>London, UK</address>
       <month>September</month>
       <year>2009</year>
+      <venue>sigdial</venue>
     </meta>
     <frontmatter>
       <url hash="f56d9eaf">W09-3900</url>
@@ -6773,7 +6812,7 @@
       <bibkey>hu-etal-2009-contrasting</bibkey>
     </paper>
   </volume>
-  <volume id="40">
+  <volume id="40" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop Multilingual resources, technologies and evaluation for central and Eastern <fixed-case>E</fixed-case>uropean languages</booktitle>
       <url hash="3210dd85">W09-40</url>
@@ -6785,6 +6824,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3d79958c">W09-4000</url>
@@ -6849,7 +6889,7 @@
       <bibkey>nikolova-2009-new</bibkey>
     </paper>
   </volume>
-  <volume id="41">
+  <volume id="41" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Adaptation of Language Resources and Technology to New Domains</booktitle>
       <url hash="1f645151">W09-41</url>
@@ -6861,6 +6901,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="2cc7e573">W09-4100</url>
@@ -6947,7 +6988,7 @@
       <bibkey>sokolova-etal-2009-personal</bibkey>
     </paper>
   </volume>
-  <volume id="42">
+  <volume id="42" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Natural Language Processing Methods and Corpora in Translation, Lexicography, and Language Learning</booktitle>
       <url hash="7ee4f898">W09-42</url>
@@ -6958,6 +6999,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="993b78d7">W09-4200</url>
@@ -7011,7 +7053,7 @@
       <bibkey>tiedemann-kotze-2009-discriminative</bibkey>
     </paper>
   </volume>
-  <volume id="43">
+  <volume id="43" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Events in Emerging Text Types</booktitle>
       <url hash="cae93442">W09-43</url>
@@ -7022,6 +7064,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="073a36f1">W09-4300</url>
@@ -7080,7 +7123,7 @@
       <bibkey>qadir-2009-detecting</bibkey>
     </paper>
   </volume>
-  <volume id="44">
+  <volume id="44" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Workshop on Definition Extraction</booktitle>
       <url hash="fa287e03">W09-44</url>
@@ -7091,6 +7134,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="081179e3">W09-4400</url>
@@ -7179,7 +7223,7 @@
       <bibkey>westerhout-2009-definition</bibkey>
     </paper>
   </volume>
-  <volume id="45">
+  <volume id="45" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Biomedical Information Extraction</booktitle>
       <url hash="2a56f0f2">W09-45</url>
@@ -7190,6 +7234,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="e41525bb">W09-4500</url>
@@ -7277,7 +7322,7 @@
       <bibkey>wennerberg-etal-2009-deriving</bibkey>
     </paper>
   </volume>
-  <volume id="46">
+  <volume id="46" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 17th Nordic Conference of Computational Linguistics (<fixed-case>NODALIDA</fixed-case> 2009)</booktitle>
       <url hash="ae04feee">W09-46</url>
@@ -7287,6 +7332,7 @@
       <address>Odense, Denmark</address>
       <month>May</month>
       <year>2009</year>
+      <venue>nodalida</venue>
     </meta>
     <frontmatter>
       <url hash="36b4a07e">W09-4600</url>
@@ -7334,7 +7380,7 @@
       <bibkey>bjorne-etal-2009-learning</bibkey>
     </paper>
     <paper id="6">
-      <title>Using Uplug and <fixed-case>S</fixed-case>ite<fixed-case>S</fixed-case>eeker to construct a cross language search engine for Scandinavian languages</title>
+      <title>Using Uplug and <fixed-case>S</fixed-case>ite<fixed-case>S</fixed-case>eeker to construct a cross language search engine for <fixed-case>S</fixed-case>candinavian languages</title>
       <author><first>Hercules</first><last>Dalianis</last></author>
       <author><first>Martin</first><last>Rimka</last></author>
       <author><first>Viggo</first><last>Kann</last></author>
@@ -7386,7 +7432,7 @@
       <bibkey>haverinen-etal-2009-parsing</bibkey>
     </paper>
     <paper id="12">
-      <title>The Nordic Dialect Corpus–an advanced research tool</title>
+      <title>The <fixed-case>N</fixed-case>ordic Dialect Corpus–an advanced research tool</title>
       <author><first>Janne Bondi</first><last>Johannessen</last></author>
       <author><first>Joel James</first><last>Priestley</last></author>
       <author><first>Kristin</first><last>Hagen</last></author>
@@ -7662,7 +7708,7 @@
       <bibkey>nistrup-madsen-erdman-thomsen-2009-caos</bibkey>
     </paper>
     <paper id="46">
-      <title>The Nordic Dialect Database: Mapping Microsyntactic Variation in the Scandinavian Languages</title>
+      <title>The <fixed-case>N</fixed-case>ordic Dialect Database: Mapping Microsyntactic Variation in the <fixed-case>S</fixed-case>candinavian Languages</title>
       <author><first>Arne Martinus</first><last>Lindstad</last></author>
       <author><first>Anders</first><last>Nøklestad</last></author>
       <author><first>Janne Bondi</first><last>Johannessen</last></author>

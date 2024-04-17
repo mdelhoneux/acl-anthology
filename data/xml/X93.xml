@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="X93">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>TIPSTER TEXT PROGRAM: PHASE <fixed-case>I</fixed-case>: Proceedings of a Workshop held at Fredricksburg, Virginia, September 19-23, 1993</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Fredericksburg, Virginia, USA</address>
       <month>September</month>
       <year>1993</year>
+      <venue>tipster</venue>
     </meta>
     <frontmatter>
       <url hash="88763952">X93-1000</url>

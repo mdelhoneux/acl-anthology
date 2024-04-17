@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2015.mtsummit">
-  <volume id="papers" ingest-date="2021-08-03">
+  <volume id="papers" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XV: Papers</booktitle>
       <address>Miami, USA</address>
       <month>October 30 – November 3</month>
       <year>2015</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Patent claim translation based on sublanguage-specific sentence structure</title>
@@ -231,12 +232,13 @@
       <bibkey>de-melo-2015-wiktionary</bibkey>
     </paper>
   </volume>
-  <volume id="users" ingest-date="2021-08-03">
+  <volume id="users" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XV: User Track</booktitle>
       <address>Miami, USA</address>
       <month>October 30 – November 3</month>
       <year>2015</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>MT</fixed-case> at <fixed-case>N</fixed-case>et<fixed-case>A</fixed-case>pp – this is how we do it</title>
@@ -388,12 +390,13 @@
       <bibkey>kumar-etal-2015-machine</bibkey>
     </paper>
   </volume>
-  <volume id="wptp" ingest-date="2021-08-03">
+  <volume id="wptp" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 4th Workshop on Post-editing Technology and Practice</booktitle>
       <address>Miami, USA</address>
       <month>October 30 – November 3</month>
       <year>2015</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>How to teach machine translation post-editing? Experiences from a post-editing course</title>
@@ -435,12 +438,13 @@
       <bibkey>du-etal-2015-domain</bibkey>
     </paper>
   </volume>
-  <volume id="wpslt" ingest-date="2021-08-03">
+  <volume id="wpslt" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 6th Workshop on Patent and Scientific Literature Translation</booktitle>
       <address>Miami, USA</address>
       <month>October 30 – November 3</month>
       <year>2015</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Full-text patent translation at <fixed-case>WIPO</fixed-case>; scalability, quality and usability</title>

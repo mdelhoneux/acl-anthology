@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1992.tc">
-  <volume id="1" ingest-date="2021-08-12">
+  <volume id="1" ingest-date="2021-08-12" type="proceedings">
     <meta>
       <booktitle>Proceedings of Translating and the Computer 14: Quality standards and the implementation of technology in translation</booktitle>
       <publisher>Aslib</publisher>
       <address>London, UK</address>
       <month>November 10-11</month>
       <year>1992</year>
+      <venue>tc</venue>
     </meta>
     <paper id="1">
       <title>An Introduction to quality assurance and a guide to the implementation of <fixed-case>BS</fixed-case>5750</title>

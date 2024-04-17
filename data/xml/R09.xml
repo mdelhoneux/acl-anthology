@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="R09">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the International Conference <fixed-case>RANLP</fixed-case>-2009</booktitle>
       <url hash="2365410e">R09-1</url>
@@ -10,6 +10,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ranlp</venue>
     </meta>
     <frontmatter>
       <url hash="82f915f7">R09-1000</url>
@@ -749,7 +750,7 @@
       <bibkey>zhang-etal-2009-many</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Student Research Workshop</booktitle>
       <url hash="3bfed071">R09-2</url>
@@ -760,6 +761,7 @@
       <address>Borovets, Bulgaria</address>
       <month>September</month>
       <year>2009</year>
+      <venue>ranlp</venue>
     </meta>
     <frontmatter>
       <url hash="0f3ff20e">R09-2000</url>

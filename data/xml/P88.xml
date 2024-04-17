@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P88">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>26th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Buffalo, New York, USA</address>
       <month>June</month>
       <year>1988</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="9c569071">P88-1000</url>

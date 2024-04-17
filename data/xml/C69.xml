@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="C69">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 1</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="1b1b6383">C69-0100</url>
@@ -19,12 +20,13 @@
       <bibkey>melcuk-gladky-1969-tree</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 2</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="211966fa">C69-0200</url>
@@ -38,12 +40,13 @@
       <bibkey>schank-tesler-1969-conceptual</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 3</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="afb2d91a">C69-0300</url>
@@ -56,12 +59,13 @@
       <bibkey>benson-1969-nexus</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 4</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="18926655">C69-0400</url>
@@ -74,12 +78,13 @@
       <bibkey>salton-1969-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 5</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="8e21c1a9">C69-0500</url>
@@ -93,12 +98,13 @@
       <bibkey>durham-rogers-1969-application</bibkey>
     </paper>
   </volume>
-  <volume id="6">
+  <volume id="6" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 6</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="06258fe4">C69-0600</url>
@@ -111,12 +117,13 @@
       <bibkey>braun-1969-formal</bibkey>
     </paper>
   </volume>
-  <volume id="7">
+  <volume id="7" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 7</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="50bf6dfd">C69-0700</url>
@@ -129,12 +136,13 @@
       <bibkey>szanser-1969-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="8">
+  <volume id="8" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 8</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="c7f01ba8">C69-0800</url>
@@ -147,12 +155,13 @@
       <bibkey>wilks-1969-interactive</bibkey>
     </paper>
   </volume>
-  <volume id="9">
+  <volume id="9" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 9</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="c765c5fc">C69-0900</url>
@@ -165,12 +174,13 @@
       <bibkey>smith-1969-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="10">
+  <volume id="10" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 10</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="2ca92802">C69-1000</url>
@@ -184,12 +194,13 @@
       <bibkey>fujimura-kagaya-1969-structural</bibkey>
     </paper>
   </volume>
-  <volume id="11">
+  <volume id="11" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 11</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="a69679a2">C69-1100</url>
@@ -203,12 +214,13 @@
       <bibkey>pratt-pacak-1969-automated</bibkey>
     </paper>
   </volume>
-  <volume id="12">
+  <volume id="12" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 12</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="b145ee16">C69-1200</url>
@@ -221,12 +233,13 @@
       <bibkey>gammon-1969-quantitative</bibkey>
     </paper>
   </volume>
-  <volume id="13">
+  <volume id="13" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 13</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="9fca03b7">C69-1300</url>
@@ -240,12 +253,13 @@
       <bibkey>su-harper-1969-directed</bibkey>
     </paper>
   </volume>
-  <volume id="14">
+  <volume id="14" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 14</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="a9e1282d">C69-1400</url>
@@ -258,12 +272,13 @@
       <bibkey>friedman-1969-applications</bibkey>
     </paper>
   </volume>
-  <volume id="15">
+  <volume id="15" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 15</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="a5be3ac9">C69-1500</url>
@@ -276,12 +291,13 @@
       <bibkey>leunbach-1969-syntactic</bibkey>
     </paper>
   </volume>
-  <volume id="16">
+  <volume id="16" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 16</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="ee6a8603">C69-1600</url>
@@ -295,12 +311,13 @@
       <bibkey>skalmowski-van-overbeke-1969-computational</bibkey>
     </paper>
   </volume>
-  <volume id="17">
+  <volume id="17" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 17</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="7fbaa727">C69-1700</url>
@@ -308,6 +325,7 @@
     </frontmatter>
     <paper id="1">
       <title>Une Notation Des Textes Hors Des Contraintes Morphologiques Et Syntaxiques De L’expression</title>
+      <language>fra</language>
       <author id="bernard-vauquois"><first>B.</first><last>Vauquois</last></author>
       <author id="gerard-veillon"><first>G.</first><last>Veillon</last></author>
       <author id="nicolas-nedobejkine"><first>N.</first><last>Nedobejkine</last></author>
@@ -316,12 +334,13 @@
       <bibkey>vauquois-etal-1969-une</bibkey>
     </paper>
   </volume>
-  <volume id="18">
+  <volume id="18" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 18</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="181ca3ca">C69-1800</url>
@@ -334,12 +353,13 @@
       <bibkey>binnick-1969-application</bibkey>
     </paper>
   </volume>
-  <volume id="19">
+  <volume id="19" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 19</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="5a5ec7de">C69-1900</url>
@@ -352,12 +372,13 @@
       <bibkey>wood-1969-dialectology</bibkey>
     </paper>
   </volume>
-  <volume id="20">
+  <volume id="20" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 20</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="e5317fc5">C69-2000</url>
@@ -370,12 +391,13 @@
       <bibkey>mey-1969-preservation</bibkey>
     </paper>
   </volume>
-  <volume id="21">
+  <volume id="21" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 21</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="47584efd">C69-2100</url>
@@ -390,12 +412,13 @@
       <bibkey>klein-etal-1969-monte</bibkey>
     </paper>
   </volume>
-  <volume id="22">
+  <volume id="22" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 22</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="c5e98a38">C69-2200</url>
@@ -408,12 +431,13 @@
       <bibkey>von-glasersfeld-1969-semantics</bibkey>
     </paper>
   </volume>
-  <volume id="23">
+  <volume id="23" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 23</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="62030920">C69-2300</url>
@@ -421,17 +445,19 @@
     </frontmatter>
     <paper id="1">
       <title>Uber Zeitkeferenz Und Tempus</title>
+      <language>deu</language>
       <author><first>Dieter</first><last>Wunderlich</last></author>
       <url hash="11b3a517">C69-2301</url>
       <bibkey>wunderlich-1969-uber</bibkey>
     </paper>
   </volume>
-  <volume id="24">
+  <volume id="24" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 24</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="fd4e7682">C69-2400</url>
@@ -444,12 +470,13 @@
       <bibkey>laffal-1969-total</bibkey>
     </paper>
   </volume>
-  <volume id="25">
+  <volume id="25" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 25</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="2e475821">C69-2500</url>
@@ -462,12 +489,13 @@
       <bibkey>pisani-1969-organization</bibkey>
     </paper>
   </volume>
-  <volume id="26">
+  <volume id="26" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 26</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="3da0d5db">C69-2600</url>
@@ -480,12 +508,13 @@
       <bibkey>bujas-1969-computers</bibkey>
     </paper>
   </volume>
-  <volume id="27">
+  <volume id="27" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 27</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="38975ec8">C69-2700</url>
@@ -493,17 +522,19 @@
     </frontmatter>
     <paper id="1">
       <title>Quelques Applications De La Logique a La Semantique Des Langues Naturelles</title>
+      <language>fra</language>
       <author id="jacques-rouault"><first>J.</first><last>Rouault</last></author>
       <url hash="fabbf29b">C69-2701</url>
       <bibkey>rouault-1969-quelques</bibkey>
     </paper>
   </volume>
-  <volume id="28">
+  <volume id="28" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 28</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="1f812b23">C69-2800</url>
@@ -516,12 +547,13 @@
       <bibkey>bellert-1969-use</bibkey>
     </paper>
   </volume>
-  <volume id="29">
+  <volume id="29" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 29</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="0db28845">C69-2900</url>
@@ -534,12 +566,13 @@
       <bibkey>schwarcz-1969-towards</bibkey>
     </paper>
   </volume>
-  <volume id="30">
+  <volume id="30" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 30</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="668f037a">C69-3000</url>
@@ -552,12 +585,13 @@
       <bibkey>bunting-1969-empirical</bibkey>
     </paper>
   </volume>
-  <volume id="31">
+  <volume id="31" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 31</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="90071f72">C69-3100</url>
@@ -570,12 +604,13 @@
       <bibkey>batori-1969-disambiguating</bibkey>
     </paper>
   </volume>
-  <volume id="32">
+  <volume id="32" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 32</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="882210b9">C69-3200</url>
@@ -588,12 +623,13 @@
       <bibkey>woyna-1969-semantics</bibkey>
     </paper>
   </volume>
-  <volume id="33">
+  <volume id="33" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 33</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="7bd9c9f0">C69-3300</url>
@@ -606,12 +642,13 @@
       <bibkey>iivonen-1969-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="34">
+  <volume id="34" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 34</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="c0a5e3dd">C69-3400</url>
@@ -625,12 +662,13 @@
       <bibkey>lockemann-thompson-1969-rapidly</bibkey>
     </paper>
   </volume>
-  <volume id="35">
+  <volume id="35" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 35</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="23c91e06">C69-3500</url>
@@ -644,12 +682,13 @@
       <bibkey>dostert-thompson-1969-rapidly</bibkey>
     </paper>
   </volume>
-  <volume id="36">
+  <volume id="36" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 36</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="c53574c6">C69-3600</url>
@@ -662,12 +701,13 @@
       <bibkey>josselson-1969-lexicon</bibkey>
     </paper>
   </volume>
-  <volume id="37">
+  <volume id="37" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 37</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="5b2586a2">C69-3700</url>
@@ -680,12 +720,13 @@
       <bibkey>woolley-1969-automatic</bibkey>
     </paper>
   </volume>
-  <volume id="38">
+  <volume id="38" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 38</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="196c113c">C69-3800</url>
@@ -698,12 +739,13 @@
       <bibkey>dougherty-1969-pragmatic</bibkey>
     </paper>
   </volume>
-  <volume id="39">
+  <volume id="39" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 39</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="e383a91a">C69-3900</url>
@@ -716,12 +758,13 @@
       <bibkey>verburg-1969-hobbes</bibkey>
     </paper>
   </volume>
-  <volume id="40">
+  <volume id="40" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 40</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="d8f45238">C69-4000</url>
@@ -734,12 +777,13 @@
       <bibkey>moyne-1969-progress</bibkey>
     </paper>
   </volume>
-  <volume id="41">
+  <volume id="41" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 41</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="eed59358">C69-4100</url>
@@ -752,12 +796,13 @@
       <bibkey>montgomery-1969-linguistics</bibkey>
     </paper>
   </volume>
-  <volume id="42">
+  <volume id="42" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 42</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="0769216c">C69-4200</url>
@@ -771,12 +816,13 @@
       <bibkey>yang-yang-1969-universal</bibkey>
     </paper>
   </volume>
-  <volume id="43">
+  <volume id="43" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 43</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="008bd821">C69-4300</url>
@@ -784,17 +830,19 @@
     </frontmatter>
     <paper id="1">
       <title>Grammaire <fixed-case>I</fixed-case> Description Transformationnelle D’un Sous-Ensemble Du <fixed-case>F</fixed-case>rancais</title>
+      <language>fra</language>
       <author><first>Antonio A.M.</first><last>Querido</last></author>
       <url hash="3edbff0d">C69-4301</url>
       <bibkey>querido-1969-grammaire</bibkey>
     </paper>
   </volume>
-  <volume id="44">
+  <volume id="44" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 44</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="bbea527a">C69-4400</url>
@@ -807,12 +855,13 @@
       <bibkey>streeter-1969-syntactic</bibkey>
     </paper>
   </volume>
-  <volume id="45">
+  <volume id="45" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 45</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="ae33fe6c">C69-4500</url>
@@ -825,12 +874,13 @@
       <bibkey>peters-1969-use</bibkey>
     </paper>
   </volume>
-  <volume id="46">
+  <volume id="46" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 46</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="b2cbf667">C69-4600</url>
@@ -843,12 +893,13 @@
       <bibkey>borkowski-1969-structure</bibkey>
     </paper>
   </volume>
-  <volume id="47">
+  <volume id="47" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 47</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="4f66bebf">C69-4700</url>
@@ -861,12 +912,13 @@
       <bibkey>joshi-1969-properties</bibkey>
     </paper>
   </volume>
-  <volume id="48">
+  <volume id="48" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 48</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="43b2565a">C69-4800</url>
@@ -879,12 +931,13 @@
       <bibkey>marcus-1969-contextual</bibkey>
     </paper>
   </volume>
-  <volume id="49">
+  <volume id="49" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 49</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="ee32e6d7">C69-4900</url>
@@ -897,12 +950,13 @@
       <bibkey>sankoff-1969-simulation</bibkey>
     </paper>
   </volume>
-  <volume id="50">
+  <volume id="50" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 50</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="9e67f01e">C69-5000</url>
@@ -915,12 +969,13 @@
       <bibkey>petofi-1969-problems</bibkey>
     </paper>
   </volume>
-  <volume id="51">
+  <volume id="51" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 51</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="041eafe9">C69-5100</url>
@@ -933,12 +988,13 @@
       <bibkey>yang-1969-search</bibkey>
     </paper>
   </volume>
-  <volume id="52">
+  <volume id="52" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 52</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="680c4965">C69-5200</url>
@@ -953,12 +1009,13 @@
       <bibkey>francis-etal-1969-computer</bibkey>
     </paper>
   </volume>
-  <volume id="53">
+  <volume id="53" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 53</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="551c38a1">C69-5300</url>
@@ -972,12 +1029,13 @@
       <bibkey>fromkin-rice-1969-interactive</bibkey>
     </paper>
   </volume>
-  <volume id="54">
+  <volume id="54" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 54</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="ebb87544">C69-5400</url>
@@ -990,12 +1048,13 @@
       <bibkey>birbanescu-1969-network</bibkey>
     </paper>
   </volume>
-  <volume id="55">
+  <volume id="55" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 55</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="6a492952">C69-5500</url>
@@ -1003,6 +1062,7 @@
     </frontmatter>
     <paper id="1">
       <title>Le Projet De Traduction Automatique a L’universite De <fixed-case>M</fixed-case>ontreal</title>
+      <language>fra</language>
       <author><first>Andre</first><last>Dugas</last></author>
       <author><first>Myrna</first><last>Gopnik</last></author>
       <author><first>Brian</first><last>Harris</last></author>
@@ -1011,12 +1071,13 @@
       <bibkey>dugas-etal-1969-le</bibkey>
     </paper>
   </volume>
-  <volume id="56">
+  <volume id="56" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 56</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="dcdea8b0">C69-5600</url>
@@ -1029,12 +1090,13 @@
       <bibkey>afendras-1969-mathematical</bibkey>
     </paper>
   </volume>
-  <volume id="57">
+  <volume id="57" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 57</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="a8c04260">C69-5700</url>
@@ -1047,12 +1109,13 @@
       <bibkey>ladefoged-1969-measurement</bibkey>
     </paper>
   </volume>
-  <volume id="58">
+  <volume id="58" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 58</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="6655eeb0">C69-5800</url>
@@ -1066,12 +1129,13 @@
       <bibkey>edmundson-epstein-1969-computer</bibkey>
     </paper>
   </volume>
-  <volume id="59">
+  <volume id="59" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 59</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="08a1189a">C69-5900</url>
@@ -1084,12 +1148,13 @@
       <bibkey>zoltan-1969-problems</bibkey>
     </paper>
   </volume>
-  <volume id="60">
+  <volume id="60" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 60</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="1b95cff8">C69-6000</url>
@@ -1102,12 +1167,13 @@
       <bibkey>vasiliu-1969-time</bibkey>
     </paper>
   </volume>
-  <volume id="61">
+  <volume id="61" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 61</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="0dc7e2eb">C69-6100</url>
@@ -1120,12 +1186,13 @@
       <bibkey>varga-1969-problem</bibkey>
     </paper>
   </volume>
-  <volume id="62">
+  <volume id="62" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 62: Collection of Abstracts of Papers</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="9272ac1f">C69-6200</url>
@@ -1175,6 +1242,7 @@
     </paper>
     <paper id="8">
       <title>Sur quelques preprietes communes des catagories semantiques et des procedures generatrices de trois modeles de synthese dans le processus de la <fixed-case>TA</fixed-case> (resume)</title>
+      <language>fra</language>
       <author><first>A.</first><last>Ludskanov</last></author>
       <url hash="188d6bc7">C69-6208</url>
       <bibkey>ludskanov-1969-sur</bibkey>
@@ -1201,12 +1269,14 @@
     </paper>
     <paper id="12">
       <title>Analyse structurelle automatique de grouses nominaux anglais</title>
+      <language>fra</language>
       <author><first>L.</first><last>Moessner</last></author>
       <url hash="1c0f3901">C69-6212</url>
       <bibkey>moessner-1969-analyse</bibkey>
     </paper>
     <paper id="13">
       <title>Ein Programm zur automatischen Synthese englischer Satze</title>
+      <language>deu</language>
       <author><first>Klaus</first><last>Detering</last></author>
       <url hash="10062d1d">C69-6213</url>
       <bibkey>detering-1969-ein</bibkey>
@@ -1225,12 +1295,13 @@
       <bibkey>herzog-1969-computational</bibkey>
     </paper>
   </volume>
-  <volume id="63">
+  <volume id="63" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 63</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="4b96be68">C69-6300</url>
@@ -1243,12 +1314,13 @@
       <bibkey>walker-1969-computational</bibkey>
     </paper>
   </volume>
-  <volume id="64">
+  <volume id="64" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 64</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="e0684c62">C69-6400</url>
@@ -1261,12 +1333,13 @@
       <bibkey>kiefer-1969-progress</bibkey>
     </paper>
   </volume>
-  <volume id="65">
+  <volume id="65" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 65</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="33eed507">C69-6500</url>
@@ -1274,6 +1347,7 @@
     </frontmatter>
     <paper id="1">
       <title>Diskontinuierliche Konstituenten</title>
+      <language>deu</language>
       <author><first>H.</first><last>Eggers</last></author>
       <author><first>A.</first><last>Rothkegel-Schramm</last></author>
       <author id="wolfgang-klein"><first>W.</first><last>Klein</last></author>
@@ -1283,12 +1357,13 @@
       <bibkey>eggers-etal-1969-diskontinuierliche</bibkey>
     </paper>
   </volume>
-  <volume id="66">
+  <volume id="66" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 66</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="a9aad7f2">C69-6600</url>
@@ -1301,12 +1376,13 @@
       <bibkey>kalmar-1969-intuitive</bibkey>
     </paper>
   </volume>
-  <volume id="67">
+  <volume id="67" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 67</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="1413cc0e">C69-6700</url>
@@ -1314,17 +1390,19 @@
     </frontmatter>
     <paper id="1">
       <title>Die Semantische Syntax Der Kommunikativen Grammatik Auf Edv-Anlagen</title>
+      <language>deu</language>
       <author><first>Alfred</first><last>Hoppe</last></author>
       <url hash="d7388c76">C69-6701</url>
       <bibkey>hoppe-1969-die</bibkey>
     </paper>
   </volume>
-  <volume id="68">
+  <volume id="68" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 68</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="5e1bedfe">C69-6800</url>
@@ -1337,12 +1415,13 @@
       <bibkey>karlgren-1969-multi</bibkey>
     </paper>
   </volume>
-  <volume id="69">
+  <volume id="69" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 69: Collection of Abstracts of Papers</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="b5e6691a">C69-6900</url>
@@ -1373,12 +1452,13 @@
       <bibkey>wang-1969-project</bibkey>
     </paper>
   </volume>
-  <volume id="70">
+  <volume id="70" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 70</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="be35ecbc">C69-7000</url>
@@ -1391,12 +1471,13 @@
       <bibkey>karttunen-1969-discourse-referents</bibkey>
     </paper>
   </volume>
-  <volume id="71">
+  <volume id="71" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Preprint No. 71</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="aa3e23db">C69-7100</url>
@@ -1409,12 +1490,13 @@
       <bibkey>wang-1969-project-doc</bibkey>
     </paper>
   </volume>
-  <volume id="72">
+  <volume id="72" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="94d7709c">C69-7200</url>
@@ -1422,16 +1504,18 @@
     </frontmatter>
     <paper id="1">
       <title>Die Malarinseln Und Ihre Sehenswurdigkeiten</title>
+      <language>deu</language>
       <url hash="cfea767a">C69-7201</url>
       <bibkey>nn-1969-die</bibkey>
     </paper>
   </volume>
-  <volume id="73">
+  <volume id="73" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="f27b5c01">C69-7300</url>
@@ -1443,12 +1527,13 @@
       <bibkey>nn-1969-program</bibkey>
     </paper>
   </volume>
-  <volume id="74">
+  <volume id="74" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="edcdda3a">C69-7400</url>
@@ -1461,12 +1546,13 @@
       <bibkey>minow-1969-half</bibkey>
     </paper>
   </volume>
-  <volume id="75">
+  <volume id="75" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="0b83237e">C69-7500</url>
@@ -1480,12 +1566,13 @@
       <bibkey>sgall-hajicova-1969-remarks</bibkey>
     </paper>
   </volume>
-  <volume id="76">
+  <volume id="76" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Post-Print <fixed-case>I</fixed-case></booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <frontmatter>
       <url hash="151b785b">C69-7600</url>
@@ -1520,12 +1607,13 @@
       <bibkey>nn-1969-diverse</bibkey>
     </paper>
   </volume>
-  <volume id="77">
+  <volume id="77" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Index to Preprints</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Index to Preprints</title>
@@ -1533,12 +1621,13 @@
       <bibkey>nn-1969-international</bibkey>
     </paper>
   </volume>
-  <volume id="78">
+  <volume id="78" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Bulletin <fixed-case>M</fixed-case>onday, <fixed-case>S</fixed-case>eptember 1, 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Bulletin <fixed-case>M</fixed-case>onday, <fixed-case>S</fixed-case>eptember 1, 1969</title>
@@ -1546,12 +1635,13 @@
       <bibkey>nn-1969-international-conference</bibkey>
     </paper>
   </volume>
-  <volume id="79">
+  <volume id="79" type="proceedings">
     <meta>
       <booktitle><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Bulletin <fixed-case>W</fixed-case>ednesday, <fixed-case>S</fixed-case>eptember 3, 1969</booktitle>
       <month>September</month>
       <year>1969</year>
       <address>Sånga Säby, Sweden</address>
+      <venue>coling</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>I</fixed-case>nternational <fixed-case>C</fixed-case>onference on <fixed-case>C</fixed-case>omputational <fixed-case>L</fixed-case>inguistics <fixed-case>COLING</fixed-case> 1969: Bulletin <fixed-case>W</fixed-case>ednesday, <fixed-case>S</fixed-case>eptember 3, 1969</title>

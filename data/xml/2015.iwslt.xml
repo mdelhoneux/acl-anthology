@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2015.iwslt">
-  <volume id="keynotes" ingest-date="2021-08-08">
+  <volume id="keynotes" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th International Workshop on Spoken Language Translation: Keynotes</booktitle>
       <address>Da Nang, Vietnam</address>
@@ -9,6 +9,7 @@
       <editor><first>Marcello</first><last>Federico</last></editor>
       <editor><first>Sebastian</first><last>Stüker</last></editor>
       <editor><first>Jan</first><last>Niehues</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Improving <fixed-case>SMT</fixed-case> by model filtering and phrase embedding</title>
@@ -17,7 +18,7 @@
       <bibkey>zong-2015-improving</bibkey>
     </paper>
   </volume>
-  <volume id="evaluation" ingest-date="2021-08-08">
+  <volume id="evaluation" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th International Workshop on Spoken Language Translation: Evaluation Campaign</booktitle>
       <address>Da Nang, Vietnam</address>
@@ -26,6 +27,7 @@
       <editor><first>Marcello</first><last>Federico</last></editor>
       <editor><first>Sebastian</first><last>Stüker</last></editor>
       <editor><first>Jan</first><last>Niehues</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>The <fixed-case>IWSLT</fixed-case> 2015 Evaluation Campaign</title>
@@ -217,7 +219,7 @@
       <bibkey>nomura-etal-2015-improvement</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-08-08">
+  <volume id="papers" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th International Workshop on Spoken Language Translation: Papers</booktitle>
       <address>Da Nang, Vietnam</address>
@@ -226,6 +228,7 @@
       <editor><first>Marcello</first><last>Federico</last></editor>
       <editor><first>Sebastian</first><last>Stüker</last></editor>
       <editor><first>Jan</first><last>Niehues</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Unsupervised comparable corpora preparation and exploration for bi-lingual translation equivalents</title>

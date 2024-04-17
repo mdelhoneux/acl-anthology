@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.framenet">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the International FrameNet Workshop 2020: Towards a Global, Multilingual FrameNet</booktitle>
       <editor><first>Tiago T.</first><last>Torrent</last></editor>
@@ -13,6 +13,7 @@
       <month>May</month>
       <year>2020</year>
       <isbn>979-10-95546-58-0</isbn>
+      <venue>framenet</venue>
     </meta>
     <frontmatter>
       <url hash="9b12a8db">2020.framenet-1.0</url>

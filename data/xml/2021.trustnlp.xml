@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.trustnlp">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the First Workshop on Trustworthy Natural Language Processing</booktitle>
       <editor><first>Yada</first><last>Pruksachatkun</last></editor>
@@ -15,6 +15,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.trustnlp-1</url>
+      <venue>trustnlp</venue>
     </meta>
     <frontmatter>
       <url hash="c36171ab">2021.trustnlp-1.0</url>
@@ -52,6 +53,7 @@
       <bibkey>feyisetan-kasiviswanathan-2021-private</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="4">
       <title>Accountable Error Characterization</title>
@@ -104,7 +106,9 @@
       <url hash="47b284a8">2021.trustnlp-1.7</url>
       <doi>10.18653/v1/2021.trustnlp-1.7</doi>
       <bibkey>kumar-etal-2021-interpreting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="8">
       <title>Towards Benchmarking the Utility of Explanations for Model Debugging</title>

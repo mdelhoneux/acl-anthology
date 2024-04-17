@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y13">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 27th Pacific Asia Conference on Language, Information, and Computation (<fixed-case>PACLIC</fixed-case> 27)</booktitle>
       <url hash="b1e5fe2a">Y13-1</url>
@@ -8,6 +8,7 @@
       <address>Taipei, Taiwan</address>
       <month>November</month>
       <year>2013</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="de4a9b73">Y13-1000</url>
@@ -467,13 +468,14 @@
       <bibkey>chae-2013-myths</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle><fixed-case>PACLIC</fixed-case> 27 Workshop on Computer-Assisted Language Learning</booktitle>
       <publisher>Department of English, National Chengchi University</publisher>
       <address>Taipei, Taiwan</address>
       <month>November</month>
       <year>2013</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <bibkey>paclic-2013-paclic</bibkey>

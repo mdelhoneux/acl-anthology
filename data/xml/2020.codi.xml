@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.codi">
-  <volume id="1" ingest-date="2020-11-06">
+  <volume id="1" ingest-date="2020-11-06" type="proceedings">
     <meta>
       <booktitle>Proceedings of the First Workshop on Computational Approaches to Discourse</booktitle>
       <editor><first>Chloé</first><last>Braud</last></editor>
@@ -12,6 +12,7 @@
       <address>Online</address>
       <month>November</month>
       <year>2020</year>
+      <venue>codi</venue>
     </meta>
     <frontmatter>
       <url hash="f32c0e1b">2020.codi-1.0</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.socialnlp">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Ninth International Workshop on Natural Language Processing for Social Media</booktitle>
       <editor><first>Lun-Wei</first><last>Ku</last></editor>
@@ -10,6 +10,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.socialnlp-1</url>
+      <venue>socialnlp</venue>
     </meta>
     <frontmatter>
       <url hash="d0f89066">2021.socialnlp-1.0</url>
@@ -137,6 +138,7 @@
       <url hash="736fcd59">2021.socialnlp-1.10</url>
       <doi>10.18653/v1/2021.socialnlp-1.10</doi>
       <bibkey>bose-etal-2021-unsupervised</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hate-speech-and-offensive-language">Hate Speech and Offensive Language</pwcdataset>
     </paper>
     <paper id="11">

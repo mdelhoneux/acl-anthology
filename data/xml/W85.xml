@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W85">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 5th Nordic Conference of Computational Linguistics (<fixed-case>NODALIDA</fixed-case> 1985)</booktitle>
       <url hash="43526e42">W85-01</url>
@@ -8,6 +8,7 @@
       <publisher>Department of General Linguistics, University of Helsinki, Finland</publisher>
       <address>Helsinki, Finland</address>
       <year>1986</year>
+      <venue>nodalida</venue>
     </meta>
     <frontmatter>
       <url hash="89ad31e5">W85-0100</url>

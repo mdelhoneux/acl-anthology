@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2007.jeptalnrecital">
-  <volume id="long" ingest-date="2021-02-05">
+  <volume id="long" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 14ème conférence sur le Traitement Automatique des Langues Naturelles. Articles longs</booktitle>
       <editor><first>Nabil</first><last>Hathout</last></editor>
@@ -9,6 +9,7 @@
       <address>Toulouse, France</address>
       <month>June</month>
       <year>2007</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="14368492">2007.jeptalnrecital-long.0</url>
@@ -397,7 +398,7 @@
       <bibkey>semmar-fluhr-2007-utilisation</bibkey>
     </paper>
   </volume>
-  <volume id="poster" ingest-date="2021-02-05">
+  <volume id="poster" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 14ème conférence sur le Traitement Automatique des Langues Naturelles. Posters</booktitle>
       <editor><first>Nabil</first><last>Hathout</last></editor>
@@ -406,6 +407,7 @@
       <address>Toulouse, France</address>
       <month>June</month>
       <year>2007</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="a564c332">2007.jeptalnrecital-poster.0</url>
@@ -724,7 +726,7 @@ _grammes de transitions.</abstract>
       <bibkey>zouaghi-etal-2007-evaluation</bibkey>
     </paper>
   </volume>
-  <volume id="demonstration" ingest-date="2021-02-05">
+  <volume id="demonstration" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 14ème conférence sur le Traitement Automatique des Langues Naturelles. Démonstrations</booktitle>
       <editor><first>Nabil</first><last>Hathout</last></editor>
@@ -733,6 +735,7 @@ _grammes de transitions.</abstract>
       <address>Toulouse, France</address>
       <month>June</month>
       <year>2007</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="d1875738">2007.jeptalnrecital-demonstration.0</url>
@@ -780,7 +783,7 @@ _grammes de transitions.</abstract>
       <bibkey>pierrel-petitjean-2007-le</bibkey>
     </paper>
   </volume>
-  <volume id="recital" ingest-date="2021-02-05">
+  <volume id="recital" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 14ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues</booktitle>
       <editor><first>Farah</first><last>Benamara</last></editor>
@@ -789,6 +792,7 @@ _grammes de transitions.</abstract>
       <address>Toulouse, France</address>
       <month>June</month>
       <year>2007</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="38711a0a">2007.jeptalnrecital-recital.0</url>
@@ -858,7 +862,7 @@ _grammes de transitions.</abstract>
       <bibkey>sitbon-2007-combinaison</bibkey>
     </paper>
   </volume>
-  <volume id="recitalposter" ingest-date="2021-02-05">
+  <volume id="recitalposter" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 14ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues (Posters)</booktitle>
       <editor><first>Farah</first><last>Benamara</last></editor>
@@ -867,6 +871,7 @@ _grammes de transitions.</abstract>
       <address>Toulouse, France</address>
       <month>June</month>
       <year>2007</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="a0cfc16d">2007.jeptalnrecital-recitalposter.0</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.calcs">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching</booktitle>
       <editor><first>Thamar</first><last>Solorio</last></editor>
@@ -16,6 +16,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.calcs-1</url>
+      <venue>calcs</venue>
     </meta>
     <frontmatter>
       <url hash="238b0a33">2021.calcs-1.0</url>
@@ -53,7 +54,6 @@
       <doi>10.18653/v1/2021.calcs-1.3</doi>
       <bibkey>gautam-etal-2021-translate</bibkey>
       <pwccode url="https://github.com/devanshg27/cm_translatify" additional="false">devanshg27/cm_translatify</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -184,7 +184,7 @@
       <author><first>Khyathi Raghavi</first><last>Chandu</last></author>
       <author><first>Alan W</first><last>Black</last></author>
       <pages>113–118</pages>
-      <abstract>The NLP community has witnessed steep progress in a variety of tasks across the realms of monolingual and multilingual language processing recently. These successes, in conjunction with the proliferating mixed language interactions on social media, have boosted interest in modeling code-mixed texts. In this work, we present CodemixedNLP, an open-source library with the goals of bringing together the advances in code-mixed NLP and opening it up to a wider machine learning community. The library consists of tools to develop and benchmark versatile model architectures that are tailored for mixed texts, methods to expand training sets, techniques to quantify mixing styles, and fine-tuned state-of-the-art models for 7 tasks in Hinglish. We believe this work has the potential to foster a distributed yet collaborative and sustainable ecosystem in an otherwise dispersed space of code-mixing research. The toolkit is designed to be simple, easily extensible, and resourceful to both researchers as well as practitioners. Demo: &lt;http://k-ikkees.pc.cs.cmu.edu:5000&gt; and Library: &lt;https://github.com/murali1996/CodemixedNLP&gt;</abstract>
+      <abstract>The NLP community has witnessed steep progress in a variety of tasks across the realms of monolingual and multilingual language processing recently. These successes, in conjunction with the proliferating mixed language interactions on social media, have boosted interest in modeling code-mixed texts. In this work, we present CodemixedNLP, an open-source library with the goals of bringing together the advances in code-mixed NLP and opening it up to a wider machine learning community. The library consists of tools to develop and benchmark versatile model architectures that are tailored for mixed texts, methods to expand training sets, techniques to quantify mixing styles, and fine-tuned state-of-the-art models for 7 tasks in Hinglish. We believe this work has the potential to foster a distributed yet collaborative and sustainable ecosystem in an otherwise dispersed space of code-mixing research. The toolkit is designed to be simple, easily extensible, and resourceful to both researchers as well as practitioners. Demo: <url>http://k-ikkees.pc.cs.cmu.edu:5000</url> and Library: <url>https://github.com/murali1996/CodemixedNLP</url></abstract>
       <url hash="8ab04c65">2021.calcs-1.14</url>
       <doi>10.18653/v1/2021.calcs-1.14</doi>
       <bibkey>jayanthi-etal-2021-codemixednlp</bibkey>
@@ -212,7 +212,7 @@
     </paper>
     <paper id="17">
       <title>Developing <fixed-case>ASR</fixed-case> for <fixed-case>I</fixed-case>ndonesian-<fixed-case>E</fixed-case>nglish Bilingual Language Teaching</title>
-      <author><first>Zara</first><last>Maxwelll-Smith</last></author>
+      <author><first>Zara</first><last>Maxwell-Smith</last></author>
       <author><first>Ben</first><last>Foley</last></author>
       <pages>131–132</pages>
       <abstract>Usage-based analyses of teacher corpora and code-switching (Boztepe, 2003) are an important next stage in understanding language acquisition. Multilingual corpora are difficult to compile and a classroom setting adds pedagogy to the mix of factors which make this data so rich and problematic to classify. Using quantitative methods to understand language learning and teaching is difficult work as the ‘transcription bottleneck’ constrains the size of datasets. We found that using an automatic speech recognition (ASR) toolkit with a small set of training data is likely to speed data collection in this context (Maxwelll-Smith et al., 2020).</abstract>
@@ -240,6 +240,7 @@
       <url hash="85f19b06">2021.calcs-1.19</url>
       <doi>10.18653/v1/2021.calcs-1.19</doi>
       <bibkey>tan-joty-2021-code-mixing</bibkey>
+      <video href="2021.calcs-1.19.mp4"/>
       <pwccode url="https://github.com/salesforce/adversarial-polyglots" additional="false">salesforce/adversarial-polyglots</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>

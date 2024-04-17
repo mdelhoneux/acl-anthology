@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2001.jeptalnrecital">
-  <volume id="invite" ingest-date="2021-02-05">
+  <volume id="invite" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. Conférences invitées</booktitle>
       <editor><first>Denis</first><last>Maurel</last></editor>
@@ -8,6 +8,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="a721700f">2001.jeptalnrecital-invite.0</url>
@@ -31,7 +32,7 @@
       <bibkey>vergne-2001-analyse</bibkey>
     </paper>
   </volume>
-  <volume id="long" ingest-date="2021-02-05">
+  <volume id="long" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. Articles longs</booktitle>
       <editor><first>Denis</first><last>Maurel</last></editor>
@@ -39,6 +40,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="55d60984">2001.jeptalnrecital-long.0</url>
@@ -340,7 +342,7 @@
       <bibkey>vazov-2001-system-extraction</bibkey>
     </paper>
   </volume>
-  <volume id="poster" ingest-date="2021-02-05">
+  <volume id="poster" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. Posters</booktitle>
       <editor><first>Denis</first><last>Maurel</last></editor>
@@ -348,6 +350,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="0574ea8e">2001.jeptalnrecital-poster.0</url>
@@ -486,7 +489,7 @@
       <bibkey>zweigenbaum-etal-2001-lapport</bibkey>
     </paper>
   </volume>
-  <volume id="tutoriel" ingest-date="2021-02-05">
+  <volume id="tutoriel" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. Tutoriels</booktitle>
       <editor><first>Denis</first><last>Maurel</last></editor>
@@ -494,6 +497,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="aedb2db0">2001.jeptalnrecital-tutoriel.0</url>
@@ -556,7 +560,7 @@
       <bibkey>silberztein-etal-2001-intex</bibkey>
     </paper>
   </volume>
-  <volume id="recital" ingest-date="2021-02-05">
+  <volume id="recital" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues</booktitle>
       <editor><first>Béatrice</first><last>Bouchou</last></editor>
@@ -564,6 +568,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="cdf07b54">2001.jeptalnrecital-recital.0</url>
@@ -642,7 +647,7 @@
       <bibkey>reymond-2001-dictionnaires</bibkey>
     </paper>
   </volume>
-  <volume id="recitalposter" ingest-date="2021-02-05">
+  <volume id="recitalposter" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 8ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues (Posters)</booktitle>
       <editor><first>Béatrice</first><last>Bouchou</last></editor>
@@ -650,6 +655,7 @@
       <address>Tours, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="503bb95e">2001.jeptalnrecital-recitalposter.0</url>

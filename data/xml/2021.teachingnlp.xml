@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.teachingnlp">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fifth Workshop on Teaching NLP</booktitle>
       <editor><first>David</first><last>Jurgens</last></editor>
@@ -13,6 +13,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.teachingnlp-1</url>
+      <venue>teachingnlp</venue>
     </meta>
     <frontmatter>
       <url hash="076b2c31">2021.teachingnlp-1.0</url>

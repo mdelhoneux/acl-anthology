@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P79">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>17th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>La Jolla, California, USA</address>
       <month>June</month>
       <year>1979</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="cbae0240">P79-1000</url>

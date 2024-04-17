@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="E09">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 12th Conference of the <fixed-case>E</fixed-case>uropean Chapter of the <fixed-case>ACL</fixed-case> (<fixed-case>EACL</fixed-case> 2009)</booktitle>
       <url hash="ac729c39">E09-1</url>
@@ -11,6 +11,7 @@
       <address>Athens, Greece</address>
       <month>March</month>
       <year>2009</year>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="10291637">E09-1000</url>
@@ -383,7 +384,7 @@
       <author><first>Gonzalo</first><last>Iglesias</last></author>
       <author><first>Adrià</first><last>de Gispert</last></author>
       <author><first>Eduardo R.</first><last>Banga</last></author>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <pages>380–388</pages>
       <url hash="0b6d9a65">E09-1044</url>
       <bibkey>iglesias-etal-2009-rule</bibkey>
@@ -862,7 +863,7 @@
       <bibkey>zhao-2009-character</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Demonstrations Session at <fixed-case>EACL</fixed-case> 2009</booktitle>
       <url hash="e5f1eb17">E09-2</url>
@@ -871,6 +872,7 @@
       <address>Athens, Greece</address>
       <month>April</month>
       <year>2009</year>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="abb96bc0">E09-2000</url>
@@ -1038,7 +1040,7 @@
       <bibkey>stahl-etal-2009-mobile</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Student Research Workshop at <fixed-case>EACL</fixed-case> 2009</booktitle>
       <url hash="425f5533">E09-3</url>
@@ -1049,6 +1051,7 @@
       <address>Athens, Greece</address>
       <month>April</month>
       <year>2009</year>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="f261cc8c">E09-3000</url>

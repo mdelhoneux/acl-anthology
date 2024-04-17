@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="A88">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Second Conference on Applied Natural Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Austin, Texas, USA</address>
       <month>February</month>
       <year>1988</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="8afcd141">A88-1000</url>

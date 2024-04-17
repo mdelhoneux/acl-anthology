@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="F12">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Joint Conference JEP-TALN-RECITAL 2012, volume 1: JEP</booktitle>
       <url hash="b143a9ff">F12-1</url>
@@ -11,6 +11,7 @@
       <address>Grenoble, France</address>
       <month>June</month>
       <year>2012</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="395c26e8">F12-1000</url>
@@ -1034,7 +1035,7 @@
       <bibkey>pota-etal-2012-la</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Joint Conference JEP-TALN-RECITAL 2012, volume 2: TALN</booktitle>
       <url hash="40f5ba5d">F12-2</url>
@@ -1045,6 +1046,7 @@
       <address>Grenoble, France</address>
       <month>June</month>
       <year>2012</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="c186a668">F12-2000</url>
@@ -1129,6 +1131,7 @@
       <pages>113–126</pages>
       <url hash="90b81db7">F12-2009</url>
       <bibkey>lardilleux-etal-2012-alignement</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
     </paper>
     <paper id="10">
       <title>Utilisation de la translittération arabe pour l’amélioration de l’alignement de mots à partir de corpus parallèles français-arabe (Using <fixed-case>A</fixed-case>rabic Transliteration to Improve Word Alignment from <fixed-case>F</fixed-case>rench-<fixed-case>A</fixed-case>rabic Parallel Corpora) [in <fixed-case>F</fixed-case>rench]</title>
@@ -1336,7 +1339,7 @@
       <pages>391–398</pages>
       <url hash="77026111">F12-2032</url>
       <bibkey>garcia-fernandez-ferret-2012-etude</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0">Multi-Domain Sentiment Dataset v2.0</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0">Multi-Domain Sentiment</pwcdataset>
     </paper>
     <paper id="33">
       <title>Le Lexicoscope : un outil pour l’étude de profils combinatoires et l’extraction de constructions lexico-syntaxiques (The Lexicoscope : an integrated tool for combinatoric profles observation and lexico-syntactic constructs extraction) [in <fixed-case>F</fixed-case>rench]</title>
@@ -1415,6 +1418,7 @@
       <pages>463–470</pages>
       <url hash="35005673">F12-2041</url>
       <bibkey>bittar-hagege-2012-un</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/french-timebank">French Timebank</pwcdataset>
     </paper>
     <paper id="42">
       <title>Vers le <fixed-case>FDTB</fixed-case> : <fixed-case>F</fixed-case>rench Discourse Tree Bank (Towards the <fixed-case>FDTB</fixed-case> : <fixed-case>F</fixed-case>rench Discourse Tree Bank) [in <fixed-case>F</fixed-case>rench]</title>
@@ -1488,6 +1492,7 @@
       <pages>527–534</pages>
       <url hash="36018ff9">F12-2049</url>
       <bibkey>rubino-etal-2012-post</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
     </paper>
     <paper id="50">
       <title>Annotation référentielle du Corpus Arboré de <fixed-case>P</fixed-case>aris 7 en entités nommées (Referential named entity annotation of the <fixed-case>P</fixed-case>aris 7 <fixed-case>F</fixed-case>rench <fixed-case>T</fixed-case>ree<fixed-case>B</fixed-case>ank) [in <fixed-case>F</fixed-case>rench]</title>
@@ -1525,7 +1530,7 @@
       <bibkey>vanrullen-etal-2012-enjeux</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Joint Conference JEP-TALN-RECITAL 2012, volume 3: RECITAL</booktitle>
       <url hash="08f43382">F12-3</url>
@@ -1536,6 +1541,7 @@
       <address>Grenoble, France</address>
       <month>June</month>
       <year>2012</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="0c31ccbf">F12-3000</url>
@@ -1640,6 +1646,7 @@
       <pages>177–190</pages>
       <url hash="705a7096">F12-3014</url>
       <bibkey>marchand-2012-etat</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0">Multi-Domain Sentiment</pwcdataset>
     </paper>
     <paper id="15">
       <title>Typologie des questions à réponses multiples pour un système de question-réponse (Typology of Multiple Answer Questions for a Question-answering System) [in <fixed-case>F</fixed-case>rench]</title>
@@ -1726,7 +1733,7 @@
       <bibkey>baudrillart-2012-extraction</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Joint Conference <fixed-case>JEP</fixed-case>-<fixed-case>TALN</fixed-case>-<fixed-case>RECITAL</fixed-case> 2012, volume 4: Invited Conferences</booktitle>
       <url hash="4ca45c80">F12-4</url>
@@ -1739,6 +1746,7 @@
       <address>Grenoble, France</address>
       <month>June</month>
       <year>2012</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="9791d745">F12-4000</url>
@@ -1773,7 +1781,7 @@
       <bibkey>maddieson-2012-origin</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Joint Conference <fixed-case>JEP</fixed-case>-<fixed-case>TALN</fixed-case>-<fixed-case>RECITAL</fixed-case> 2012, volume 5: Software Demonstrations</booktitle>
       <url hash="e76a3c04">F12-5</url>
@@ -1784,6 +1792,7 @@
       <address>Grenoble, France</address>
       <month>June</month>
       <year>2012</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="9b5f6888">F12-5000</url>

@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="A94">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Fourth Conference on Applied Natural Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Stuttgart, Germany</address>
       <month>October</month>
       <year>1994</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="ff31f15d">A94-1000</url>

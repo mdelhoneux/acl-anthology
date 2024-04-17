@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.eval4nlp">
-  <volume id="1" ingest-date="2020-11-06">
+  <volume id="1" ingest-date="2020-11-06" type="proceedings">
     <meta>
       <booktitle>Proceedings of the First Workshop on Evaluation and Comparison of NLP Systems</booktitle>
       <editor><first>Steffen</first><last>Eger</last></editor>
@@ -12,6 +12,7 @@
       <address>Online</address>
       <month>November</month>
       <year>2020</year>
+      <venue>eval4nlp</venue>
     </meta>
     <frontmatter>
       <url hash="f2f7d694">2020.eval4nlp-1.0</url>
@@ -192,6 +193,7 @@
       <bibkey>dudy-bedrick-2020-words</bibkey>
       <pwccode url="https://github.com/shiranD/word_level_evaluation" additional="false">shiranD/word_level_evaluation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="14">
       <title>On Aligning <fixed-case>O</fixed-case>pen<fixed-case>IE</fixed-case> Extractions with Knowledge Bases: A Case Study</title>
@@ -222,6 +224,7 @@
       <bibkey>wecker-etal-2020-clusterdatasplit</bibkey>
       <pwccode url="https://github.com/boschresearch/clusterdatasplit_eval4nlp-2020" additional="false">boschresearch/clusterdatasplit_eval4nlp-2020</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="16">
       <title>Best Practices for Crowd-based Evaluation of <fixed-case>G</fixed-case>erman Summarization: Comparing Crowd, Expert and Automatic Evaluation</title>

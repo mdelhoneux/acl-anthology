@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y01">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 15th Pacific Asia Conference on Language, Information and Computation</booktitle>
       <editor><first>Benjamin K.</first><last>T’sou</last></editor>
@@ -10,6 +10,7 @@
       <address>Hong Kong, China</address>
       <month>February</month>
       <year>2001</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="1a07a9bd">Y01-1000</url>

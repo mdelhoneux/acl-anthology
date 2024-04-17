@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y95">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 10th Pacific Asia Conference on Language, Information and Computation</booktitle>
       <editor><first>Benjamin K.</first><last>T’sou</last></editor>
@@ -9,6 +9,7 @@
       <address>City University of Hong Kong, Hong Kong</address>
       <month>December</month>
       <year>1995</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="439b31ba">Y95-1000</url>

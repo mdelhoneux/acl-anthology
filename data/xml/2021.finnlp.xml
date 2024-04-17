@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.finnlp">
-  <volume id="1" ingest-date="2021-09-26">
+  <volume id="1" ingest-date="2021-09-26" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third Workshop on Financial Technology and Natural Language Processing</booktitle>
       <editor><first>Chung-Chi</first><last>Chen</last></editor>
@@ -11,6 +11,7 @@
       <address>Online</address>
       <month>19 August</month>
       <year>2021</year>
+      <venue>finnlp</venue>
     </meta>
     <frontmatter>
       <url hash="27d6ccb5">2021.finnlp-1.0</url>
@@ -86,7 +87,7 @@
       <pages>46–51</pages>
       <url hash="67e5c981">2021.finnlp-1.8</url>
       <bibkey>chopra-ghosh-2021-term</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
+      <pwccode url="https://github.com/sohomghosh/FinSim_Financial_Hypernym_detection" additional="false">sohomghosh/FinSim_Financial_Hypernym_detection</pwccode>
     </paper>
     <paper id="9">
       <title>Yseop at <fixed-case>F</fixed-case>in<fixed-case>S</fixed-case>im-3 Shared Task 2021: Specializing Financial Domain Learning with Phrase Representations</title>
@@ -96,7 +97,7 @@
       <pages>52–57</pages>
       <url hash="8418deda">2021.finnlp-1.9</url>
       <bibkey>akl-etal-2021-yseop</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="10">
       <title>Exploiting Network Structures to Improve Semantic Representation for the Financial Domain</title>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2006.jeptalnrecital">
-  <volume id="invite" ingest-date="2021-02-05">
+  <volume id="invite" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. Conférences invitées</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -11,6 +11,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="591cc4e4">2006.jeptalnrecital-invite.0</url>
@@ -34,7 +35,7 @@
       <bibkey>van-noord-2006-last</bibkey>
     </paper>
   </volume>
-  <volume id="long" ingest-date="2021-02-05">
+  <volume id="long" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. Articles longs</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -45,6 +46,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="aedb2db0">2006.jeptalnrecital-long.0</url>
@@ -409,7 +411,7 @@
       <bibkey>widlocher-2006-analyse</bibkey>
     </paper>
   </volume>
-  <volume id="poster" ingest-date="2021-02-05">
+  <volume id="poster" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. Posters</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -420,6 +422,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="cf454c60">2006.jeptalnrecital-poster.0</url>
@@ -714,7 +717,7 @@
       <bibkey>zouaghi-etal-2006-linfluence</bibkey>
     </paper>
   </volume>
-  <volume id="tutoriel" ingest-date="2021-02-05">
+  <volume id="tutoriel" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. Tutoriels</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -725,6 +728,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="e514b95f">2006.jeptalnrecital-tutoriel.0</url>
@@ -740,7 +744,7 @@
       <bibkey>lepage-2006-analogie</bibkey>
     </paper>
   </volume>
-  <volume id="recital" ingest-date="2021-02-05">
+  <volume id="recital" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -751,6 +755,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="4a20e5ab">2006.jeptalnrecital-recital.0</url>
@@ -828,7 +833,7 @@
       <bibkey>trichet-allaire-2006-une</bibkey>
     </paper>
   </volume>
-  <volume id="recitalposter" ingest-date="2021-02-05">
+  <volume id="recitalposter" ingest-date="2021-02-05" type="proceedings">
     <meta>
       <booktitle>Actes de la 13ème conférence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues (Posters)</booktitle>
       <editor><first>Piet</first><last>Mertens</last></editor>
@@ -839,6 +844,7 @@
       <address>Leuven, Belgique</address>
       <month>April</month>
       <year>2006</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="a06ba9e9">2006.jeptalnrecital-recitalposter.0</url>

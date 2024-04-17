@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="A97">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Fifth Conference on Applied Natural Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Washington, DC, USA</address>
       <month>March</month>
       <year>1997</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="93502d5c">A97-1000</url>
@@ -573,13 +574,14 @@
       <bibkey>pedersen-etal-1997-sequential</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Fifth Conference on Applied Natural Language Processing: Descriptions of System Demonstrations and Videos</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Washington, DC, USA</address>
       <month>March</month>
       <year>1997</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="5f80a9cd">A97-2000</url>

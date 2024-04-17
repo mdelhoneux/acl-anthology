@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.aacl">
-  <volume id="main" ingest-date="2020-12-02">
+  <volume id="main" ingest-date="2020-12-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing</booktitle>
       <editor><first>Kam-Fai</first><last>Wong</last></editor>
@@ -10,6 +10,8 @@
       <address>Suzhou, China</address>
       <month>December</month>
       <year>2020</year>
+      <url hash="7ad83db1">2020.aacl-main</url>
+      <venue>aacl</venue>
     </meta>
     <frontmatter>
       <url hash="803dfce7">2020.aacl-main.0</url>
@@ -61,6 +63,7 @@
       <abstract>Aspect-level sentiment analysis(ASC) predicts each specific aspect term’s sentiment polarity in a given text or review. Recent studies used attention-based methods that can effectively improve the performance of aspect-level sentiment analysis. These methods ignored the syntactic relationship between the aspect and its corresponding context words, leading the model to focus on syntactically unrelated words mistakenly. One proposed solution, the graph convolutional network (GCN), cannot completely avoid the problem. While it does incorporate useful information about syntax, it assigns equal weight to all the edges between connected words. It may still incorrectly associate unrelated words to the target aspect through the iterations of graph convolutional propagation. In this study, a graph attention network with memory fusion is proposed to extend GCN’s idea by assigning different weights to edges. Syntactic constraints can be imposed to block the graph convolutional propagation of unrelated words. A convolutional layer and a memory fusion were applied to learn and exploit multiword relations and draw different weights of words to improve performance further. Experimental results on five datasets show that the proposed method yields better performance than existing methods.</abstract>
       <url hash="39c6b054">2020.aacl-main.4</url>
       <bibkey>yuan-etal-2020-graph</bibkey>
+      <pwccode url="https://github.com/YuanLi95/GATT-For-Aspect" additional="false">YuanLi95/GATT-For-Aspect</pwccode>
     </paper>
     <paper id="5">
       <title><fixed-case>FERN</fixed-case>et: Fine-grained Extraction and Reasoning Network for Emotion Recognition in Dialogues</title>
@@ -94,6 +97,7 @@
       <url hash="fd91193b">2020.aacl-main.7</url>
       <attachment type="Dataset" hash="e3d69c75">2020.aacl-main.7.Dataset.pdf</attachment>
       <bibkey>wenjie-etal-2020-bcth</bibkey>
+      <pwccode url="https://github.com/myazi/semhash" additional="false">myazi/semhash</pwccode>
     </paper>
     <paper id="8">
       <title>Lightweight Text Classifier using Sinusoidal Positional Encoding</title>
@@ -120,7 +124,9 @@
       <bibkey>wu-etal-2020-towards</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="10">
       <title>A Simple and Effective Usage of Word Clusters for <fixed-case>CBOW</fixed-case> Model</title>
@@ -145,7 +151,9 @@
       <abstract>The recently introduced pre-trained language model BERT advances the state-of-the-art on many NLP tasks through the fine-tuning approach, but few studies investigate how the fine-tuning process improves the model performance on downstream tasks. In this paper, we inspect the learning dynamics of BERT fine-tuning with two indicators. We use JS divergence to detect the change of the attention mode and use SVCCA distance to examine the change to the feature extraction mode during BERT fine-tuning. We conclude that BERT fine-tuning mainly changes the attention mode of the last layers and modifies the feature extraction mode of the intermediate and last layers. Moreover, we analyze the consistency of BERT fine-tuning between different random seeds and different datasets. In summary, we provide a distinctive understanding of the learning dynamics of BERT fine-tuning, which sheds some light on improving the fine-tuning results.</abstract>
       <url hash="d60ccad2">2020.aacl-main.11</url>
       <bibkey>hao-etal-2020-investigating</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="12">
       <title>Second-Order Neural Dependency Parsing with Message Passing and End-to-End Training</title>
@@ -211,7 +219,7 @@
       <author><first>Seongbo</first><last>Jang</last></author>
       <author><first>Dawoon</first><last>Jung</last></author>
       <pages>133–142</pages>
-      <abstract>Typically, tokenization is the very first step in most text processing works. As a token serves as an atomic unit that embeds the contextual information of text, how to define a token plays a decisive role in the performance of a model. Even though Byte Pair Encoding (BPE) has been considered the de facto standard tokenization method due to its simplicity and universality, it still remains unclear whether BPE works best across all languages and tasks. In this paper, we test several tokenization strategies in order to answer our primary research question, that is, “What is the best tokenization strategy for Korean NLP tasks?” Experimental results demonstrate that a hybrid approach of morphological segmentation followed by BPE works best in Korean to/from English machine translation and natural language understanding tasks such as KorNLI, KorSTS, NSMC, and PAWS-X. As an exception, for KorQuAD, the Korean extension of SQuAD, BPE segmentation turns out to be the most effective. Our code and pre-trained models are publicly available at https://github.com/kakaobrain/kortok.</abstract>
+      <abstract>Typically, tokenization is the very first step in most text processing works. As a token serves as an atomic unit that embeds the contextual information of text, how to define a token plays a decisive role in the performance of a model. Even though Byte Pair Encoding (BPE) has been considered the de facto standard tokenization method due to its simplicity and universality, it still remains unclear whether BPE works best across all languages and tasks. In this paper, we test several tokenization strategies in order to answer our primary research question, that is, “What is the best tokenization strategy for Korean NLP tasks?” Experimental results demonstrate that a hybrid approach of morphological segmentation followed by BPE works best in Korean to/from English machine translation and natural language understanding tasks such as KorNLI, KorSTS, NSMC, and PAWS-X. As an exception, for KorQuAD, the Korean extension of SQuAD, BPE segmentation turns out to be the most effective. Our code and pre-trained models are publicly available at <url>https://github.com/kakaobrain/kortok</url>.</abstract>
       <url hash="5c4b3742">2020.aacl-main.17</url>
       <bibkey>park-etal-2020-empirical</bibkey>
       <pwccode url="https://github.com/kakaobrain/kortok" additional="false">kakaobrain/kortok</pwccode>
@@ -262,7 +270,7 @@
       <author><first>Peng</first><last>Li</last></author>
       <author><first>Jie</first><last>Zhou</last></author>
       <pages>169–180</pages>
-      <abstract>Event Argument Extraction (EAE) aims at predicting event argument roles of entities in text, which is a crucial subtask and bottleneck of event extraction. Existing EAE methods either extract each event argument roles independently or sequentially, which cannot adequately model the joint probability distribution among event arguments and their roles. In this paper, we propose a Bayesian model named Neural Gibbs Sampling (NGS) to jointly extract event arguments. Specifically, we train two neural networks to model the prior distribution and conditional distribution over event arguments respectively and then use Gibbs sampling to approximate the joint distribution with the learned distributions. For overcoming the shortcoming of the high complexity of the original Gibbs sampling algorithm, we further apply simulated annealing to efficiently estimate the joint probability distribution over event arguments and make predictions. We conduct experiments on the two widely-used benchmark datasets ACE 2005 and TAC KBP 2016. The Experimental results show that our NGS model can achieve comparable results to existing state-of-the-art EAE methods. The source code can be obtained from https://github.com/THU-KEG/NGS.</abstract>
+      <abstract>Event Argument Extraction (EAE) aims at predicting event argument roles of entities in text, which is a crucial subtask and bottleneck of event extraction. Existing EAE methods either extract each event argument roles independently or sequentially, which cannot adequately model the joint probability distribution among event arguments and their roles. In this paper, we propose a Bayesian model named Neural Gibbs Sampling (NGS) to jointly extract event arguments. Specifically, we train two neural networks to model the prior distribution and conditional distribution over event arguments respectively and then use Gibbs sampling to approximate the joint distribution with the learned distributions. For overcoming the shortcoming of the high complexity of the original Gibbs sampling algorithm, we further apply simulated annealing to efficiently estimate the joint probability distribution over event arguments and make predictions. We conduct experiments on the two widely-used benchmark datasets ACE 2005 and TAC KBP 2016. The Experimental results show that our NGS model can achieve comparable results to existing state-of-the-art EAE methods. The source code can be obtained from <url>https://github.com/THU-KEG/NGS</url>.</abstract>
       <url hash="2b011dd8">2020.aacl-main.21</url>
       <bibkey>wang-etal-2020-neural</bibkey>
       <pwccode url="https://github.com/THU-KEG/NGS" additional="false">THU-KEG/NGS</pwccode>
@@ -389,6 +397,7 @@
       <abstract>In this paper, we aim at learning the relationships and similarities of a variety of tasks, such as humour detection, sarcasm detection, offensive content detection, motivational content detection and sentiment analysis on a somewhat complicated form of information, i.e., memes. We propose a multi-task, multi-modal deep learning framework to solve multiple tasks simultaneously. For multi-tasking, we propose two attention-like mechanisms viz., Inter-task Relationship Module (iTRM) and Inter-class Relationship Module (iCRM). The main motivation of iTRM is to learn the relationship between the tasks to realize how they help each other. In contrast, iCRM develops relations between the different classes of tasks. Finally, representations from both the attentions are concatenated and shared across the five tasks (i.e., humour, sarcasm, offensive, motivational, and sentiment) for multi-tasking. We use the recently released dataset in the Memotion Analysis task @ SemEval 2020, which consists of memes annotated for the classes as mentioned above. Empirical results on Memotion dataset show the efficacy of our proposed approach over the existing state-of-the-art systems (Baseline and SemEval 2020 winner). The evaluation also indicates that the proposed multi-task framework yields better performance over the single-task learning.</abstract>
       <url hash="63d636f7">2020.aacl-main.31</url>
       <bibkey>chauhan-etal-2020-one</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmhs150k">MMHS150k</pwcdataset>
     </paper>
     <paper id="32">
       <title>Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations</title>
@@ -432,8 +441,10 @@
       <author><first>Chris</first><last>Callison-Burch</last></author>
       <pages>328–333</pages>
       <abstract>Modern task-oriented dialog systems need to reliably understand users’ intents. Intent detection is even more challenging when moving to new domains or new languages, since there is little annotated data. To address this challenge, we present a suite of pretrained intent detection models which can predict a broad range of intended goals from many actions because they are trained on wikiHow, a comprehensive instructional website. Our models achieve state-of-the-art results on the Snips dataset, the Schema-Guided Dialogue dataset, and all 3 languages of the Facebook multilingual dialog datasets. Our models also demonstrate strong zero- and few-shot performance, reaching over 75% accuracy using only 100 training examples in all datasets.</abstract>
-      <url hash="29d3fb04">2020.aacl-main.35</url>
+      <url hash="941b3922">2020.aacl-main.35</url>
       <bibkey>zhang-etal-2020-intent</bibkey>
+      <revision id="1" href="2020.aacl-main.35v1" hash="29d3fb04"/>
+      <revision id="2" href="2020.aacl-main.35v2" hash="941b3922" date="2022-12-26">Corrected the the Acknowledgement section.</revision>
       <pwccode url="https://github.com/zharry29/wikihow-intent" additional="false">zharry29/wikihow-intent</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sgd">SGD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
@@ -451,6 +462,7 @@
       <bibkey>nadeem-etal-2020-systematic</bibkey>
       <pwccode url="https://github.com/moinnadeem/characterizing-sampling-algorithms" additional="false">moinnadeem/characterizing-sampling-algorithms</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="37">
       <title><fixed-case>C</fixed-case>hinese Content Scoring: Open-Access Datasets and Features on Different Segmentation Levels</title>
@@ -518,7 +530,7 @@
       <abstract>Recent work in unsupervised parsing has tried to incorporate visual information into learning, but results suggest that these models need linguistic bias to compete against models that only rely on text. This work proposes grammar induction models which use visual information from images for labeled parsing, and achieve state-of-the-art results on grounded grammar induction on several languages. Results indicate that visual information is especially helpful in languages where high frequency words are more broadly distributed. Comparison between models with and without visual information shows that the grounded models are able to use visual information for proposing noun phrases, gathering useful information from images for unknown words, and achieving better performance at prepositional phrase attachment prediction.</abstract>
       <url hash="bba4f1ed">2020.aacl-main.42</url>
       <bibkey>jin-schuler-2020-grounded</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="43">
       <title>Heads-up! Unsupervised Constituency Parsing via Self-Attention Heads</title>
@@ -530,7 +542,6 @@
       <abstract>Transformer-based pre-trained language models (PLMs) have dramatically improved the state of the art in NLP across many tasks. This has led to substantial interest in analyzing the syntactic knowledge PLMs learn. Previous approaches to this question have been limited, mostly using test suites or probes. Here, we propose a novel fully unsupervised parsing approach that extracts constituency trees from PLM attention heads. We rank transformer attention heads based on their inherent properties, and create an ensemble of high-ranking heads to produce the final tree. Our method is adaptable to low-resource languages, as it does not rely on development sets, which can be expensive to annotate. Our experiments show that the proposed method often outperform existing approaches if there is no development set present. Our unsupervised parser can also be used as a tool to analyze the grammars PLMs learn implicitly. For this, we use the parse trees induced by our method to train a neural PCFG and compare it to a grammar derived from a human-annotated treebank.</abstract>
       <url hash="c083293f">2020.aacl-main.43</url>
       <bibkey>li-etal-2020-heads</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="44">
       <title>Building Location Embeddings from Physical Trajectories and Textual Representations</title>
@@ -612,18 +623,19 @@
       <url hash="545b660a">2020.aacl-main.49</url>
       <bibkey>gao-etal-2020-systematic</bibkey>
       <pwccode url="https://github.com/HQ01/gSCAN_with_language_conditioned_embedding" additional="true">HQ01/gSCAN_with_language_conditioned_embedding</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/gscan">GSCAN</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scan">SCAN</pwcdataset>
     </paper>
     <paper id="50">
       <title>Are Scene Graphs Good Enough to Improve Image Captioning?</title>
-      <author><first>Victor Siemen Janusz</first><last>Milewski</last></author>
+      <author><first>Victor</first><last>Milewski</last></author>
       <author><first>Marie-Francine</first><last>Moens</last></author>
       <author><first>Iacer</first><last>Calixto</last></author>
       <pages>504–515</pages>
       <abstract>Many top-performing image captioning models rely solely on object features computed with an object detection model to generate image descriptions. However, recent studies propose to directly use scene graphs to introduce information about object relations into captioning, hoping to better describe interactions between objects. In this work, we thoroughly investigate the use of scene graphs in image captioning. We empirically study whether using additional scene graph encoders can lead to better image descriptions and propose a conditional graph attention network (C-GAT), where the image captioning decoder state is used to condition the graph updates. Finally, we determine to what extent noise in the predicted scene graphs influence caption quality. Overall, we find no significant difference between models that use scene graph features and models that only use object detection features across different captioning metrics, which suggests that existing scene graph generation models are still too noisy to be useful in image captioning. Moreover, although the quality of predicted scene graphs is very low in general, when using high quality scene graphs we obtain gains of up to 3.3 CIDEr compared to a strong Bottom-Up Top-Down baseline.</abstract>
       <url hash="fcacefff">2020.aacl-main.50</url>
       <bibkey>milewski-etal-2020-scene</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="51">
       <title>Systematically Exploring Redundancy Reduction in Summarizing Long Documents</title>
@@ -634,9 +646,9 @@
       <url hash="2c00c7e2">2020.aacl-main.51</url>
       <bibkey>xiao-carenini-2020-systematically</bibkey>
       <pwccode url="https://github.com/Wendy-Xiao/redundancy_reduction_longdoc" additional="false">Wendy-Xiao/redundancy_reduction_longdoc</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">Arxiv HEP-TH citation graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">arXiv</pwcdataset>
     </paper>
     <paper id="52">
       <title>A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion</title>
@@ -708,11 +720,12 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
@@ -852,6 +865,7 @@
       <pwccode url="https://github.com/nyu-mll/semi-automatic-nli" additional="false">nyu-mll/semi-automatic-nli</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -957,7 +971,7 @@
       <url hash="bb1e00d7">2020.aacl-main.75</url>
       <bibkey>han-etal-2020-data</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="76">
       <title>Robustness and Reliability of Gender Bias Assessment in Word Embeddings: The Role of Base Pairs</title>
@@ -1006,6 +1020,7 @@
       <url hash="997dbb31">2020.aacl-main.79</url>
       <bibkey>eger-benz-2020-hero</bibkey>
       <pwccode url="https://github.com/yannikbenz/zeroe" additional="false">yannikbenz/zeroe</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/toxic-comment-classification-challenge">Jigsaw Toxic Comment Classification Dataset</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="80">
@@ -1151,7 +1166,7 @@
       <url hash="55f2bbad">2020.aacl-main.90</url>
       <bibkey>gupta-etal-2020-unified</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mcvqa">MCVQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="91">
@@ -1179,7 +1194,7 @@
       <bibkey>scarton-etal-2020-measuring</bibkey>
     </paper>
   </volume>
-  <volume id="srw" ingest-date="2020-12-02">
+  <volume id="srw" ingest-date="2020-12-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing: Student Research Workshop</booktitle>
       <editor><first>Boaz</first><last>Shmueli</last></editor>
@@ -1188,6 +1203,8 @@
       <address>Suzhou, China</address>
       <month>December</month>
       <year>2020</year>
+      <url hash="869d17d6">2020.aacl-srw</url>
+      <venue>aacl</venue>
     </meta>
     <frontmatter>
       <url hash="3ddc0644">2020.aacl-srw.0</url>
@@ -1244,6 +1261,7 @@
       <abstract>Obtaining social media demographic information using machine learning is important for efficient computational social science research. Automatic age classification has been accomplished with relative success and allows for the study of youth populations, but student classification—determining which users are currently attending an academic institution—has not been thoroughly studied. Previous work (He et al., 2016) proposes a model which utilizes 3 tweet-content features to classify users as students or non-students. This model achieves an accuracy of 84%, but is restrictive and time intensive because it requires accessing and processing many user tweets. In this study, we propose classification models which use 7 numerical features and 10 text-based features drawn from simple profile information. These profile-based features allow for faster, more accessible data collection and enable the classification of users without needing access to their tweets. Compared to previous models, our models identify students with greater accuracy; our best model obtains an accuracy of 88.1% and an F1 score of .704. This improved student identification tool has the potential to facilitate research on topics ranging from professional networking to the impact of education on Twitter behaviors.</abstract>
       <url hash="e37d868b">2020.aacl-srw.5</url>
       <bibkey>wilson-wun-2020-automatic</bibkey>
+      <pwccode url="https://github.com/christopherwun/twitter-student-classifier" additional="false">christopherwun/twitter-student-classifier</pwccode>
     </paper>
     <paper id="6">
       <title>Towards Code-switched Classification Exploiting Constituent Language Resources</title>
@@ -1374,6 +1392,7 @@
       <abstract>Aspect extraction is a widely researched field of natural language processing in which aspects are identified from the text as a means for information. For example, in aspect-based sentiment analysis (ABSA), aspects need to be first identified. Previous studies have introduced various approaches to increasing accuracy, although leaving room for further improvement. In a practical situation where the examined dataset is lacking labels, to fine-tune the process a novel unsupervised approach is proposed, combining a lexical rule-based approach with coreference resolution. The model increases accuracy through the recognition and removal of coreferring aspects. Experimental evaluations are performed on two benchmark datasets, demonstrating the greater performance of our approach to extracting coherent aspects through outperforming the baseline approaches.</abstract>
       <url hash="96563206">2020.aacl-srw.18</url>
       <bibkey>mai-zhang-2020-aspect</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="19">
       <title><fixed-case>GRUBERT</fixed-case>: A <fixed-case>GRU</fixed-case>-Based Method to Fuse <fixed-case>BERT</fixed-case> Hidden Layers for <fixed-case>T</fixed-case>witter Sentiment Analysis</title>
@@ -1385,7 +1404,7 @@
       <abstract>In this work, we introduce a GRU-based architecture called GRUBERT that learns to map the different BERT hidden layers to fused embeddings with the aim of achieving high accuracy on the Twitter sentiment analysis task. Tweets are known for their highly diverse language, and by exploiting different linguistic information present across BERT hidden layers, we can capture the full extent of this language at the embedding level. Our method can be easily adapted to other embeddings capturing different linguistic information. We show that our method outperforms well-known heuristics of using BERT (e.g. using only the last layer) and other embeddings such as ELMo. We observe potential label noise resulting from the data acquisition process and employ early stopping as well as a voting classifier to overcome it.</abstract>
       <url hash="002a0765">2020.aacl-srw.19</url>
       <bibkey>horne-etal-2020-grubert</bibkey>
-      <pwccode url="https://github.com/zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers" additional="false">zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers</pwccode>
+      <pwccode url="https://github.com/zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers" additional="true">zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers</pwccode>
     </paper>
     <paper id="20">
       <title>Exploring Statistical and Neural Models for Noun Ellipsis Detection and Resolution in <fixed-case>E</fixed-case>nglish</title>
@@ -1409,7 +1428,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="22">
       <title>Text Simplification with Reinforcement Learning Using Supervised Rewards on Grammaticality, Meaning Preservation, and Simplicity</title>
@@ -1435,6 +1453,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="24">
       <title>Generating Inflectional Errors for Grammatical Error Correction in <fixed-case>H</fixed-case>indi</title>
@@ -1450,7 +1469,7 @@
       <bibkey>sonawane-etal-2020-generating</bibkey>
     </paper>
   </volume>
-  <volume id="demo" ingest-date="2020-12-02">
+  <volume id="demo" ingest-date="2020-12-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing: System Demonstrations</booktitle>
       <editor><first>Derek</first><last>Wong</last></editor>
@@ -1459,6 +1478,8 @@
       <address>Suzhou, China</address>
       <month>December</month>
       <year>2020</year>
+      <url hash="e5fde677">2020.aacl-demo</url>
+      <venue>aacl</venue>
     </meta>
     <frontmatter>
       <url hash="4f1457ff">2020.aacl-demo.0</url>
@@ -1529,7 +1550,7 @@
       <author><first>Dmytro</first><last>Okhonko</last></author>
       <author><first>Juan</first><last>Pino</last></author>
       <pages>33–39</pages>
-      <abstract>We introduce fairseq S2T, a fairseq extension for speech-to-text (S2T) modeling tasks such as end-to-end speech recognition and speech-to-text translation. It follows fairseq’s careful design for scalability and extensibility. We provide end-to-end workflows from data pre-processing, model training to offline (online) inference. We implement state-of-the-art RNN-based as well as Transformer-based models and open-source detailed training recipes. Fairseq’s machine translation models and language models can be seamlessly integrated into S2T workflows for multi-task learning or transfer learning. Fairseq S2T is available at https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text.</abstract>
+      <abstract>We introduce fairseq S2T, a fairseq extension for speech-to-text (S2T) modeling tasks such as end-to-end speech recognition and speech-to-text translation. It follows fairseq’s careful design for scalability and extensibility. We provide end-to-end workflows from data pre-processing, model training to offline (online) inference. We implement state-of-the-art RNN-based as well as Transformer-based models and open-source detailed training recipes. Fairseq’s machine translation models and language models can be seamlessly integrated into S2T workflows for multi-task learning or transfer learning. Fairseq S2T is available at <url>https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text</url>.</abstract>
       <url hash="ba6e2aa3">2020.aacl-demo.6</url>
       <bibkey>wang-etal-2020-fairseq</bibkey>
       <pwccode url="https://github.com/pytorch/fairseq" additional="true">pytorch/fairseq</pwccode>
@@ -1549,4 +1570,14 @@
       <pwccode url="https://github.com/nlp-stat-test/nlp-stat-test" additional="false">nlp-stat-test/nlp-stat-test</pwccode>
     </paper>
   </volume>
+  <event id="aacl-2020">
+    <colocated>
+      <volume-id>2020.iwdp-1</volume-id>
+      <volume-id>2020.knlp-1</volume-id>
+      <volume-id>2020.lifelongnlp-1</volume-id>
+      <volume-id>2020.loresmt-1</volume-id>
+      <volume-id>2020.nlptea-1</volume-id>
+      <volume-id>2020.wat-1</volume-id>
+    </colocated>
+  </event>
 </collection>

@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P83">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>21st Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Cambridge, Massachusetts, USA</address>
       <month>June</month>
       <year>1983</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="d7e5f88f">P83-1000</url>

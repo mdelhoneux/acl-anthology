@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1993.mtsummit">
-  <volume id="1" ingest-date="2021-06-30">
+  <volume id="1" ingest-date="2021-06-30" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit IV</booktitle>
       <address>Kobe, Japan</address>
       <month>July 19-22</month>
       <year>1993</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Machine Translation: What have we to do?</title>

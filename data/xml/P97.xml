@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P97">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the <fixed-case>E</fixed-case>uropean Chapter of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Madrid, Spain</address>
       <month>July</month>
       <year>1997</year>
+      <venue>acl</venue>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="48b6e625">P97-1000</url>
@@ -31,6 +33,7 @@
     </paper>
     <paper id="3">
       <title>Three Generative, Lexicalised Models for Statistical Parsing</title>
+      <award>ACL 2022 25-Year Test of Time</award>
       <author><first>Michael</first><last>Collins</last></author>
       <doi>10.3115/976909.979620</doi>
       <pages>16–23</pages>
@@ -159,6 +162,7 @@
     </paper>
     <paper id="17">
       <title>Machine Transliteration</title>
+      <award>ACL 2022 25-Year Test of Time</award>
       <author><first>Kevin</first><last>Knight</last></author>
       <author><first>Jonathan</first><last>Graehl</last></author>
       <doi>10.3115/976909.979634</doi>

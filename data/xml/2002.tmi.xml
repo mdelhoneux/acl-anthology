@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2002.tmi">
-  <volume id="papers" ingest-date="2021-08-22">
+  <volume id="papers" ingest-date="2021-08-22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 9th Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages: Papers</booktitle>
       <address>Keihanna, Japan</address>
       <month>March 13-17</month>
       <year>2002</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>Building up the lexicon: how <fixed-case>J</fixed-case>apanese children learn meanings to novel nouns and verbs</title>
@@ -167,12 +168,13 @@
       <bibkey>yamada-etal-2002-corpus</bibkey>
     </paper>
   </volume>
-  <volume id="tutorials" ingest-date="2021-08-04">
+  <volume id="tutorials" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 9th Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages: Tutorials</booktitle>
       <address>Keihanna, Japan</address>
       <month>March 13-17</month>
       <year>2002</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>Example-based machine translation</title>
@@ -193,12 +195,13 @@
       <bibkey>baldwin-2002-translation</bibkey>
     </paper>
   </volume>
-  <volume id="tmiw" ingest-date="2021-08-04">
+  <volume id="tmiw" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Workshop on machine translation roadmap</booktitle>
       <address>Keihanna, Japan</address>
       <month>March 13-17</month>
       <year>2002</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>Toward the realization of typological semantic pattern dictionaries for <fixed-case>MT</fixed-case></title>

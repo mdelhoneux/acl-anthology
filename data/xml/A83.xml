@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="A83">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>First Conference on Applied Natural Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Santa Monica, California, USA</address>
       <month>February</month>
       <year>1983</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="d5850e51">A83-1000</url>

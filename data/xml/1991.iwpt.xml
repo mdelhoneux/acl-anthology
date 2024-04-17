@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1991.iwpt">
-  <volume id="1" ingest-date="2020-05-11">
+  <volume id="1" ingest-date="2020-05-11" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Second International Workshop on Parsing Technologies</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
@@ -16,6 +16,7 @@
       <editor><first>Makoto</first><last>Nagao</last></editor>
       <editor><first>Yorick</first><last>Wilks</last></editor>
       <url hash="621b0654">1991.iwpt-1</url>
+      <venue>iwpt</venue>
     </meta>
     <paper id="1">
       <title>Proceedings of the Second International Workshop on Parsing Technologies (<fixed-case>IWPT</fixed-case> ’91)</title>

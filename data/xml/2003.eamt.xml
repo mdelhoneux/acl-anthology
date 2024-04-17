@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2003.eamt">
-  <volume id="1" ingest-date="2020-08-25">
+  <volume id="1" ingest-date="2020-08-25" type="proceedings">
     <meta>
       <booktitle>EAMT Workshop: Improving MT through other language technology tools: resources and tools for building MT</booktitle>
       <publisher>European Association for Machine Translation</publisher>
       <address>Budapest, Hungary</address>
       <month>April 13</month>
       <year>2003</year>
+      <venue>eamt</venue>
     </meta>
     <paper id="1">
       <title>Controlled generation for speech-to-speech <fixed-case>MT</fixed-case> systems</title>

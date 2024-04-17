@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.bppf">
-  <volume id="1" ingest-date="2021-07-25">
+  <volume id="1" ingest-date="2021-07-25" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 1st Workshop on Benchmarking: Past, Present and Future</booktitle>
       <editor><first>Kenneth</first><last>Church</last></editor>
@@ -11,6 +11,7 @@
       <month>Aug</month>
       <year>2021</year>
       <url hash="b25d3c83">2021.bppf-1</url>
+      <venue>bppf</venue>
     </meta>
     <frontmatter>
       <url hash="16c5e21a">2021.bppf-1.0</url>

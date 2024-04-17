@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.mrqa">
-  <volume id="1" ingest-date="2021-11-01">
+  <volume id="1" ingest-date="2021-11-01" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 3rd Workshop on Machine Reading for Question Answering</booktitle>
       <editor><first>Adam</first><last>Fisch</last></editor>
@@ -15,6 +15,7 @@
       <address>Punta Cana, Dominican Republic</address>
       <month>November</month>
       <year>2021</year>
+      <venue>mrqa</venue>
     </meta>
     <frontmatter>
       <url hash="13500ebb">2021.mrqa-1.0</url>
@@ -95,6 +96,7 @@
       <url hash="18d508db">2021.mrqa-1.5</url>
       <bibkey>ghassemi-toudeshki-etal-2021-zero</bibkey>
       <doi>10.18653/v1/2021.mrqa-1.5</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
     </paper>
     <paper id="6">
@@ -220,7 +222,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mkqa">MKQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
     <paper id="15">
@@ -246,6 +248,7 @@
       <url hash="456a27ee">2021.mrqa-1.16</url>
       <bibkey>balachandran-etal-2021-simple</bibkey>
       <doi>10.18653/v1/2021.mrqa-1.16</doi>
+      <video href="2021.mrqa-1.16.mp4"/>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
     </paper>
   </volume>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1997.mtsummit">
-  <volume id="tutorials" ingest-date="2021-07-15">
+  <volume id="tutorials" ingest-date="2021-07-15" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VI: Tutorials</booktitle>
       <address>San Diego, California</address>
@@ -8,6 +8,7 @@
       <year>1997</year>
       <editor><first>Virginia</first><last>Teller</last></editor>
       <editor><first>Beth</first><last>Sundheim</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>A gentle introduction to <fixed-case>MT</fixed-case>: theory and current practice</title>
@@ -34,7 +35,7 @@
       <bibkey>spalink-1997-post</bibkey>
     </paper>
   </volume>
-  <volume id="plenaries" ingest-date="2021-07-15">
+  <volume id="plenaries" ingest-date="2021-07-15" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VI: Plenaries</booktitle>
       <address>San Diego, California</address>
@@ -42,6 +43,7 @@
       <year>1997</year>
       <editor><first>Virginia</first><last>Teller</last></editor>
       <editor><first>Beth</first><last>Sundheim</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>U</fixed-case>.<fixed-case>S</fixed-case>. Government Support and Use of Machine Translation: Current Status</title>
@@ -141,7 +143,7 @@
       <bibkey>maegaard-1997-whither</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-07-15">
+  <volume id="papers" ingest-date="2021-07-15" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VI: Papers</booktitle>
       <address>San Diego, California</address>
@@ -149,6 +151,7 @@
       <year>1997</year>
       <editor><first>Virginia</first><last>Teller</last></editor>
       <editor><first>Beth</first><last>Sundheim</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Machine Translation of Interactive Texts</title>
@@ -357,7 +360,7 @@
       <bibkey>kamprath-1997-using</bibkey>
     </paper>
   </volume>
-  <volume id="systems" ingest-date="2021-07-15">
+  <volume id="systems" ingest-date="2021-07-15" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VI: Systems</booktitle>
       <address>San Diego, California</address>
@@ -365,6 +368,7 @@
       <year>1997</year>
       <editor><first>Virginia</first><last>Teller</last></editor>
       <editor><first>Beth</first><last>Sundheim</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>TRANSLATOR</fixed-case> <fixed-case>MTK</fixed-case>: A Language Independent Machine Translation Development Environment</title>
@@ -458,7 +462,7 @@
       <bibkey>gachot-1997-inforaptor</bibkey>
     </paper>
   </volume>
-  <volume id="exhibits" ingest-date="2021-07-15">
+  <volume id="exhibits" ingest-date="2021-07-15" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VI: Exhibits</booktitle>
       <address>San Diego, California</address>
@@ -466,6 +470,7 @@
       <year>1997</year>
       <editor><first>Virginia</first><last>Teller</last></editor>
       <editor><first>Beth</first><last>Sundheim</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Alis Technologies Inc</title>
@@ -554,12 +559,13 @@
       <bibkey>nn-1997-usc</bibkey>
     </paper>
   </volume>
-  <volume id="workshop" ingest-date="2021-07-11">
+  <volume id="workshop" ingest-date="2021-07-11" type="proceedings">
     <meta>
       <booktitle>AMTA/SIG-IL First Workshop on Interlinguas</booktitle>
       <address>San Diego, California</address>
       <month>October 28</month>
       <year>1997</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>The model of conceptual structure mapping: a psycholinguistic approach to interlingual representation</title>

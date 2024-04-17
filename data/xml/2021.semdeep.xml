@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.semdeep">
-  <volume id="1" ingest-date="2021-04-14">
+  <volume id="1" ingest-date="2021-04-14" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 6th Workshop on Semantic Deep Learning (SemDeep-6)</booktitle>
       <editor><first>Luis</first><last>Espinosa-Anke</last></editor>
@@ -15,6 +15,7 @@
       <month>January</month>
       <year>2021</year>
       <url hash="7be5c058">2021.semdeep-1</url>
+      <venue>semdeep</venue>
     </meta>
     <frontmatter>
       <url hash="d201427e">2021.semdeep-1.0</url>

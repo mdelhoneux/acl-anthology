@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P89">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>27th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Vancouver, British Columbia, Canada</address>
       <month>June</month>
       <year>1989</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="9ddc4360">P89-1000</url>

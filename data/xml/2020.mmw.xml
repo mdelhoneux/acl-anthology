@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.mmw">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the LREC 2020 Workshop on Multimodal Wordnets (MMW2020)</booktitle>
       <editor><first>Thierry</first><last>Declerk</last></editor>
@@ -11,6 +11,7 @@
       <month>May</month>
       <year>2020</year>
       <isbn>979-10-95546-41-2</isbn>
+      <venue>mmw</venue>
     </meta>
     <frontmatter>
       <url hash="68b831a4">2020.mmw-1.0</url>

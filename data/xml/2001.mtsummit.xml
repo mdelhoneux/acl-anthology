@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2001.mtsummit">
-  <volume id="papers" ingest-date="2021-07-20">
+  <volume id="papers" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VIII</booktitle>
       <address>Santiago de Compostela, Spain</address>
       <month>September 18-22</month>
       <year>2001</year>
       <editor><first>Bente</first><last>Maegaard</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <frontmatter>
       <url hash="e2627398">2001.mtsummit-papers.0</url>
@@ -638,7 +639,7 @@
       <bibkey>zhang-etal-2001-pre</bibkey>
     </paper>
   </volume>
-  <volume id="eval" ingest-date="2021-07-20">
+  <volume id="eval" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Workshop on MT Evaluation</booktitle>
       <address>Santiago de Compostela, Spain</address>
@@ -648,6 +649,7 @@
       <editor><first>Margaret</first><last>King</last></editor>
       <editor><first>Sandra</first><last>Manzi</last></editor>
       <editor><first>Florence</first><last>Reeder</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Evaluating the operational benefit of using machine translation output as translation memory input</title>
@@ -749,7 +751,7 @@
       <bibkey>yuste-rodrigo-braun-chen-2001-comparative</bibkey>
     </paper>
   </volume>
-  <volume id="ebmt" ingest-date="2021-07-20">
+  <volume id="ebmt" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Workshop on Example-Based machine Translation</booktitle>
       <address>Santiago de Compostela, Spain</address>
@@ -757,6 +759,7 @@
       <year>2001</year>
       <editor><first>Michael</first><last>Carl</last></editor>
       <editor><first>Andy</first><last>Way</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <frontmatter>
       <url hash="586bdfdb">2001.mtsummit-ebmt.0</url>
@@ -818,7 +821,7 @@
       <bibkey>way-2001-translating</bibkey>
     </paper>
   </volume>
-  <volume id="teach" ingest-date="2021-07-20">
+  <volume id="teach" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Workshop on Teaching Machine Translation</booktitle>
       <address>Santiago de Compostela, Spain</address>
@@ -826,6 +829,7 @@
       <year>2001</year>
       <editor><first>Mikel L.</first><last>Forcada</last></editor>
       <editor><first>Juan Antonio</first><last>Pérez-Ortiz</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Exploiting the <fixed-case>WWW</fixed-case> for <fixed-case>MT</fixed-case> teaching</title>
@@ -894,13 +898,14 @@
       <bibkey>yuste-rodrigo-2001-making</bibkey>
     </paper>
   </volume>
-  <volume id="road" ingest-date="2021-07-20">
+  <volume id="road" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Workshop on MT2010: Towards a Road Map for MT</booktitle>
       <address>Santiago de Compostela, Spain</address>
       <month>September 18-22</month>
       <year>2001</year>
       <editor><first>Steven</first><last>Krauwer</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <frontmatter>
       <url hash="8ee05d77">2001.mtsummit-road.0</url>

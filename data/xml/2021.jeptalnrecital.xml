@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.jeptalnrecital">
-  <volume id="taln" ingest-date="2021-07-20">
+  <volume id="taln" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conférence principale</booktitle>
       <editor><first>Pascal</first><last>Denis</last></editor>
@@ -14,6 +14,7 @@
       <address>Lille, France</address>
       <month>6</month>
       <year>2021</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="716acb86">2021.jeptalnrecital-taln.0</url>
@@ -33,7 +34,7 @@
     <paper id="2">
       <title>Biais de genre dans un système de traduction automatiqueneuronale : une étude préliminaire (Gender Bias in Neural Translation : a preliminary study )</title>
       <author><first>Guillaume</first><last>Wisniewski</last></author>
-      <author><first>Lichao</first><last>Zhou</last></author>
+      <author><first>Lichao</first><last>Zhu</last></author>
       <author><first>Nicolas</first><last>Ballier</last></author>
       <author><first>François</first><last>Yvon</last></author>
       <pages>11–25</pages>
@@ -73,6 +74,7 @@
       <url hash="925f2aed">2021.jeptalnrecital-taln.5</url>
       <language>fra</language>
       <bibkey>atmani-lafourcade-2021-open</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/carb">CaRB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="6">
@@ -399,7 +401,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <bibkey>bernard-2021-tabouid</bibkey>
     </paper>
   </volume>
-  <volume id="recital" ingest-date="2021-07-20">
+  <volume id="recital" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 2 : 23e REncontres jeunes Chercheurs en Informatique pour le TAL (RECITAL)</booktitle>
       <editor><first>Pascal</first><last>Denis</last></editor>
@@ -413,6 +415,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <address>Lille, France</address>
       <month>6</month>
       <year>2021</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="2e13ff83">2021.jeptalnrecital-recital.0</url>
@@ -517,7 +520,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <bibkey>remaud-2021-utilisation</bibkey>
     </paper>
   </volume>
-  <volume id="demo" ingest-date="2021-07-20">
+  <volume id="demo" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Volume 3 : Démonstrations</booktitle>
       <editor><first>Pascal</first><last>Denis</last></editor>
@@ -531,6 +534,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <address>Lille, France</address>
       <month>6</month>
       <year>2021</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="d00fbff4">2021.jeptalnrecital-demo.0</url>
@@ -593,7 +597,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <bibkey>murata-etal-2021-sidres</bibkey>
     </paper>
   </volume>
-  <volume id="deft" ingest-date="2021-07-20">
+  <volume id="deft" ingest-date="2021-07-20" type="proceedings">
     <meta>
       <booktitle>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Atelier DÉfi Fouille de Textes (DEFT)</booktitle>
       <editor><first>Cyril</first><last>Grouin</last></editor>
@@ -603,6 +607,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <address>Lille, France</address>
       <month>6</month>
       <year>2021</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="2e757ae4">2021.jeptalnrecital-deft.0</url>
@@ -650,7 +655,7 @@ _ (<fixed-case>F</fixed-case>rench) We introduce a <fixed-case>F</fixed-case>ren
       <author><first>Timothée</first><last>Poulain</last></author>
       <author><first>Victor</first><last>Connes</last></author>
       <pages>31–40</pages>
-      <abstract>Cet article présente la participation de l’équipe Proofreaders du LS2N au DÉfi Fouille de Textes 2021 (DEFT 2021). La tâche proposée consiste en la poursuite automatique de l’évaluation de réponses courtes d’étudiants (EAQRC) à partir de quelques réponses déjà corrigées par l’enseignant pour chaque énoncé. Une étude comparative de différents traits lexicaux, ainsi qu’une augmentation artificielle de données et de différents modèles de régression pour la notation des réponses courtes est réalisée. Les méthodes sont évaluées en termes de précision, d’erreur quadratique moyenne et de score de corrélation de Spearman. Notre erreur quadratique moyenne varie entre 0.090 et 0.101 et notre précision entre 0.147 et 0.17. Le code source est disponible à l’adresse suivante : https://github.com/poulain-tim/DEFT
+      <abstract>Cet article présente la participation de l’équipe Proofreaders du LS2N au DÉfi Fouille de Textes 2021 (DEFT 2021). La tâche proposée consiste en la poursuite automatique de l’évaluation de réponses courtes d’étudiants (EAQRC) à partir de quelques réponses déjà corrigées par l’enseignant pour chaque énoncé. Une étude comparative de différents traits lexicaux, ainsi qu’une augmentation artificielle de données et de différents modèles de régression pour la notation des réponses courtes est réalisée. Les méthodes sont évaluées en termes de précision, d’erreur quadratique moyenne et de score de corrélation de Spearman. Notre erreur quadratique moyenne varie entre 0.090 et 0.101 et notre précision entre 0.147 et 0.17. Le code source est disponible à l’adresse suivante : <url>https://github.com/poulain-tim/DEFT</url>
 
 _2021</abstract>
       <url hash="7023054a">2021.jeptalnrecital-deft.4</url>

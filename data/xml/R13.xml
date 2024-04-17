@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="R13">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the International Conference Recent Advances in Natural Language Processing <fixed-case>RANLP</fixed-case> 2013</booktitle>
       <url hash="1d184be2">R13-1</url>
@@ -11,6 +11,7 @@
       <address>Hissar, Bulgaria</address>
       <month>September</month>
       <year>2013</year>
+      <venue>ranlp</venue>
     </meta>
     <frontmatter>
       <url hash="6f760c34">R13-1000</url>
@@ -121,7 +122,6 @@
       <url hash="d81da71c">R13-1011</url>
       <bibkey>bontcheva-etal-2013-twitie</bibkey>
       <pwccode url="https://github.com/GateNLP/gateplugin-Twitter" additional="false">GateNLP/gateplugin-Twitter</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="12">
       <title>A unified lexical processing framework based on the Margin Infused Relaxed Algorithm. A case study on the <fixed-case>R</fixed-case>omanian Language</title>
@@ -258,6 +258,7 @@
       <pages>198–206</pages>
       <url hash="d88f33ef">R13-1026</url>
       <bibkey>derczynski-etal-2013-twitter</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/twitter-pos-vcb">Twitter PoS VCB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="27">
@@ -919,7 +920,7 @@
       <bibkey>zsibrita-etal-2013-magyarlanc</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Student Research Workshop associated with <fixed-case>RANLP</fixed-case> 2013</booktitle>
       <url hash="93784952">R13-2</url>
@@ -930,6 +931,7 @@
       <address>Hissar, Bulgaria</address>
       <month>September</month>
       <year>2013</year>
+      <venue>ranlp</venue>
     </meta>
     <frontmatter>
       <url hash="c3f74717">R13-2000</url>

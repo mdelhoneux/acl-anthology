@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1980.tc">
-  <volume id="1" ingest-date="2021-08-04">
+  <volume id="1" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Translating and the Computer: Machine aids for translators</booktitle>
       <publisher>Aslib Proceedings</publisher>
       <address>London, UK</address>
       <month>November 20</month>
       <year>1980</year>
+      <venue>tc</venue>
     </meta>
     <paper id="1">
       <title>Introduction: help from the computer</title>

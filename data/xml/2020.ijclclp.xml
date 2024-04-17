@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.ijclclp">
-  <volume id="1" ingest-date="2021-07-21">
+  <volume id="1" ingest-date="2021-07-21" type="journal">
     <meta>
       <booktitle>International Journal of Computational Linguistics &amp; <fixed-case>C</fixed-case>hinese Language Processing, Volume 25, Number 1, June 2020</booktitle>
       <editor><first>Chia-Hui</first><last>Chang</last></editor>
@@ -9,6 +9,9 @@
       <address>Taipei, Taiwan</address>
       <month>June</month>
       <year>2020</year>
+      <venue>ijclclp</venue>
+      <journal-volume>25</journal-volume>
+      <journal-issue>1</journal-issue>
     </meta>
     <frontmatter>
       <url hash="4a0a13a6">2020.ijclclp-1.0</url>
@@ -58,10 +61,9 @@
       <url hash="0b33f0f7">2020.ijclclp-1.5</url>
       <language>zho</language>
       <bibkey>zhan-etal-2020-ying</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
   </volume>
-  <volume id="2" ingest-date="2021-07-21">
+  <volume id="2" ingest-date="2021-07-21" type="journal">
     <meta>
       <booktitle>International Journal of Computational Linguistics &amp; <fixed-case>C</fixed-case>hinese Language Processing, Volume 25, Number 2, December 2020</booktitle>
       <editor><first>Lung-Hao</first><last>Lee</last></editor>
@@ -70,6 +72,9 @@
       <address>Taipei, Taiwan</address>
       <month>December</month>
       <year>2020</year>
+      <venue>ijclclp</venue>
+      <journal-volume>25</journal-volume>
+      <journal-issue>2</journal-issue>
     </meta>
     <frontmatter>
       <url hash="2041b1ac">2020.ijclclp-2.0</url>

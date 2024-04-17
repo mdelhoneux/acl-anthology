@@ -22,7 +22,6 @@ import requests
 import shutil
 
 from lxml import etree
-from urllib.parse import urlparse
 from xml.sax.saxutils import escape as xml_escape
 from typing import Tuple, Optional
 from zlib import crc32
@@ -30,23 +29,15 @@ from zlib import crc32
 from .people import PersonName
 from . import data
 
+from typing import List
 
-xml_escape_or_none = lambda t: None if t is None else xml_escape(t)
+
+def xml_escape_or_none(t):
+    return None if t is None else xml_escape(t)
 
 
 def is_newstyle_id(anthology_id):
     return anthology_id[0].isdigit()  # New-style IDs are year-first
-
-
-def is_journal(anthology_id):
-    if is_newstyle_id(anthology_id):
-        # TODO: this function is sometimes called with "full_id", sometimes with
-        # "collection_id", so we're not using `deconstruct_anthology_id` here at
-        # the moment
-        venue = anthology_id.split("-")[0].split(".")[-1]
-        return venue in data.JOURNAL_IDS
-    else:
-        return anthology_id[0] in ("J", "Q")
 
 
 def is_volume_id(anthology_id):
@@ -78,7 +69,7 @@ def is_valid_id(id_):
 
 
 def build_anthology_id(
-    collection_id: str, volume_id: str, paper_id: Optional[str] = None
+    collection_id: str, volume_id: Optional[str], paper_id: Optional[str] = None
 ) -> str:
     """
     Transforms collection id, volume id, and paper id to a width-padded
@@ -87,23 +78,26 @@ def build_anthology_id(
     if is_newstyle_id(collection_id):
         if paper_id is not None:
             return f"{collection_id}-{volume_id}.{paper_id}"
-        else:
+        elif volume_id is not None:
             return f"{collection_id}-{volume_id}"
-    # pre-2020 IDs
-    if (
-        collection_id[0] == "W"
-        or collection_id == "C69"
-        or (collection_id == "D19" and int(volume_id) >= 5)
-    ):
-        anthology_id = f"{collection_id}-{int(volume_id):02d}"
-        if paper_id is not None:
-            anthology_id += f"{int(paper_id):02d}"
-    else:
-        anthology_id = f"{collection_id}-{int(volume_id):01d}"
-        if paper_id is not None:
-            anthology_id += f"{int(paper_id):03d}"
+        else:
+            return collection_id
 
-    return anthology_id
+    else:  # pre-2020 IDs
+        if (
+            collection_id[0] == "W"
+            or collection_id == "C69"
+            or (collection_id == "D19" and int(volume_id) >= 5)
+        ):
+            anthology_id = f"{collection_id}-{int(volume_id):02d}"
+            if paper_id is not None:
+                anthology_id += f"{int(paper_id):02d}"
+        else:
+            anthology_id = f"{collection_id}-{int(volume_id):01d}"
+            if paper_id is not None:
+                anthology_id += f"{int(paper_id):03d}"
+
+        return anthology_id
 
 
 def test_url_code(url):
@@ -135,7 +129,6 @@ def retrieve_url(remote_url: str, local_path: str):
         os.makedirs(outdir)
 
     if remote_url.startswith("http"):
-        import ssl
         import urllib.request
 
         cookieProcessor = urllib.request.HTTPCookieProcessor()
@@ -159,18 +152,23 @@ def retrieve_url(remote_url: str, local_path: str):
 
 def deconstruct_anthology_id(anthology_id: str) -> Tuple[str, str, str]:
     """
-    Transforms an Anthology ID into its constituent collection id, volume id, and paper id
+    Parses an Anthology ID into its constituent collection id, volume id, and paper id
     parts. e.g,
 
         P18-1007 -> ('P18', '1',  '7')
         W18-6310 -> ('W18', '63', '10')
         D19-1001 -> ('D19', '1',  '1')
         D19-5702 -> ('D19', '57', '2')
+        2022.acl-main.1 -> ('2022.acl', 'main', '1')
 
-    Also can deconstruct Anthology volumes:
+    Also works with volumes:
 
         P18-1 -> ('P18', '1', None)
         W18-63 -> ('W18', '63', None)
+
+    And even with just collections:
+
+        P18 -> ('P18', None, None)
 
     For Anthology IDs prior to 2020, the volume ID is the first digit after the hyphen, except
     for the following situations, where it is the first two digits:
@@ -179,28 +177,43 @@ def deconstruct_anthology_id(anthology_id: str) -> Tuple[str, str, str]:
     - The collection "C69"
     - All collections in "D19" where the first digit is >= 5
     """
-    collection_id, rest = anthology_id.split("-")
+
     if is_newstyle_id(anthology_id):
-        if "." in rest:
-            volume_id, paper_id = rest.split(".")
+        if "-" in anthology_id:
+            collection_id, rest = anthology_id.split("-")
         else:
-            volume_id, paper_id = rest, None
+            collection_id = anthology_id
+        rest = None
+        if "-" in anthology_id:
+            collection_id, rest = anthology_id.split("-")
+            if "." in rest:
+                volume_id, paper_id = rest.split(".")
+            else:
+                volume_id, paper_id = rest, None
+        else:
+            collection_id, volume_id, paper_id = anthology_id, None, None
+
         return (collection_id, volume_id, paper_id)
-    # pre-2020 IDs
-    if (
-        collection_id.startswith("W")
-        or collection_id == "C69"
-        or (collection_id == "D19" and int(rest[0]) >= 5)
-    ):
-        if len(rest) == 4:
-            return (collection_id, str(int(rest[0:2])), str(int(rest[2:])))
-        else:  # Possible Volume only identifier
-            return (collection_id, str(int(rest)), None)
     else:
-        if len(rest) == 4:
-            return (collection_id, str(int(rest[0:1])), str(int(rest[1:])))
-        else:  # Possible Volume only identifier
-            return (collection_id, str(int(rest)), None)
+        if "-" in anthology_id:
+            collection_id, rest = anthology_id.split("-")
+            # pre-2020 IDs
+            if (
+                collection_id.startswith("W")
+                or collection_id == "C69"
+                or (collection_id == "D19" and int(rest[0]) >= 5)
+            ):
+                if len(rest) == 4:
+                    return (collection_id, str(int(rest[0:2])), str(int(rest[2:])))
+                else:  # Possible Volume only identifier
+                    return (collection_id, str(int(rest)), None)
+            else:
+                if len(rest) == 4:
+                    return (collection_id, str(int(rest[0:1])), str(int(rest[1:])))
+                else:  # Possible Volume only identifier
+                    return (collection_id, str(int(rest)), None)
+        else:
+            return anthology_id, None, None
 
 
 def get_xml_file(anth_id):
@@ -274,20 +287,20 @@ def infer_url(filename, template=data.CANONICAL_URL_TEMPLATE):
         "{}" in template or "%s" in template
     ), "template has no substitution text; did you pass a prefix by mistake?"
 
-    if urlparse(filename).netloc:
+    if "://" in filename:
         return filename
     return template.format(filename)
 
 
 def infer_attachment_url(filename, parent_id=None):
-    if urlparse(filename).netloc:
+    if "://" in filename:
         return filename
     # Otherwise, treat it as an internal filename
     if parent_id is not None and not filename.startswith(parent_id):
         logging.error(
             f"attachment must begin with paper ID '{parent_id}', but is '{filename}'"
         )
-    return infer_url(filename, data.ATTACHMENT_TEMPLATE)
+    return data.ATTACHMENT_TEMPLATE.format(filename)
 
 
 def infer_year(collection_id):
@@ -349,7 +362,6 @@ class SeverityTracker(logging.Handler):
 
 
 def clean_whitespace(text, strip="left"):
-    old_text = text
     if text is not None:
         text = re.sub(r" +", " ", text)
         if strip == "left" or strip == "both":
@@ -368,7 +380,15 @@ def indent(elem, level=0, internal=False):
     Adapted from https://stackoverflow.com/a/33956544 .
     """
     # tags that have no internal linebreaks (including children)
-    oneline = elem.tag in ("author", "editor", "title", "booktitle", "variant")
+    oneline = elem.tag in (
+        "author",
+        "editor",
+        "speaker",
+        "title",
+        "booktitle",
+        "variant",
+        "abstract",
+    )
 
     elem.text = clean_whitespace(elem.text)
 
@@ -385,12 +405,12 @@ def indent(elem, level=0, internal=False):
 
         # recurse
         for child in elem:
-            indent(child, level + 1, internal=oneline)
+            indent(child, level + 1, internal=(internal or oneline))
 
         # Clean up the last child
         if oneline:
             child.tail = clean_whitespace(child.tail, strip="right")
-        elif not child.tail or not child.tail.strip():
+        elif not internal and (not child.tail or not child.tail.strip()):
             child.tail = "\n" + level * "  "
     else:
         elem.text = clean_whitespace(elem.text, strip="both")
@@ -401,19 +421,39 @@ def indent(elem, level=0, internal=False):
             elem.tail = "\n" + level * "  "
 
 
-def parse_element(xml_element):
+def parse_element(
+    xml_element,
+    list_elements=data.LIST_ELEMENTS,
+    dont_parse_elements=data.DONT_PARSE_ELEMENTS,
+):
+    """
+    Parses an XML node into a key-value hash.
+    Certain types receive special treatment.
+    Works for defined elements (mainly paper nodes and the <meta> block)
+
+    :param xml_element: the XML node to parse
+    :param list_elements: a list of elements that should be accumulated as lists
+    :param dont_parse_elements: a list of elements whose value should be the unparsed
+           XML node, rather than the parsed value
+    """
     attrib = {}
     if xml_element is None:
         return attrib
 
     for element in xml_element:
+        if element.tag is etree.Comment:
+            continue
+
         # parse value
         tag = element.tag.lower()
-        if tag in ("abstract", "title", "booktitle"):
+        if tag in dont_parse_elements:
+            # These elements have sub-formatting that gets interpreted in different
+            # ways (text, BibTeX, HTML, etc.), so we preserve the XML, marking it
+            # with a prefix.
             tag = f"xml_{tag}"
             value = element
         elif tag == "url":
-            tag = "xml_url"
+            tag = element.attrib.get("type", "xml_url")
             value = element.text
         elif tag == "attachment":
             value = {
@@ -455,7 +495,8 @@ def parse_element(xml_element):
         else:
             value = element.text
 
-        if tag in data.LIST_ELEMENTS:
+        # these items get built as lists (default is to overwrite)
+        if tag in list_elements:
             try:
                 attrib[tag].append(value)
             except KeyError:
@@ -474,7 +515,7 @@ def make_simple_element(tag, text=None, attrib=None, parent=None, namespaces=Non
         else etree.SubElement(parent, tag)
     )
     if text:
-        el.text = text
+        el.text = str(text)
     if attrib:
         for key, value in attrib.items():
             el.attrib[key] = value
@@ -489,3 +530,23 @@ def compute_hash(value: bytes) -> str:
 def compute_hash_from_file(path: str) -> str:
     with open(path, "rb") as f:
         return compute_hash(f.read())
+
+
+def read_leaves(data) -> List[str]:
+    """Reads the leaves of a possibly superfluously-hierarchical data structure.
+    For example:
+
+    { "2019": ["this", "that"] } -> ["this", "that"]
+    ["this", "that"] => ["this", "that"]
+    """
+    leaves = []
+    if isinstance(data, dict):
+        for subdata in data.values():
+            leaves += read_leaves(subdata)
+    elif isinstance(data, list):
+        for subdata in data:
+            leaves += read_leaves(subdata)
+    elif data:
+        leaves = [data]
+
+    return leaves

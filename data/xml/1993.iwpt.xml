@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1993.iwpt">
-  <volume id="1" ingest-date="2020-05-11">
+  <volume id="1" ingest-date="2020-05-11" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third International Workshop on Parsing Technologies</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
@@ -23,6 +23,7 @@
       <editor><first>Yorick</first><last>Wilks</last></editor>
       <editor><first>Kent</first><last>Wittenburg</last></editor>
       <url hash="1691fbfb">1993.iwpt-1</url>
+      <venue>iwpt</venue>
     </meta>
     <paper id="1">
       <title>Proceedings of the Third International Workshop on Parsing Technologies (<fixed-case>IWPT</fixed-case> ’93)</title>

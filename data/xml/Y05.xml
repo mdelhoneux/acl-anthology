@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y05">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 19th Pacific Asia Conference on Language, Information and Computation</booktitle>
       <publisher>Institute of Linguistics, Academia Sinica</publisher>
       <address>Taipei, Taiwan, R.O.C.</address>
       <month>December</month>
       <year>2005</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <bibkey>paclic-2005-pacific</bibkey>

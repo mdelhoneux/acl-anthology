@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.dt4tp">
-  <volume id="1" ingest-date="2021-05-11">
+  <volume id="1" ingest-date="2021-05-11" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Discourse Theories for Text Planning</booktitle>
       <editor><first>Christoph</first><last>Hesse</last></editor>
@@ -12,6 +12,7 @@
       <month>December</month>
       <year>2020</year>
       <url hash="1d9eefe4">2020.dt4tp-1</url>
+      <venue>dt4tp</venue>
     </meta>
     <frontmatter>
       <url hash="41fe2e3b">2020.dt4tp-1.0</url>

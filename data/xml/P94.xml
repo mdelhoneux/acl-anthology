@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P94">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>32nd Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Las Cruces, New Mexico, USA</address>
       <month>June</month>
       <year>1994</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="764083f2">P94-1000</url>

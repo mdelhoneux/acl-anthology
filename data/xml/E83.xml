@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="E83">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>First Conference of the <fixed-case>E</fixed-case>uropean Chapter of the Association for Computational Linguistics</booktitle>
       <editor><first>Antonio</first><last>Zampoili</last></editor>
@@ -8,6 +8,7 @@
       <address>Pisa, Italy</address>
       <year>1983</year>
       <month>September</month>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="a73b5d4a">E83-1000</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.deelio">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of Deep Learning Inside Out (DeeLIO): The 2nd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures</booktitle>
       <editor><first>Eneko</first><last>Agirre</last></editor>
@@ -11,6 +11,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.deelio-1</url>
+      <venue>deelio</venue>
     </meta>
     <frontmatter>
       <url hash="3cc0ef1a">2021.deelio-1.0</url>
@@ -23,11 +24,12 @@
       <author><first>Bruno</first><last>Olshausen</last></author>
       <author><first>Yann</first><last>LeCun</last></author>
       <pages>1–10</pages>
-      <abstract>Transformer networks have revolutionized NLP representation learning since they were introduced. Though a great effort has been made to explain the representation in transformers, it is widely recognized that our understanding is not sufficient. One important reason is that there lack enough visualization tools for detailed analysis. In this paper, we propose to use dictionary learning to open up these ‘black boxes’ as linear superpositions of transformer factors. Through visualization, we demonstrate the hierarchical semantic structures captured by the transformer factors, e.g., word-level polysemy disambiguation, sentence-level pattern formation, and long-range dependency. While some of these patterns confirm the conventional prior linguistic knowledge, the rest are relatively unexpected, which may provide new insights. We hope this visualization tool can bring further knowledge and a better understanding of how transformer networks work. The code is available at: https://github.com/zeyuyun1/TransformerVis.</abstract>
+      <abstract>Transformer networks have revolutionized NLP representation learning since they were introduced. Though a great effort has been made to explain the representation in transformers, it is widely recognized that our understanding is not sufficient. One important reason is that there lack enough visualization tools for detailed analysis. In this paper, we propose to use dictionary learning to open up these ‘black boxes’ as linear superpositions of transformer factors. Through visualization, we demonstrate the hierarchical semantic structures captured by the transformer factors, e.g., word-level polysemy disambiguation, sentence-level pattern formation, and long-range dependency. While some of these patterns confirm the conventional prior linguistic knowledge, the rest are relatively unexpected, which may provide new insights. We hope this visualization tool can bring further knowledge and a better understanding of how transformer networks work. The code is available at: <url>https://github.com/zeyuyun1/TransformerVis</url>.</abstract>
       <url hash="2e4d8e40">2021.deelio-1.1</url>
       <attachment type="OptionalSupplementaryData" hash="cb5139b2">2021.deelio-1.1.OptionalSupplementaryData.pdf</attachment>
       <doi>10.18653/v1/2021.deelio-1.1</doi>
       <bibkey>yun-etal-2021-transformer</bibkey>
+      <pwccode url="https://github.com/zeyuyun1/transformervis" additional="false">zeyuyun1/transformervis</pwccode>
     </paper>
     <paper id="2">
       <title>Reconstructing Implicit Knowledge with Language Models</title>
@@ -107,6 +109,7 @@
       <doi>10.18653/v1/2021.deelio-1.7</doi>
       <bibkey>bauer-etal-2021-ernie</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="8">
       <title>Enhancing Multiple-Choice Question Answering with Causal Knowledge</title>
@@ -145,6 +148,7 @@
       <url hash="e21386b2">2021.deelio-1.10</url>
       <doi>10.18653/v1/2021.deelio-1.10</doi>
       <bibkey>jang-etal-2021-kw</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="11">
       <title>Multi-input Recurrent Independent Mechanisms for leveraging knowledge sources: Case studies on sentiment analysis and health text mining</title>
@@ -157,6 +161,7 @@
       <bibkey>bagherzadeh-bergler-2021-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tweeteval">TweetEval</pwcdataset>
     </paper>
     <paper id="12">

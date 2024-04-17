@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W02">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Effective Tools and Methodologies for Teaching Natural Language Processing and Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Philadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>teachingnlp</venue>
     </meta>
     <frontmatter>
       <url hash="6c4da06a">W02-0100</url>
@@ -123,13 +124,14 @@
       <bibkey>koit-etal-2002-teaching</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third <fixed-case>SIG</fixed-case>dial Workshop on Discourse and Dialogue</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Philadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>sigdial</venue>
     </meta>
     <frontmatter>
       <url hash="240573df">W02-0200</url>
@@ -396,13 +398,14 @@
       <bibkey>zukerman-george-2002-minimum</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Natural Language Processing in the Biomedical Domain</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Phildadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="9ec32212">W02-0300</url>
@@ -530,13 +533,14 @@
       <bibkey>pustejovsky-etal-2002-medstract</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Automatic Summarization</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Phildadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="64639042">W02-0400</url>
@@ -599,13 +603,14 @@
       <bibkey>lin-hovy-2002-manual</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Computational Approaches to <fixed-case>S</fixed-case>emitic Languages</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Philadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>semitic</venue>
     </meta>
     <frontmatter>
       <url hash="31076e94">W02-0500</url>
@@ -684,12 +689,13 @@
       <bibkey>kamir-etal-2002-comprehensive</bibkey>
     </paper>
   </volume>
-  <volume id="6">
+  <volume id="6" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Morphological and Phonological Learning</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <month>July</month>
       <year>2002</year>
+      <venue>sigmorphon</venue>
     </meta>
     <frontmatter>
       <url hash="5aa87e4d">W02-0600</url>
@@ -770,12 +776,13 @@
       <bibkey>muller-2002-probabilistic</bibkey>
     </paper>
   </volume>
-  <volume id="7">
+  <volume id="7" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Speech-to-Speech Translation: Algorithms and Systems</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <month>July</month>
       <year>2002</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="704b0abc">W02-0700</url>
@@ -970,12 +977,13 @@
       <bibkey>lazzari-2002-vi</bibkey>
     </paper>
   </volume>
-  <volume id="8">
+  <volume id="8" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Word Sense Disambiguation: Recent Successes and Future Directions</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <month>July</month>
       <year>2002</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="3a52015e">W02-0800</url>
@@ -1139,13 +1147,14 @@
       <bibkey>chklovski-mihalcea-2002-building</bibkey>
     </paper>
   </volume>
-  <volume id="9">
+  <volume id="9" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case>-02 Workshop on Unsupervised Lexical Acquisition</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Philadelphia, Pennsylvania, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>ws</venue>
     </meta>
     <frontmatter>
       <url hash="2cd36547">W02-0900</url>
@@ -1233,12 +1242,13 @@
       <bibkey>inkpen-hirst-2002-acquiring</bibkey>
     </paper>
   </volume>
-  <volume id="10">
+  <volume id="10" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (<fixed-case>EMNLP</fixed-case> 2002)</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <month>July</month>
       <year>2002</year>
+      <venue>emnlp</venue>
     </meta>
     <frontmatter>
       <url hash="2fba5d0d">W02-1000</url>
@@ -1347,7 +1357,7 @@
       <bibkey>pang-etal-2002-thumbs</bibkey>
     </paper>
     <paper id="12">
-      <title>Extentions to <fixed-case>HMM</fixed-case>-based Statistical Word Alignment Models</title>
+      <title>Extensions to <fixed-case>HMM</fixed-case>-based Statistical Word Alignment Models</title>
       <author><first>Kristina</first><last>Toutanova</last></author>
       <author><first>H. Tolga</first><last>Ilhan</last></author>
       <author><first>Christopher</first><last>Manning</last></author>
@@ -1410,7 +1420,7 @@
     <paper id="19">
       <title>Minimum <fixed-case>B</fixed-case>ayes-Risk Word Alignments of Bilingual Texts</title>
       <author><first>Shankar</first><last>Kumar</last></author>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <doi>10.3115/1118693.1118712</doi>
       <pages>140–147</pages>
       <url hash="c1c08f71">W02-1019</url>
@@ -1627,9 +1637,11 @@
       <bibkey>jansche-abney-2002-information</bibkey>
     </paper>
   </volume>
-  <volume id="11">
+  <volume id="11" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: <fixed-case>SEMANET</fixed-case>: Building and Using Semantic Networks</booktitle>
+      <venue>ws</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="3cc39c0d">W02-1100</url>
@@ -1771,9 +1783,11 @@
       <bibkey>zock-2002-sorry</bibkey>
     </paper>
   </volume>
-  <volume id="12">
+  <volume id="12" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: The 3rd Workshop on <fixed-case>A</fixed-case>sian Language Resources and International Standardization</booktitle>
+      <venue>alr</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="7ede6e3d">W02-1200</url>
@@ -1871,9 +1885,11 @@
       <bibkey>sun-etal-2002-constructing</bibkey>
     </paper>
   </volume>
-  <volume id="13">
+  <volume id="13" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: A Roadmap for Computational Linguistics</booktitle>
+      <venue>ws</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="736a734d">W02-1300</url>
@@ -1913,9 +1929,11 @@
       <bibkey>rigau-etal-2002-meaning</bibkey>
     </paper>
   </volume>
-  <volume id="14">
+  <volume id="14" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: <fixed-case>COMPUTERM</fixed-case> 2002: Second International Workshop on Computational Terminology</booktitle>
+      <venue>computerm</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="9ca8c438">W02-1400</url>
@@ -2002,9 +2020,11 @@
       <bibkey>yamamoto-2002-acquisition</bibkey>
     </paper>
   </volume>
-  <volume id="15">
+  <volume id="15" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: Grammar Engineering and Evaluation</booktitle>
+      <venue>ws</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="1bc05e97">W02-1500</url>
@@ -2091,9 +2111,11 @@
       <bibkey>suzuki-2002-development</bibkey>
     </paper>
   </volume>
-  <volume id="16">
+  <volume id="16" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: Machine Translation in Asia</booktitle>
+      <venue>ws</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="573090c5">W02-1600</url>
@@ -2201,9 +2223,11 @@
       <bibkey>yao-etal-2002-automatic-information</bibkey>
     </paper>
   </volume>
-  <volume id="17">
+  <volume id="17" type="proceedings">
     <meta>
       <booktitle>COLING-02: The 2nd Workshop on NLP and XML (NLPXML-2002)</booktitle>
+      <venue>ws</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="b1cafdf2">W02-1700</url>
@@ -2321,9 +2345,11 @@
       <bibkey>wang-2002-salt</bibkey>
     </paper>
   </volume>
-  <volume id="18">
+  <volume id="18" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: The First <fixed-case>SIGHAN</fixed-case> Workshop on <fixed-case>C</fixed-case>hinese Language Processing</booktitle>
+      <venue>sighan</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="41533114">W02-1800</url>
@@ -2489,9 +2515,11 @@
       <bibkey>zhu-yao-2002-knowledge</bibkey>
     </paper>
   </volume>
-  <volume id="19">
+  <volume id="19" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: Multilingual Summarization and Question Answering</booktitle>
+      <venue>multiling</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="91400922">W02-1900</url>
@@ -2554,9 +2582,11 @@
       <bibkey>sakai-masuyama-2002-unsupervised</bibkey>
     </paper>
   </volume>
-  <volume id="20">
+  <volume id="20" type="proceedings">
     <meta>
       <booktitle><fixed-case>COLING</fixed-case>-02: The 6th Conference on Natural Language Learning 2002 (<fixed-case>C</fixed-case>o<fixed-case>NLL</fixed-case>-2002)</booktitle>
+      <venue>conll</venue>
+      <year>2002</year>
     </meta>
     <frontmatter>
       <url hash="3a243f72">W02-2000</url>
@@ -2810,7 +2840,7 @@
       <bibkey>wu-etal-2002-boosting</bibkey>
     </paper>
   </volume>
-  <volume id="21">
+  <volume id="21" type="proceedings">
     <meta>
       <booktitle>Proceedings of the International Natural Language Generation Conference</booktitle>
       <editor><first>Kathleen</first><last>McKeown</last></editor>
@@ -2818,6 +2848,7 @@
       <address>Harriman, New York, USA</address>
       <month>July</month>
       <year>2002</year>
+      <venue>inlg</venue>
     </meta>
     <frontmatter>
       <bibkey>ws-2002-international</bibkey>
@@ -3030,7 +3061,7 @@
       <bibkey>habash-2002-generation</bibkey>
     </paper>
   </volume>
-  <volume id="22">
+  <volume id="22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Sixth International Workshop on Tree Adjoining Grammar and Related Frameworks (<fixed-case>TAG</fixed-case>+6)</booktitle>
       <url hash="acb207a2">W02-22</url>
@@ -3039,6 +3070,7 @@
       <address>Universitá di Venezia</address>
       <month>May</month>
       <year>2002</year>
+      <venue>tag</venue>
     </meta>
     <frontmatter>
       <url hash="01666fab">W02-2200</url>

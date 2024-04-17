@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W91">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Reversible Grammar in Natural Language Processing</booktitle>
+      <venue>ws</venue>
+      <year>1991</year>
     </meta>
     <frontmatter>
       <url hash="fe8a7fb1">W91-0100</url>
@@ -115,9 +117,11 @@
       <bibkey>nn-1991-author-index-2</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Lexical Semantics and Knowledge Representation</booktitle>
+      <venue>ws</venue>
+      <year>1991</year>
     </meta>
     <frontmatter>
       <url hash="a398f915">W91-0200</url>
@@ -281,7 +285,7 @@
       <bibkey>nn-1991-author-index-3</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 8th Nordic Conference of Computational Linguistics (<fixed-case>NODALIDA</fixed-case> 1991)</booktitle>
       <url hash="f5d5ce25">W91-03</url>
@@ -291,6 +295,7 @@
       <address>Bergen, Norway</address>
       <month>November</month>
       <year>1992</year>
+      <venue>nodalida</venue>
     </meta>
     <frontmatter>
       <url hash="eda7f782">W91-0300</url>
@@ -311,6 +316,7 @@
       <pages>19–30</pages>
       <url hash="4a746c5d">W91-0302</url>
       <bibkey>brekke-skarsten-1992-operasjonell</bibkey>
+      <language>no-NO</language>
     </paper>
     <paper id="3">
       <title>Unification Based Transfer</title>
@@ -391,6 +397,7 @@
       <pages>153–164</pages>
       <url hash="4936c1a0">W91-0313</url>
       <bibkey>nordgard-1992-determinisme</bibkey>
+      <language>no-NO</language>
     </paper>
     <paper id="14">
       <title>Anaphora and Intensionality in Classical Logic</title>
@@ -405,6 +412,7 @@
       <pages>177–186</pages>
       <url hash="59efc1e7">W91-0315</url>
       <bibkey>wikholm-1992-ubersetzungstheorie</bibkey>
+      <language>de-DE</language>
     </paper>
     <paper id="16">
       <title>A <fixed-case>S</fixed-case>wedish Core Vocabulary for Machine Translation</title>

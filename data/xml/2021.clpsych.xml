@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.clpsych">
-  <volume id="1" ingest-date="2021-05-24">
+  <volume id="1" ingest-date="2021-05-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access</booktitle>
       <editor><first>Nazli</first><last>Goharian</last></editor>
@@ -14,6 +14,7 @@
       <month>June</month>
       <year>2021</year>
       <url hash="85c83d62">2021.clpsych-1</url>
+      <venue>clpsych</venue>
     </meta>
     <frontmatter>
       <url hash="a311aa20">2021.clpsych-1.0</url>

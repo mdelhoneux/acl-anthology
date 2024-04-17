@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P87">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>25th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Stanford, California, USA</address>
       <month>July</month>
       <year>1987</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="6abbe510">P87-1000</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y14">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 28th Pacific Asia Conference on Language, Information and Computing</booktitle>
       <url hash="98df8c1e">Y14-1</url>
@@ -8,6 +8,7 @@
       <address>Phuket,Thailand</address>
       <month>December</month>
       <year>2014</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="a4ed5a05">Y14-1000</url>

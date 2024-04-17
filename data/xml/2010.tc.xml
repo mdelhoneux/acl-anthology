@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2010.tc">
-  <volume id="1" ingest-date="2021-08-13">
+  <volume id="1" ingest-date="2021-08-13" type="proceedings">
     <meta>
       <booktitle>Proceedings of Translating and the Computer 32</booktitle>
       <publisher>Aslib</publisher>
       <address>London, UK</address>
       <month>November 18-19</month>
       <year>2010</year>
+      <venue>tc</venue>
     </meta>
     <frontmatter>
       <url hash="59600f2e">2010.tc-1.0</url>

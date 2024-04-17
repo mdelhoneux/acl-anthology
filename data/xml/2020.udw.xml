@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.udw">
-  <volume id="1" ingest-date="2020-11-29">
+  <volume id="1" ingest-date="2020-11-29" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)</booktitle>
       <editor><first>Marie-Catherine</first><last>de Marneffe</last></editor>
@@ -11,6 +11,7 @@
       <address>Barcelona, Spain (Online)</address>
       <month>December</month>
       <year>2020</year>
+      <venue>udw</venue>
     </meta>
     <frontmatter>
       <url hash="6d1f74e6">2020.udw-1.0</url>

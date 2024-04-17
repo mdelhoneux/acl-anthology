@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1978.tc">
-  <volume id="1" ingest-date="2021-08-04">
+  <volume id="1" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Translating and the Computer</booktitle>
       <publisher>Aslib Proceedings</publisher>
@@ -8,6 +8,7 @@
       <month>November 14</month>
       <year>1978</year>
       <editor><first>Barbara M.</first><last>Snell</last></editor>
+      <venue>tc</venue>
     </meta>
     <frontmatter>
       <url hash="390aee7d">1978.tc-1.0</url>

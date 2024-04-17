@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P10">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <url hash="2736e8be">P10-1</url>
@@ -12,6 +12,7 @@
       <address>Uppsala, Sweden</address>
       <month>July</month>
       <year>2010</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="a8e6a7ec">P10-1000</url>
@@ -1388,7 +1389,7 @@
       <bibkey>gerber-chai-2010-beyond</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> 2010 Conference Short Papers</booktitle>
       <url hash="cd5461ca">P10-2</url>
@@ -1400,6 +1401,7 @@
       <address>Uppsala, Sweden</address>
       <month>July</month>
       <year>2010</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="4dbd4883">P10-2000</url>
@@ -1457,7 +1459,7 @@
       <title>Efficient Path Counting Transducers for Minimum <fixed-case>B</fixed-case>ayes-Risk Decoding of Statistical Machine Translation Lattices</title>
       <author><first>Graeme</first><last>Blackwood</last></author>
       <author><first>Adrià</first><last>de Gispert</last></author>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <pages>27–32</pages>
       <url hash="99335eb2">P10-2006</url>
       <bibkey>blackwood-etal-2010-efficient</bibkey>
@@ -2025,7 +2027,7 @@
       <bibkey>steinberger-etal-2010-wrapping</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> 2010 Student Research Workshop</booktitle>
       <url hash="4f2af5af">P10-3</url>
@@ -2038,6 +2040,7 @@
       <address>Uppsala, Sweden</address>
       <month>July</month>
       <year>2010</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="651634ac">P10-3000</url>
@@ -2183,7 +2186,7 @@
       <bibkey>porta-2010-use</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the <fixed-case>ACL</fixed-case> 2010 System Demonstrations</booktitle>
       <url hash="36aaabf4">P10-4</url>
@@ -2192,6 +2195,7 @@
       <address>Uppsala, Sweden</address>
       <month>July</month>
       <year>2010</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="b93e2bf8">P10-4000</url>
@@ -2284,7 +2288,7 @@
     <paper id="9">
       <title>Personalising Speech-To-Speech Translation in the <fixed-case>EMIME</fixed-case> Project</title>
       <author><first>Mikko</first><last>Kurimo</last></author>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <author><first>John</first><last>Dines</last></author>
       <author><first>Philip N.</first><last>Garner</last></author>
       <author><first>Matthew</first><last>Gibson</last></author>
@@ -2346,7 +2350,7 @@
       <bibkey>zhong-ng-2010-makes</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts</booktitle>
       <url hash="0bffad6f">P10-5</url>
@@ -2356,6 +2360,7 @@
       <address>Uppsala, Sweden</address>
       <month>July</month>
       <year>2010</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="2e6b4775">P10-5000</url>

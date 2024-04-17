@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2013.mtsummit">
-  <volume id="plenaries" ingest-date="2021-08-02">
+  <volume id="plenaries" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XIV: Plenaries</booktitle>
       <address>Nice, France</address>
       <month>September 2-6</month>
       <year>2013</year>
       <editor><first>Andy</first><last>Way</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>The Operation Sequence Model: Integrating Translation and Reordering Operations in a Single Left-to-Right Model</title>
@@ -21,7 +22,7 @@
       <bibkey>elsen-2013-demystifying</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-08-02">
+  <volume id="papers" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XIV: Papers</booktitle>
       <address>Nice, France</address>
@@ -30,6 +31,7 @@
       <editor><first>Andy</first><last>Way</last></editor>
       <editor><first>Khalil</first><last>Sima’an</last></editor>
       <editor><first>Mikel L.</first><last>Forcada</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Terminology-driven Augmentation of Bilingual Terminologies</title>
@@ -235,7 +237,7 @@
       <bibkey>simard-foster-2013-pepr</bibkey>
     </paper>
   </volume>
-  <volume id="posters" ingest-date="2021-08-02">
+  <volume id="posters" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XIV: Posters</booktitle>
       <address>Nice, France</address>
@@ -244,6 +246,7 @@
       <editor><first>Andy</first><last>Way</last></editor>
       <editor><first>Khalil</first><last>Sima’an</last></editor>
       <editor><first>Mikel L.</first><last>Forcada</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Translating the <fixed-case>FINREP</fixed-case> Taxonomy using a Domain-specific Corpus</title>
@@ -368,7 +371,7 @@
       <bibkey>rubino-etal-2013-topic</bibkey>
     </paper>
   </volume>
-  <volume id="user" ingest-date="2021-08-02">
+  <volume id="user" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XIV: User track</booktitle>
       <address>Nice, France</address>
@@ -377,6 +380,7 @@
       <editor><first>Andy</first><last>Way</last></editor>
       <editor><first>Daniel</first><last>Grasmick</last></editor>
       <editor><first>Heidi</first><last>Depaetere</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Analyzing and Predicting <fixed-case>MT</fixed-case> Utility and Post-Editing Productivity in Enterprise-scale Translation Projects</title>
@@ -508,13 +512,14 @@
       <bibkey>wendt-garcea-2013-use</bibkey>
     </paper>
   </volume>
-  <volume id="european" ingest-date="2021-08-02">
+  <volume id="european" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XIV: European projects</booktitle>
       <address>Nice, France</address>
       <month>September 2-6</month>
       <year>2013</year>
       <editor><first>Andy</first><last>Way</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Automated Community Content Editing <fixed-case>P</fixed-case>or<fixed-case>T</fixed-case>al (<fixed-case>ACCEPT</fixed-case>)</title>
@@ -575,7 +580,7 @@
     </paper>
     <paper id="8">
       <title><fixed-case>FAUST</fixed-case>: Feedback Analysis for User Adaptive Statistical Translation</title>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <author><first>Lluis</first><last>Marquez</last></author>
       <url hash="5207c5bf">2013.mtsummit-european.8</url>
       <bibkey>byrne-marquez-2013-faust</bibkey>
@@ -701,13 +706,14 @@
       <bibkey>workshops-2013-cross</bibkey>
     </paper>
   </volume>
-  <volume id="wpt" ingest-date="2021-08-02">
+  <volume id="wpt" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 5th Workshop on Patent Translation</booktitle>
       <address>Nice, France</address>
       <month>September 2</month>
       <year>2013</year>
       <editor><first>Shoichi</first><last>Yokoyama</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <frontmatter>
       <url hash="2147e2c6">2013.mtsummit-wpt.0</url>
@@ -753,7 +759,7 @@
       <bibkey>sellami-etal-2013-exploiting</bibkey>
     </paper>
   </volume>
-  <volume id="wptp" ingest-date="2021-08-02">
+  <volume id="wptp" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2nd Workshop on Post-editing Technology and Practice</booktitle>
       <address>Nice, France</address>
@@ -762,6 +768,7 @@
       <editor><first>Sharon</first><last>O'Brien</last></editor>
       <editor><first>Michel</first><last>Simard</last></editor>
       <editor><first>Lucia</first><last>Specia</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>This translation is not too bad: an analysis of post-editor choices in a machine-translation post-editing task</title>
@@ -891,7 +898,7 @@
       <bibkey>roturier-etal-2013-accept</bibkey>
     </paper>
   </volume>
-  <volume id="wmwumttt" ingest-date="2021-08-02">
+  <volume id="wmwumttt" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Workshop on Multi-word Units in Machine Translation and Translation Technologies</booktitle>
       <address>Nice, France</address>
@@ -901,6 +908,7 @@
       <editor><first>Ruslan</first><last>Mitkov</last></editor>
       <editor><first>Gloria</first><last>Corpas Pastor</last></editor>
       <editor><first>Violeta</first><last>Seretan</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>All that glitters is not gold when translating phraseological units</title>

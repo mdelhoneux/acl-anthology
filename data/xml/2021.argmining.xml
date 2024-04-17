@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.argmining">
-  <volume id="1" ingest-date="2021-10-28">
+  <volume id="1" ingest-date="2021-10-28" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 8th Workshop on Argument Mining</booktitle>
       <editor><first>Khalid</first><last>Al-Khatib</last></editor>
@@ -10,6 +10,7 @@
       <address>Punta Cana, Dominican Republic</address>
       <month>November</month>
       <year>2021</year>
+      <venue>argmining</venue>
     </meta>
     <frontmatter>
       <url hash="f5428747">2021.argmining-1.0</url>
@@ -107,7 +108,7 @@
       <title><fixed-case>M</fixed-case>-Arg: Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts</title>
       <author><first>Rafael</first><last>Mestre</last></author>
       <author><first>Razvan</first><last>Milicin</last></author>
-      <author><first>Stuart</first><last>Middleton</last></author>
+      <author><first>Stuart E.</first><last>Middleton</last></author>
       <author><first>Matt</first><last>Ryan</last></author>
       <author><first>Jiatong</first><last>Zhu</last></author>
       <author><first>Timothy J.</first><last>Norman</last></author>

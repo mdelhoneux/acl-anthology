@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1997.tmi">
-  <volume id="1" ingest-date="2021-08-03">
+  <volume id="1" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 7th Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages</booktitle>
       <publisher>?? Not mentionned on TOC</publisher>
       <address>St John’s College, Santa Fe</address>
       <month>July 23-25</month>
       <year>1997</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>If you have it, flaunt it: using full ontological knowledge for word sense disambiguation</title>

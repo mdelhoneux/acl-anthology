@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y16">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation: Keynote Speeches and Invited Talks</booktitle>
       <url hash="8ff07c89">Y16-1</url>
       <address>Seoul, South Korea</address>
       <month>October</month>
       <year>2016</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <url hash="f93a5a2e">Y16-1000</url>
@@ -69,12 +70,13 @@
       <bibkey>dita-2016-grammar</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation: Oral Papers</booktitle>
       <address>Seoul, South Korea</address>
       <month>October</month>
       <year>2016</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <bibkey>paclic-2016-pacific-asia</bibkey>
@@ -176,6 +178,7 @@
       <url hash="962aef4d">Y16-2012</url>
       <pages>143–152</pages>
       <bibkey>wang-lepage-2016-yet</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
     </paper>
     <paper id="13">
       <title>Event Based Emotion Classification for News Articles</title>
@@ -274,8 +277,8 @@
       <url hash="9f7e2c63">Y16-2022</url>
       <pages>239–248</pages>
       <bibkey>muraoka-etal-2016-recognizing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hico">HICO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="23">
       <title>Strong Associations Can Be Weak: Some Thoughts on Cross-lingual Word Webs for Translation</title>
@@ -327,12 +330,13 @@
       <bibkey>park-2016-towards</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation: Posters</booktitle>
       <address>Seoul, South Korea</address>
       <month>October</month>
       <year>2016</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <bibkey>paclic-2016-pacific-asia-language</bibkey>

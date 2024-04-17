@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2021.computel">
-  <volume id="1" ingest-date="2021-10-22">
+  <volume id="1" ingest-date="2021-10-22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 4th Workshop on the Use of Computational Methods in the Study of Endangered Languages Volume 1 (Papers)</booktitle>
       <editor><first>Antti</first><last>Arppe</last></editor>
@@ -16,6 +16,7 @@
       <address>Online</address>
       <month>March</month>
       <year>2021</year>
+      <venue>computel</venue>
     </meta>
     <frontmatter>
       <url hash="c509eb60">2021.computel-1.0</url>
@@ -69,7 +70,7 @@
       <bibkey>dacanay-etal-2021-computational</bibkey>
     </paper>
     <paper id="6">
-      <title>The Usefulness of Bibles in Low-Resource Machine Translation</title>
+      <title>The Usefulness of <fixed-case>B</fixed-case>ibles in Low-Resource Machine Translation</title>
       <author><first>Ling</first><last>Liu</last></author>
       <author><first>Zach</first><last>Ryan</last></author>
       <author><first>Mans</first><last>Hulden</last></author>
@@ -108,7 +109,7 @@
       <bibkey>hjortnaes-etal-2021-relevance</bibkey>
     </paper>
     <paper id="9">
-      <title>Shared Digital Resource Application within Insular Scandinavian</title>
+      <title>Shared Digital Resource Application within <fixed-case>I</fixed-case>nsular <fixed-case>S</fixed-case>candinavian</title>
       <author><first>Hinrik</first><last>Hafsteinsson</last></author>
       <author><first>Anton Karl</first><last>Ingason</last></author>
       <pages>70–79</pages>

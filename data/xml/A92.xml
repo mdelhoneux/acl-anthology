@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="A92">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Third Conference on Applied Natural Language Processing</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Trento, Italy</address>
       <month>March</month>
       <year>1992</year>
+      <venue>anlp</venue>
     </meta>
     <frontmatter>
       <url hash="2c745fd4">A92-1000</url>

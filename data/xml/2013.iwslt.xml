@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2013.iwslt">
-  <volume id="keynote" ingest-date="2021-08-08">
+  <volume id="keynote" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 10th International Workshop on Spoken Language Translation: Keynote</booktitle>
       <address>Heidelberg, Germany</address>
       <month>December 5-6</month>
       <year>2013</year>
       <editor><first>Joy Ying</first><last>Zhang</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>The human interpreter in action – multilingualism at the <fixed-case>E</fixed-case>uropean Parliament</title>
@@ -15,13 +16,14 @@
       <bibkey>altenberg-2013-human</bibkey>
     </paper>
   </volume>
-  <volume id="evaluation" ingest-date="2021-08-08">
+  <volume id="evaluation" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 10th International Workshop on Spoken Language Translation: Evaluation Campaign</booktitle>
       <address>Heidelberg, Germany</address>
       <month>December 5-6</month>
       <year>2013</year>
       <editor><first>Joy Ying</first><last>Zhang</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Report on the 10th <fixed-case>IWSLT</fixed-case> evaluation campaign</title>
@@ -321,13 +323,14 @@
       <bibkey>peng-etal-2013-casia</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-08-08">
+  <volume id="papers" ingest-date="2021-08-08" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 10th International Workshop on Spoken Language Translation: Papers</booktitle>
       <address>Heidelberg, Germany</address>
       <month>December 5-6</month>
       <year>2013</year>
       <editor><first>Joy Ying</first><last>Zhang</last></editor>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Using viseme recognition to improve a sign language translation system</title>

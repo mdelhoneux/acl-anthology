@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.amta">
-  <volume id="research" ingest-date="2020-09-29">
+  <volume id="research" ingest-date="2020-09-29" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (Volume 1: Research Track)</booktitle>
       <publisher>Association for Machine Translation in the Americas</publisher>
@@ -10,6 +10,7 @@
       <url hash="7d6ca956">2020.amta-research</url>
       <editor><first>Michael</first><last>Denkowski</last></editor>
       <editor><first>Christian</first><last>Federmann</last></editor>
+      <venue>amta</venue>
     </meta>
     <frontmatter>
       <url hash="c999c44a">2020.amta-research.0</url>
@@ -160,7 +161,7 @@
       <pwccode url="https://github.com/ngoctanle/inuktitut-english-nmt" additional="false">ngoctanle/inuktitut-english-nmt</pwccode>
     </paper>
   </volume>
-  <volume id="user" ingest-date="2020-10-22">
+  <volume id="user" ingest-date="2020-10-22" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (Volume 2: User Track)</booktitle>
       <publisher>Association for Machine Translation in the Americas</publisher>
@@ -172,6 +173,7 @@
       <editor><first>Ben</first><last>Huyck</last></editor>
       <editor><first>Patricia</first><last>O’Neill-Brown</last></editor>
       <url hash="b3fa84ec">2020.amta-user</url>
+      <venue>amta</venue>
     </meta>
     <frontmatter>
       <url hash="971b5a4a">2020.amta-user.0</url>
@@ -407,7 +409,7 @@
       <bibkey>ruopp-2020-using</bibkey>
     </paper>
   </volume>
-  <volume id="pemdt" ingest-date="2020-11-16">
+  <volume id="pemdt" ingest-date="2020-11-16" type="proceedings">
     <meta>
       <booktitle>Proceedings of 1st Workshop on Post-Editing in Modern-Day Translation</booktitle>
       <publisher>Association for Machine Translation in the Americas</publisher>
@@ -418,6 +420,7 @@
       <editor><first>Marcello</first><last>Federico</last></editor>
       <editor><first>Constantin</first><last>Orasan</last></editor>
       <editor><first>Maja</first><last>Popovic</last></editor>
+      <venue>amta</venue>
     </meta>
     <frontmatter>
       <url hash="d2fc4651">2020.amta-pemdt.0</url>
@@ -493,7 +496,7 @@
       <bibkey>stasimioti-sosoni-2020-translation</bibkey>
     </paper>
   </volume>
-  <volume id="impact" ingest-date="2020-11-23">
+  <volume id="impact" ingest-date="2020-11-23" type="proceedings">
     <meta>
       <booktitle>Workshop on the Impact of Machine Translation (iMpacT 2020)</booktitle>
       <publisher>Association for Machine Translation in the Americas</publisher>
@@ -503,6 +506,7 @@
       <editor><first>Sharon</first><last>O'Brien</last></editor>
       <editor><first>Michel</first><last>Simard</last></editor>
       <url hash="53cbcb4a">2020.amta-impact</url>
+      <venue>amta</venue>
     </meta>
     <frontmatter>
       <attachment type="presentation" hash="1458745e">2020.amta-impact.0.Presentation.pdf</attachment>

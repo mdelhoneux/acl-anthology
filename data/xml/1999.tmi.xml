@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1999.tmi">
-  <volume id="1" ingest-date="2021-08-03">
+  <volume id="1" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 8th Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages</booktitle>
       <address>University College, Chester</address>
       <month>August 23-25</month>
       <year>1999</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>Mental spaces, space builders and bilingual summarization of news reports</title>

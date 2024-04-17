@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1987.mtsummit">
-  <volume id="1" ingest-date="2021-06-28">
+  <volume id="1" ingest-date="2021-06-28" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit I</booktitle>
       <address>Hakone, Japan</address>
       <month>September 17-19</month>
       <year>1987</year>
       <editor><first>Makoto</first><last>Nagao</last></editor>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Present and future of machine translation systems — an introduction to the <fixed-case>MT</fixed-case> Summit —</title>

@@ -1,3 +1,7 @@
+- canonical: {first: Léon, last: Dostert}
+  variants:
+  - {first: Leon, last: Dostert}
+  - {first: L. E., last: Dostert}
 - canonical: {first: Pranav, last: A}
   comment: UC Santa Cruz
   id: pranav-a
@@ -6,6 +10,9 @@
   variants:
   - {first: Balamurali, last: A.R.}
   - {first: Balamurali, last: A.R}
+- canonical: {first: Xuan Long, last: Do}
+  variants:
+  - {first: Long, last: Do}
 - canonical: {first: Solomon Teferra, last: Abate}
   variants:
   - {first: Solomon, last: Teferra Abate}
@@ -382,9 +389,6 @@
 - canonical: {first: Hee-Sook, last: Bae}
   variants:
   - {first: Hee Sook, last: Bae}
-- canonical: {first: Seunghyun, last: Baek.}
-  variants:
-  - {first: Seunghyun, last: Baek}
 - canonical: {first: Erik, last: Baert}
   id: erik-baert
 - canonical: {first: Mirko, last: Baglioni}
@@ -447,6 +451,10 @@
   variants:
   - {first: Eduardo, last: R. Banga}
   - {first: Eduardo Rodríguez, last: Banga}
+- canonical: {first: Gözde Gül, last: Şahin}
+  variants:
+  - {first: Gözde, last: Şahin}
+  - {first: Gözde Gül, last: İşgüder}
 - canonical: {first: Srinivas, last: Bangalore}
   variants:
   - {first: B., last: Srinivas}
@@ -454,9 +462,6 @@
 - canonical: {first: Forrest, last: Bao}
   variants:
   - {first: Forrest Sheng, last: Bao}
-- canonical: {first: Chitta, last: Baral.}
-  variants:
-  - {first: Chitta, last: Baral}
 - canonical: {first: Petra, last: Barancikova}
   variants:
   - {first: Petra, last: Barančíková}
@@ -729,6 +734,7 @@
 - canonical: {first: Daniel M., last: Bikel}
   variants:
   - {first: Daniel, last: Bikel}
+  - {first: Dan, last: Bikel}
 - canonical: {first: Dimitrios, last: Bilidas}
   variants:
   - {first: Dimitris, last: Bilidas}
@@ -861,9 +867,6 @@
   id: jean-francois-bonastre
   variants:
   - {first: Jean-Francois, last: Bonastre}
-- canonical: {first: Francis, last: Bond.}
-  variants:
-  - {first: Francis, last: Bond}
 - canonical: {first: Guillaume, last: Bonfante}
   variants:
   - {first: Guillame, last: Bonfante}
@@ -1086,10 +1089,15 @@
 - canonical: {first: Andrei, last: Butnaru}
   variants:
   - {first: Andrei M., last: Butnaru}
-- canonical: {first: William, last: Byrne}
-  id: william-byrne
+- canonical: {first: Bill, last: Byrne}
+  id: bill-byrne
+  comment: University of Cambridge
   variants:
   - {first: William J., last: Byrne}
+  - {first: William, last: Byrne}
+- canonical: {first: Bill, last: Byrne}
+  id: bill-byrne-ucsd
+  comment: UCSD Ph.d; https://www.linkedin.com/in/billb/
 - canonical: {first: Donna, last: Byron}
   id: donna-byron
   variants:
@@ -1408,6 +1416,9 @@
   variants:
   - {first: Kai-Min, last: Chang}
   - {first: Kai-min K., last: Chang}
+- canonical: {first: Haley, last: Lepp}
+  variants:
+  - {first: Haley M., last: Lepp}
 - canonical: {first: Belinda Z., last: Li}
   variants:
   - {first: Belinda, last: Li}
@@ -1795,6 +1806,7 @@
 - canonical: {first: Michael, last: Collins}
   variants:
   - {first: Michael John, last: Collins}
+  - {first: Mike, last: Collins}
 - canonical: {first: Sandra, last: Collovini}
   id: sandra-collovini
 - canonical: {first: Pere, last: Comas}
@@ -2066,9 +2078,6 @@
 - canonical: {first: David, last: Day}
   variants:
   - {first: David S., last: Day}
-- canonical: {first: Danilo, last: Dayag.}
-  variants:
-  - {first: Danilo, last: Dayag}
 - canonical: {first: Antonella, last: De Angeli}
   variants:
   - {first: Antonella, last: DeAngeli}
@@ -2614,6 +2623,9 @@
 - canonical: {first: Naomi, last: Feldman}
   variants:
   - {first: Naomi H., last: Feldman}
+- canonical: {first: Laurie, last: Feldman}
+  variants:
+  - {first: Laurie Beth, last: Feldman}
 - canonical: {first: Laszlo, last: Felfoldi}
   variants:
   - {first: László, last: Felföldi}
@@ -2933,6 +2945,10 @@
 - canonical: {first: Kok Wee, last: Gan}
   variants:
   - {first: Kok-Wee, last: Gan}
+- canonical: {first: Mattia A., last: Di Gangi}
+  variants:
+  - {first: Mattia Antonino, last: Di Gangi}
+  - {first: Mattia, last: Di Gangi}
 - canonical: {first: Surya, last: Ganesh}
   variants:
   - {first: Surya Ganesh, last: V}
@@ -2981,7 +2997,7 @@
   variants:
   - {first: M. Ángel, last: García}
   - {first: Miguel, last: García-Cumbreras}
-  - {first: Miguel, last: Á. García Cumbreras}
+  - {first: Miguel Á., last: García Cumbreras}
 - canonical: {first: Mercedes, last: García-Martínez}
   variants:
   - {first: Mercedes García, last: Martínez}
@@ -3714,7 +3730,6 @@
   variants:
   - {first: Carlos, last: Henriquez}
   - {first: Carlos A., last: Henríquez Q.}
-  - {first: Carlos A., last: Henráquez Q.}
 - canonical: {first: Renate, last: Henschel}
   id: renate-henschel
 - canonical: {first: Aurélie, last: Herbelot}
@@ -4547,6 +4562,7 @@
   - {first: Mitesh, last: Khapra}
   - {first: Mitesh, last: M. Khapra}
   - {first: Mitesh M, last: Khapra}
+  - {first: Mitesh Shantadevi, last: Khapra}
 - canonical: {first: Sanjeev, last: Khudanpur}
   id: sanjeev-khudanpur
 - canonical: {first: Rodger, last: Kibble}
@@ -5374,8 +5390,10 @@
   variants:
   - {first: Shu-yen, last: Lin}
 - canonical: {first: Xi Victoria, last: Lin}
-  variants:
-  - {first: Victoria, last: Lin}
+  comment: U of Washington, Meta
+- canonical: {first: Victoria, last: Lin}
+  comment: CMU
+  id: victoria-lin-cmu
 - canonical: {first: Xiaojun, last: Lin}
   variants:
   - {first: Xiaojun, last: Li}
@@ -5424,8 +5442,11 @@
   comment: May refer to several people
   id: fei-liu
 - canonical: {first: Fei, last: Liu}
-  comment: UT Dallas, Bosch, CMU, University of Central Florida
+  comment: UT Dallas, Bosch, CMU, University of Central Florida, Emory University
   id: fei-liu-utdallas
+- canonical: {first: Fei, last: Liu}
+  comment: google assistant
+  id: fei-liu-gga
 - canonical: {first: Fei, last: Liu}
   comment: University of Melbourne
   id: fei-liu-unimelb
@@ -5449,8 +5470,11 @@
   variants:
   - {first: Weiyi, last: Lu}
 - canonical: {first: Yang, last: Liu}
-  comment: Edinburgh
+  comment: Edinburgh Ph.D., Microsoft
   id: yang-liu-edinburgh
+- canonical: {first: Yang, last: Liu}
+  comment: Beijing Language and Culture University
+  id: yang-liu-blcu
 - canonical: {first: Yang, last: Liu}
   comment: The Chinese University of Hong Kong (Shenzhen)
   id: yang-liu-hk
@@ -5460,15 +5484,21 @@
 - canonical: {first: Yang, last: Liu}
   comment: 刘洋; ICT, Tsinghua, Beijing Academy of Artificial Intelligence
   id: yang-liu-ict
-- canonical: {first: Yang, last: Liu}
-  comment: Georgetown University
-  id: yang-liu-gt
+- canonical: {first: Yang Janet, last: Liu}
+  comment: Georgetown University; 刘洋
+  id: yang-janet-liu
 - canonical: {first: Miruna, last: Clinciu}
   variants:
   - {first: Miruna-Adriana, last: Clinciu}
 - canonical: {first: Yang, last: Liu}
   comment: Peking University
   id: yang-liu-pk
+- canonical: {first: Yang, last: Liu}
+  comment: Wilfrid Laurier University
+  id: yang-liu-wl
+- canonical: {first: Yang, last: Liu}
+  comment: Samsung Research Center Beijing
+  id: yang-liu-ss
 - canonical: {first: Yang, last: Liu}
   comment: National University of Defense Technology
   id: yang-liu-dt
@@ -5478,19 +5508,19 @@
 - canonical: {first: Yang, last: Liu}
   comment: May refer to several people
   id: yang-liu
-  similar: [yang-liu-georgetown]
+  similar: [yang-janet-liu]
 - canonical: {first: Yang, last: Liu}
   comment: Univ. of Michigan, UC Santa Cruz
   id: yang-liu-umich
 - canonical: {first: Yang, last: Liu}
   comment: University of Helsinki
   id: yang-liu-Helsinki
-- canonical: {first: Yang (Janet), last: Liu}
-  comment: 刘洋; Georgetown
-  id: yang-liu-georgetown
 - canonical: {first: Yang, last: Liu}
   comment: 3M Health Information Systems
   id: yang-liu-3m
+- canonical: {first: Yang, last: Liu}
+  comment: Tianjin University, China
+  id: yang-liu-tianjin
 - canonical: {first: Andrej, last: Ljolje}
   id: andrej-ljolje
 - canonical: {first: Peter, last: Ljunglöf}
@@ -5743,6 +5773,10 @@
 - canonical: {first: Elisabeth, last: Maier}
   variants:
   - {first: Elisabeth, last: Mager}
+- canonical: {first: Frederic, last: Mailhot}
+  variants:
+  - {first: Fred, last: Mailhot}
+  - {first: Frédéric, last: Mailhot}
 - canonical: {first: Steven J., last: Maiorano}
   variants:
   - {first: Steve, last: Maiorano}
@@ -6700,6 +6734,9 @@
 - canonical: {first: Jiří, last: Navrátil}
   variants:
   - {first: Jiri, last: Navratil}
+- canonical: {first: Patrick A., last: Naylor}
+  variants:
+  - {first: Patrick, last: Naylor}
 - canonical: {first: Tapas, last: Nayak}
   variants:
   - {first: Tapas, last: Nayek}
@@ -7316,9 +7353,6 @@
 - canonical: {first: C. Raymond, last: Perrault}
   variants:
   - {first: Raymond, last: Perrault}
-- canonical: {first: Pascal, last: Perrier1.}
-  variants:
-  - {first: Pascal, last: Perrier}
 - canonical: {first: Andreas, last: Persidis}
   id: andreas-persidis
 - canonical: {first: Marie-Paule, last: Pery-Woodley}
@@ -7572,6 +7606,7 @@
 - canonical: {first: Emily, last: Prud’hommeaux}
   variants:
   - {first: Emily T., last: Prud’hommeaux}
+  - {first: Emily, last: Prud'hommeaux}
 - canonical: {first: Mark, last: Przybocki}
   variants:
   - {first: Mark A., last: Przybocki}
@@ -9457,9 +9492,6 @@
 - canonical: {first: Noortje, last: Venhuizen}
   variants:
   - {first: Noortje J., last: Venhuizen}
-- canonical: {first: Joan Miquel, last: Vergés•.}
-  variants:
-  - {first: Joan Miquel, last: Vergés}
 - canonical: {first: Mateja, last: Verlič}
   variants:
   - {first: Mateja, last: Verlic}
@@ -9531,9 +9563,6 @@
   - {first: Éric, last: de La Clergerie}
   - {first: Éric, last: de la Clergerie}
   - {first: Éric, last: Villemonte de La Clergerie}
-- canonical: {first: Coralie, last: Vincent1.}
-  variants:
-  - {first: Coralie, last: Vincent}
 - canonical: {first: Špela, last: Vintar}
   variants:
   - {first: Spela, last: Vintar}
@@ -10390,6 +10419,9 @@
   id: haldur-oim
   variants:
   - {first: Haldur, last: Oim}
+- canonical: {first: Àlex R., last: Atrio}
+  variants:
+  - {first: Àlex, last: Atrio}
 - canonical: {first: Hale, last: Ögel Balaban}
   variants:
   - {first: Hale, last: Ogel}
@@ -10455,3 +10487,39 @@
   id: harshit-kumar
 - canonical: {first: Harshit, last: Kumar}
   id: harshit-kumar-iit
+- canonical: {first: Pedro, last: Ortiz Suarez}
+  variants:
+  - {first: Pedro Javier, last: Ortiz Suárez}
+- canonical: {first: Lucy Lu, last: Wang}
+  id: lucy-lu-wang
+  variants:
+  - {first: Lucy, last: Wang}
+  - {first: Lucy L., last: Wang}
+- canonical: {first: Huy, last: Nguyen}
+  comment: Stanford
+  id: huy-nguyen-stanford
+  variants:
+  - {first: Huy T, last: Nguyen}
+- canonical: {first: Huy, last: Nguyen}
+  comment: UPitt, Amazon
+  id: huy-nguyen-pgh
+  variants:
+  - {first: Huy Viet, last: Nguyen}
+- canonical: {first: Huy, last: Nguyen}
+  comment: BCL Technologies Inc.
+  id: huy-nguyen-bcl
+- canonical: {first: Huy, last: Nguyen}
+  comment: ex-liulishuo
+  id: huy-nguyen-lls
+- canonical: {first: Sabrina J., last: Mielke}
+  variants:
+  - {first: Sabrina, last: Mielke}
+- canonical: {first: Yongqi, last: Li}
+  comment: Wuhan University
+  id: yongqi-li-wuhan
+- canonical: {first: Yongqi, last: Li}
+  comment: The Hong Kong Polytechnic University
+  id: yongqi-li-hk
+- canonical: {first: Pablo, last: Ruiz Fabo}
+  variants:
+  - {first: Pablo, last: Ruiz}

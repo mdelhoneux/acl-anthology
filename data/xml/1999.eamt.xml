@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1999.eamt">
-  <volume id="1" ingest-date="2020-08-24">
+  <volume id="1" ingest-date="2020-08-24" type="proceedings">
     <meta>
       <booktitle>EAMT Workshop: EU and the new languages</booktitle>
       <publisher>European Association for Machine Translation</publisher>
       <address>Prague, Czech Republic</address>
       <month>April 22–23</month>
       <year>1999</year>
+      <venue>eamt</venue>
     </meta>
     <frontmatter>
       <url hash="65a412be">1999.eamt-1.0</url>

@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2006.iwslt">
-  <volume id="plenaries" ingest-date="2021-08-04">
+  <volume id="plenaries" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third International Workshop on Spoken Language Translation: Plenaries</booktitle>
       <address>Kyoto, Japan</address>
       <month>November 27-28</month>
       <year>2006</year>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>TC</fixed-case>-<fixed-case>STAR</fixed-case>: a speech to speech translation project</title>
@@ -20,12 +21,13 @@
       <bibkey>roukos-2006-rosetta</bibkey>
     </paper>
   </volume>
-  <volume id="evaluation" ingest-date="2021-08-04">
+  <volume id="evaluation" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third International Workshop on Spoken Language Translation: Evaluation Campaign</booktitle>
       <address>Kyoto, Japan</address>
       <month>November 27-28</month>
       <year>2006</year>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Overview of the <fixed-case>IWSLT</fixed-case>06 evaluation campaign</title>
@@ -236,12 +238,13 @@
       <bibkey>chen-etal-2006-xmu</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-08-04">
+  <volume id="papers" ingest-date="2021-08-04" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third International Workshop on Spoken Language Translation: Papers</booktitle>
       <address>Kyoto, Japan</address>
       <month>November 27-28</month>
       <year>2006</year>
+      <venue>iwslt</venue>
     </meta>
     <paper id="1">
       <title>Automatic sentence segmentation and punctuation prediction for spoken language translation</title>

@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="Y07">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 21st Pacific Asia Conference on Language, Information and Computation</booktitle>
       <publisher>The Korean Society for Language and Information (KSLI)</publisher>
       <address>Seoul National University, Seoul, Korea</address>
       <month>November</month>
       <year>2007</year>
+      <venue>paclic</venue>
     </meta>
     <frontmatter>
       <bibkey>paclic-2007-pacific</bibkey>

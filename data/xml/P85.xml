@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P85">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>23rd Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Chicago, Illinois, USA</address>
       <month>July</month>
       <year>1985</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="31506122">P85-1000</url>

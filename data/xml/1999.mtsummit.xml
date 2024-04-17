@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1999.mtsummit">
-  <volume id="1" ingest-date="2021-07-11">
+  <volume id="1" ingest-date="2021-07-11" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit VII</booktitle>
       <address>Singapore, Singapore</address>
       <month>September 13-17</month>
       <year>1999</year>
+      <venue>mtsummit</venue>
     </meta>
     <frontmatter>
       <url hash="a6dc6e8f">1999.mtsummit-1.0</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="U04">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Australasian Language Technology Workshop 2004</booktitle>
       <url hash="3ea4943e">U04-1</url>
@@ -10,6 +10,7 @@
       <address>Sydney, Australia</address>
       <month>December</month>
       <year>2004</year>
+      <venue>alta</venue>
     </meta>
     <frontmatter>
       <url hash="17c9a003">U04-1000</url>

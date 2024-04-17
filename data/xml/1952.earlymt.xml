@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1952.earlymt">
-  <volume id="1" ingest-date="2021-10-24">
+  <volume id="1" ingest-date="2021-10-24" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Conference on Mechanical Translation</booktitle>
       <address>Massachusetts Institute of Technology</address>
       <month>17-20 June</month>
       <year>1952</year>
+      <venue>earlymt</venue>
     </meta>
     <paper id="1">
       <title>Translation</title>

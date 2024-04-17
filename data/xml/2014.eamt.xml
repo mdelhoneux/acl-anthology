@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2014.eamt">
-  <volume id="1" ingest-date="2020-11-02">
+  <volume id="1" ingest-date="2020-11-02" type="proceedings">
     <meta>
-      <booktitle>Proceedings of the 17th Annual conference of the European Association for Machine Translation</booktitle>
+      <booktitle>Proceedings of the 17th Annual Conference of the European Association for Machine Translation</booktitle>
       <publisher>European Association for Machine Translation</publisher>
       <address>Dubrovnik, Croatia</address>
       <month>June 16-18</month>
@@ -11,6 +11,7 @@
       <editor><first>Marcello</first><last>Federico</last></editor>
       <editor><first>Lucia</first><last>Specia</last></editor>
       <editor><first>Andy</first><last>Way</last></editor>
+      <venue>eamt</venue>
     </meta>
     <frontmatter>
       <pages>ix–xi</pages>

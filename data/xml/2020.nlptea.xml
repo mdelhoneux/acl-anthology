@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.nlptea">
-  <volume id="1" ingest-date="2020-12-02">
+  <volume id="1" ingest-date="2020-12-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications</booktitle>
       <editor><first>Erhong</first><last>YANG</last></editor>
@@ -11,6 +11,7 @@
       <address>Suzhou, China</address>
       <month>December</month>
       <year>2020</year>
+      <venue>nlptea</venue>
     </meta>
     <frontmatter>
       <url hash="b5ddfc36">2020.nlptea-1.0</url>

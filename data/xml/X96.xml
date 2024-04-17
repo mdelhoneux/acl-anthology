@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="X96">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>TIPSTER TEXT PROGRAM PHASE II: Proceedings of a Workshop held at Vienna, Virginia, May 6-8, 1996</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Vienna, Virginia, USA</address>
       <month>May</month>
       <year>1996</year>
+      <venue>tipster</venue>
     </meta>
     <frontmatter>
       <url hash="106c2b92">X96-1000</url>

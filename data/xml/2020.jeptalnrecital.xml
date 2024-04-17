@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.jeptalnrecital">
-  <volume id="jep" ingest-date="2020-08-14">
+  <volume id="jep" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Volume 1 : Journées d'Études sur la Parole</booktitle>
       <editor><first>Christophe</first><last>Benzitoun</last></editor>
@@ -14,6 +14,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="008d3c52">2020.jeptalnrecital-jep.0</url>
@@ -537,15 +538,6 @@
       <language>fra</language>
       <bibkey>martin-etal-2020-detection-de</bibkey>
     </paper>
-    <paper id="47">
-      <title>(Article retiré à la demande des auteurs) ()</title>
-      <author><first/><last/></author>
-      <pages>415–423</pages>
-      <abstract/>
-      <url hash="fd17ac95">2020.jeptalnrecital-jep.47</url>
-      <language>fra</language>
-      <bibkey>-2020-article</bibkey>
-    </paper>
     <paper id="48">
       <title>Représentation phonologique des signes à deux mains en <fixed-case>LSF</fixed-case> : faut-il reconsidérer l’orientation absolue dans les modèles phonologiques des langues des signes ? (Phonological representation of 2-handed signs in <fixed-case>LSF</fixed-case> : reconsidering absolute orientation in the phonological models of sign language ?)</title>
       <author><first>Justine</first><last>Mertz</last></author>
@@ -862,7 +854,7 @@
       <bibkey>zhou-demolin-2020-perception</bibkey>
     </paper>
   </volume>
-  <volume id="taln" ingest-date="2020-08-14">
+  <volume id="taln" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Volume 2 : Traitement Automatique des Langues Naturelles</booktitle>
       <editor><first>Christophe</first><last>Benzitoun</last></editor>
@@ -876,6 +868,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="e51940a6">2020.jeptalnrecital-taln.0</url>
@@ -1301,7 +1294,7 @@
       <bibkey>zhai-etal-2020-la</bibkey>
     </paper>
   </volume>
-  <volume id="recital" ingest-date="2020-08-14">
+  <volume id="recital" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Volume 3 : Rencontre des Étudiants Chercheurs en Informatique pour le TAL</booktitle>
       <editor><first>Christophe</first><last>Benzitoun</last></editor>
@@ -1315,6 +1308,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="a808b5ea">2020.jeptalnrecital-recital.0</url>
@@ -1467,7 +1461,7 @@
       <bibkey>tanguy-2020-exploiter</bibkey>
     </paper>
   </volume>
-  <volume id="demos" ingest-date="2020-08-14">
+  <volume id="demos" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Volume 4 : Démonstrations et résumés d'articles internationaux</booktitle>
       <editor><first>Christophe</first><last>Benzitoun</last></editor>
@@ -1481,6 +1475,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="5d2fd7e4">2020.jeptalnrecital-demos.0</url>
@@ -1558,7 +1553,7 @@
       <author><first>Jonathan</first><last>Chevelu</last></author>
       <author><first>Sébastien</first><last>Le Maguer</last></author>
       <pages>22–25</pages>
-      <abstract>Nous présentons FlexEval, un outil de conception et déploiement de tests perceptifs multimédias sous la forme d’un site web léger. S’appuyant sur des technologies standards et ouvertes du web, notamment le framework Flask, FlexEval offre une grande souplesse de conception, des gages de pérennité, ainsi que le support de communautés actives d’utilisateurs. L’application est disponible en open-source via le dépôt Git https://gitlab.inria.fr/expression/tools/flexeval.</abstract>
+      <abstract>Nous présentons FlexEval, un outil de conception et déploiement de tests perceptifs multimédias sous la forme d’un site web léger. S’appuyant sur des technologies standards et ouvertes du web, notamment le framework Flask, FlexEval offre une grande souplesse de conception, des gages de pérennité, ainsi que le support de communautés actives d’utilisateurs. L’application est disponible en open-source via le dépôt Git <url>https://gitlab.inria.fr/expression/tools/flexeval</url>.</abstract>
       <url hash="7c88b397">2020.jeptalnrecital-demos.6</url>
       <language>fra</language>
       <bibkey>fayet-etal-2020-flexeval</bibkey>
@@ -1710,7 +1705,7 @@
       <bibkey>marzinotto-etal-2020-analyse-semantique</bibkey>
     </paper>
   </volume>
-  <volume id="deft" ingest-date="2020-08-14">
+  <volume id="deft" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). Atelier DÉfi Fouille de Textes</booktitle>
       <editor><first>Rémi</first><last>Cardon</last></editor>
@@ -1721,6 +1716,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="d80ecd5b">2020.jeptalnrecital-deft.0</url>
@@ -1861,7 +1857,7 @@
       <bibkey>wajsburt-etal-2020-participation</bibkey>
     </paper>
   </volume>
-  <volume id="eternal" ingest-date="2020-08-14">
+  <volume id="eternal" ingest-date="2020-08-14" type="proceedings">
     <meta>
       <booktitle>Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL)</booktitle>
       <editor><first>Gilles</first><last>Adda</last></editor>
@@ -1871,6 +1867,7 @@
       <address>Nancy, France</address>
       <month>6</month>
       <year>2020</year>
+      <venue>jeptalnrecital</venue>
     </meta>
     <frontmatter>
       <url hash="b4e371d7">2020.jeptalnrecital-eternal.0</url>

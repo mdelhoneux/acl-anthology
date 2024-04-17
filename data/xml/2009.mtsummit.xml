@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2009.mtsummit">
-  <volume id="plenaries" ingest-date="2021-08-02">
+  <volume id="plenaries" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Plenaries</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Deploying Novel <fixed-case>MT</fixed-case> Technology to Raise the Bar for Quality at Symantec: Key Advantages and Challenge</title>
@@ -113,12 +114,13 @@
       <bibkey>paul-etal-2009-portagelive</bibkey>
     </paper>
   </volume>
-  <volume id="papers" ingest-date="2021-08-02">
+  <volume id="papers" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Papers</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Source-side Dependency Tree Reordering Models with Subtree Movements and Constraints</title>
@@ -241,7 +243,7 @@
       <title>Lemmatic Machine Translation</title>
       <author><first>Stephen</first><last>Soderland</last></author>
       <author><first>Christopher</first><last>Lim</last></author>
-      <author><first>Mausam</first><last>Mausam</last></author>
+      <author><first/><last>Mausam</last></author>
       <author><first>Bo</first><last>Qin</last></author>
       <author><first>Oren</first><last>Etzioni</last></author>
       <author><first>Jonathan</first><last>Pool</last></author>
@@ -302,12 +304,13 @@
       <bibkey>zhu-etal-2009-inducing</bibkey>
     </paper>
   </volume>
-  <volume id="posters" ingest-date="2021-08-02">
+  <volume id="posters" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Posters</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Chained System: A Linear Combination of Different Types of Statistical Machine Translation Systems</title>
@@ -519,12 +522,13 @@
       <bibkey>zhang-bach-2009-virtual</bibkey>
     </paper>
   </volume>
-  <volume id="commercial" ingest-date="2021-08-02">
+  <volume id="commercial" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Commercial MT User Program</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>MT</fixed-case> Bazaar: Translation Ecosystems in the Cloud</title>
@@ -588,12 +592,13 @@
       <bibkey>wendt-lewis-2009-pushing</bibkey>
     </paper>
   </volume>
-  <volume id="government" ingest-date="2021-08-02">
+  <volume id="government" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Government MT User Program</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Application of Machine Translation System in <fixed-case>J</fixed-case>apan Patent Office</title>
@@ -655,12 +660,13 @@
       <bibkey>van-ess-dykema-etal-2009-translation</bibkey>
     </paper>
   </volume>
-  <volume id="tutorials" ingest-date="2021-08-02">
+  <volume id="tutorials" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit XII: Tutorials</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Introduction to Machine Translation</title>
@@ -702,12 +708,13 @@
       <bibkey>desilets-etal-2009-close</bibkey>
     </paper>
   </volume>
-  <volume id="caasl" ingest-date="2021-08-02">
+  <volume id="caasl" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third Workshop on Computational Approaches to Arabic-Script-based Languages (CAASL3)</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Investigations on <fixed-case>S</fixed-case>tandard <fixed-case>A</fixed-case>rabic Geographical Classification</title>
@@ -799,12 +806,13 @@
       <bibkey>mahesh-sinha-2009-developing</bibkey>
     </paper>
   </volume>
-  <volume id="wpt" ingest-date="2021-08-02">
+  <volume id="wpt" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Third Workshop on Patent Translation</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>Exploiting Patent Information for the Evaluation of Machine Translation</title>
@@ -912,12 +920,13 @@
       <bibkey>koehn-2009-panel</bibkey>
     </paper>
   </volume>
-  <volume id="btm" ingest-date="2021-08-02">
+  <volume id="btm" ingest-date="2021-08-02" type="proceedings">
     <meta>
       <booktitle>Beyond Translation Memories: New Tools for Translators Workshop</booktitle>
       <address>Ottawa, Canada</address>
       <month>August 26-30</month>
       <year>2009</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title><fixed-case>R</fixed-case>e<fixed-case>E</fixed-case>screve: a Translator-friendly Multi-purpose Paraphrasing Software Tool</title>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="D08">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing</booktitle>
       <url hash="2745e381">D08-1</url>
@@ -10,6 +10,7 @@
       <address>Honolulu, Hawaii</address>
       <month>October</month>
       <year>2008</year>
+      <venue>emnlp</venue>
     </meta>
     <frontmatter>
       <url hash="2bc011d7">D08-1000</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="W79">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the 2nd Nordic Conference of Computational Linguistics (<fixed-case>NODALIDA</fixed-case> 1979)</booktitle>
       <url hash="812ea39c">W79-01</url>
@@ -9,6 +9,7 @@
       <address>Copenhagen, Denmark</address>
       <month>October</month>
       <year>1979</year>
+      <venue>nodalida</venue>
     </meta>
     <frontmatter>
       <url hash="65f9ea2e">W79-0100</url>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="2020.rail">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the first workshop on Resources for African Indigenous Languages</booktitle>
       <editor><first>Rooweither</first><last>Mabuya</last></editor>
@@ -13,6 +13,7 @@
       <month>May</month>
       <year>2020</year>
       <isbn>979-10-95546-60-3</isbn>
+      <venue>rail</venue>
     </meta>
     <frontmatter>
       <url hash="22832a2e">2020.rail-1.0</url>

@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P95">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>33rd Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Cambridge, Massachusetts, USA</address>
       <month>June</month>
       <year>1995</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="982be7c4">P95-1000</url>

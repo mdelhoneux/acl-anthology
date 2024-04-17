@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P82">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>20th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Toronto, Ontario, Canada</address>
       <month>June</month>
       <year>1982</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="c6fc176e">P82-1000</url>

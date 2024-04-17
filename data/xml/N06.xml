@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="N06">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Human Language Technology Conference of the <fixed-case>NAACL</fixed-case>, Main Conference</booktitle>
       <url hash="cca0d79e">N06-1</url>
@@ -12,6 +12,7 @@
       <address>New York City, USA</address>
       <month>June</month>
       <year>2006</year>
+      <venue>naacl</venue>
     </meta>
     <frontmatter>
       <url hash="55e12f16">N06-1000</url>
@@ -564,7 +565,7 @@
       <bibkey>kurimo-etal-2006-unlimited</bibkey>
     </paper>
   </volume>
-  <volume id="2">
+  <volume id="2" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Human Language Technology Conference of the <fixed-case>NAACL</fixed-case>, Companion Volume: Short Papers</booktitle>
       <url hash="9db8f01a">N06-2</url>
@@ -576,6 +577,7 @@
       <address>New York City, USA</address>
       <month>June</month>
       <year>2006</year>
+      <venue>naacl</venue>
     </meta>
     <frontmatter>
       <url hash="bd6c93db">N06-2000</url>
@@ -1015,7 +1017,7 @@
       <bibkey>zollmann-etal-2006-bridging</bibkey>
     </paper>
   </volume>
-  <volume id="3">
+  <volume id="3" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Human Language Technology Conference of the <fixed-case>NAACL</fixed-case>, Companion Volume: Doctoral Consortium</booktitle>
       <url hash="74eac76c">N06-3</url>
@@ -1026,6 +1028,7 @@
       <address>New York City, USA</address>
       <month>June</month>
       <year>2006</year>
+      <venue>naacl</venue>
     </meta>
     <frontmatter>
       <url hash="99f8aab3">N06-3000</url>
@@ -1102,7 +1105,7 @@
       <bibkey>yuan-2006-supporting</bibkey>
     </paper>
   </volume>
-  <volume id="4">
+  <volume id="4" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Human Language Technology Conference of the <fixed-case>NAACL</fixed-case>, Companion Volume: Demonstrations</booktitle>
       <url hash="62a37b88">N06-4</url>
@@ -1113,6 +1116,7 @@
       <address>New York City, USA</address>
       <month>June</month>
       <year>2006</year>
+      <venue>naacl</venue>
     </meta>
     <frontmatter>
       <url hash="3ea1062d">N06-4000</url>
@@ -1145,7 +1149,7 @@
     <paper id="4">
       <title><fixed-case>MTTK</fixed-case>: An Alignment Toolkit for Statistical Machine Translation</title>
       <author><first>Yonggang</first><last>Deng</last></author>
-      <author><first>William</first><last>Byrne</last></author>
+      <author id="bill-byrne"><first>William</first><last>Byrne</last></author>
       <pages>265–268</pages>
       <url hash="ae63183a">N06-4004</url>
       <bibkey>deng-byrne-2006-mttk</bibkey>
@@ -1213,7 +1217,7 @@
       <bibkey>zweig-etal-2006-automated</bibkey>
     </paper>
   </volume>
-  <volume id="5">
+  <volume id="5" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Human Language Technology Conference of the <fixed-case>NAACL</fixed-case>, Companion Volume: Tutorial Abstracts</booktitle>
       <url hash="e22f2608">N06-5</url>
@@ -1224,6 +1228,7 @@
       <address>New York City, USA</address>
       <month>June</month>
       <year>2006</year>
+      <venue>naacl</venue>
     </meta>
     <frontmatter>
       <url hash="2af3b67b">N06-5000</url>

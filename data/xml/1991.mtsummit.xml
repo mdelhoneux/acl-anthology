@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1991.mtsummit">
-  <volume id="papers" ingest-date="2021-06-28">
+  <volume id="papers" ingest-date="2021-06-28" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit III: Papers</booktitle>
       <address>Washington DC, USA</address>
       <month>July 1-4</month>
       <year>1991</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>An Architecture Sketch of <fixed-case>E</fixed-case>urotra-<fixed-case>II</fixed-case></title>
@@ -191,12 +192,13 @@
       <bibkey>jain-etal-1991-connectionist</bibkey>
     </paper>
   </volume>
-  <volume id="panels" ingest-date="2021-06-30">
+  <volume id="panels" ingest-date="2021-06-30" type="proceedings">
     <meta>
       <booktitle>Proceedings of Machine Translation Summit III: Panels</booktitle>
       <address>Washington DC, USA</address>
       <month>July 1-4</month>
       <year>1991</year>
+      <venue>mtsummit</venue>
     </meta>
     <paper id="1">
       <title>The <fixed-case>MT</fixed-case> User Experience</title>

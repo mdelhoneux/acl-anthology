@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="S01">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Proceedings of <fixed-case>SENSEVAL</fixed-case>-2 Second International Workshop on Evaluating Word Sense Disambiguation Systems</booktitle>
       <url hash="64a96ece">S01-1</url>
@@ -10,6 +10,7 @@
       <address>Toulouse, France</address>
       <month>July</month>
       <year>2001</year>
+      <venue>semeval</venue>
     </meta>
     <frontmatter>
       <url hash="0dd4d140">S01-1000</url>

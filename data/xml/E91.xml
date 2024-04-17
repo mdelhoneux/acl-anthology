@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="E91">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>Fifth Conference of the <fixed-case>E</fixed-case>uropean Chapter of the Association for Computational Linguistics</booktitle>
       <editor><first>Jürgen</first><last>Kunze</last></editor>
@@ -9,6 +9,7 @@
       <address>Berlin, Germany</address>
       <month>April</month>
       <year>1991</year>
+      <venue>eacl</venue>
     </meta>
     <frontmatter>
       <url hash="2e53c6cf">E91-1000</url>

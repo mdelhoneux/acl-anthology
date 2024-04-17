@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="1993.tmi">
-  <volume id="1" ingest-date="2021-08-03">
+  <volume id="1" ingest-date="2021-08-03" type="proceedings">
     <meta>
       <booktitle>Proceedings of the Fifth Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages</booktitle>
       <address>Kyoto, Japan</address>
       <month>July 14-16</month>
       <year>1993</year>
+      <venue>tmi</venue>
     </meta>
     <paper id="1">
       <title>A Corpus-Based Statistics-Oriented Transfer and Generation Model for Machine Translation</title>

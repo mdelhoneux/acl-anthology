@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <collection id="P86">
-  <volume id="1">
+  <volume id="1" type="proceedings">
     <meta>
       <booktitle>24th Annual Meeting of the Association for Computational Linguistics</booktitle>
       <publisher>Association for Computational Linguistics</publisher>
       <address>New York, New York, USA</address>
       <month>July</month>
       <year>1986</year>
+      <venue>acl</venue>
     </meta>
     <frontmatter>
       <url hash="efb9ed80">P86-1000</url>
